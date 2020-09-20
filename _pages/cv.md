@@ -16,8 +16,8 @@ Education
 
 Work experience
 ======
-* Visiting Assistant Professor, University of Connecticut, 2016--2018
-* Postdoctoral researcher, University of Pennsylvania, 2018--present
+* Visiting Assistant Professor, University of Connecticut, 2016 -- 2018
+* Postdoctoral researcher, University of Pennsylvania, 2018 -- present
 
 Publications
 ======
@@ -37,6 +37,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Referee services
 ======
-* Currently signed in to 43 different slack teams
+* Annals of the Institute of Statistical Mathematics
+* Advances in Applied Probability
+* Communications in Statistics
+* Contemporary Clinical Trials Communications
+* Enviromental and Ecological Statistics
+* Journal of Applied Probability
+* Journal of Applied Statistics
+* Journal of Data Science
+* Methodology and Computing in Applied Probability
+* Probability in the Engineering and Informational Sciences
+* Random Structure and Algorithms
+* Statistics and Its Interface
+* Statistics and Probability Letters
