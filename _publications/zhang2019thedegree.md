@@ -6,7 +6,7 @@ excerpt: 'In this paper, we investigated the degree profile and the Gini index o
 date: 2018-12-27
 venue: 'Probability in the Engineering and Informational Sciences'
 paperurl: 'https://doi.org/10.1017/S0269964818000475'
-citation: 'Zhang, P. and Dey, D. K. (2020). &quot;The degree profile and Gini index of random caterpillar trees.&quot; <i>Probability in the Engineering and Informational Sciences</i>, <b>33</b>(4), 511--527.'
+citation: 'Zhang, P. and Dey, D. K. (2019). &quot;The degree profile and Gini index of random caterpillar trees.&quot; <i>Probability in the Engineering and Informational Sciences</i>, <b>33</b>(4), 511--527.'
 ---
 Add full discritpion here.
 
