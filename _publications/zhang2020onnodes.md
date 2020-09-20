@@ -2,7 +2,7 @@
 title: "On nodes of small degrees and degree profile in preferential dynamic attachment circuits"
 collection: publications
 permalink: /publication/zhang2020onnodes
-excerpt: 'In this paper, we investigated two properties of class of preferential attachment (PA) networks evolving in a dynamic manner: the joint distribution of nodes of small degrees and the degree profile. The primary methods for the analysis included martingale theory, Pólya urns and stochastic recurrences.'
+excerpt: 'In this paper, we investigated two properties of a class of preferential attachment (PA) networks evolving in a dynamic manner: the joint distribution of nodes of small degrees and the degree profile. The primary methods for the analysis included martingale theory, Pólya urns and stochastic recurrences.'
 date: 2020-05-28
 venue: 'Methodology and Computing in Applied Probability'
 paperurl: 'https://doi.org/10.1007/s11009-019-09726-4'
