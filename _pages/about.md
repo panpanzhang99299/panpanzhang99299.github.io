@@ -14,3 +14,7 @@ My biography
 ============
 
 I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest University](https://www.wfu.edu/) in 2012, and started my doctoral training in the [Department of Statistics](https://statistics.columbian.gwu.edu/) at the [George Washington University](https://www.gwu.edu/) in the same year. I got Ph.D. in Statistics in 2016. My dissertation was [On Properties of Several Random Networks](https://search-proquest-com.proxy.library.upenn.edu/docview/1778511395/fulltextPDF/85F5580422DB4BC5PQ/1?accountid=14707) under the supervision by Professor [Hosam M. Mahmoud](https://statistics.columbian.gwu.edu/hosam-m-mahmoud).
+
+Contact
+============
+[509A, 423 Guardian Drive (Bockley Hall), Philadelphia, PA 19104, U.S.A.] (https://goo.gl/maps/VSAuYHdaS41csYct9) 
