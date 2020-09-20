@@ -11,9 +11,9 @@ title                    : "Panpan Zhang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://panpanzhang99299.github.io/panpanzhang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://panpanzhang99299.github.io/panpanzhang.github.io/"
+repository               : "panpanzhang99299/panpanzhang.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Panpan Zhang"
-  avatar           : "PanpanZhang.jpg"
+  avatar           : "profile.png"
   bio              : "Brief biography"
   location         : "Philadelphia, PA"
   employer         : "University of Pennsylvania"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XMgB5OYAAAAJ&hl=en"
-  email            :
+  email            : "panpan.zhang@pennmedicine.upenn.edu"
   researchgate     : "https://www.researchgate.net/profile/Panpan_Zhang8"
   uri              :
   bitbucket        :
