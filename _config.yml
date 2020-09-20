@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Panpan Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Panpan Zhang"
 description              : &description "personal description"
 url                      : https://panpanzhang99299.github.io/panpanzhang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
