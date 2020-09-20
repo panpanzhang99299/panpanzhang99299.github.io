@@ -6,7 +6,7 @@ excerpt: 'In this paper, we studied a class of Pólya processes underlying termi
 date: 2016-04-08
 venue: 'Statistics & Probability Letters'
 paperurl: 'https://doi.org/10.1016/j.spl.2016.03.023'
-citation: 'Zhang, P. and Mahmoud, H. M. (2015). &quot;Distributions in a class of Poissonized urns with an application to Apollonian networks.&quot; <i>Statistics & Probability Letters</i>, <b>115</b>, 1--7.'
+citation: 'Zhang, P. and Mahmoud, H. M. (2016). &quot;Distributions in a class of Poissonized urns with an application to Apollonian networks.&quot; <i>Statistics & Probability Letters</i>, <b>115</b>, 1--7.'
 ---
 Add full discritpion here.
 
