@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My biography"
+title: "My personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-my basic information
+Welcome to Panpan Zhang's personal website.
 
-**Additional my bio**
+My biography
+============
+
+My basic information
