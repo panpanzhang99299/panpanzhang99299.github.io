@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Panpan Zhang's personal website. I am currently a postdoctoral researcher in the [Department of Biostatistics, Epidemiology and Informatics](https://www.dbei.med.upenn.edu/) (DBEI) at the [University of Pennsylvania](https://www.upenn.edu/) (PENN), under the supervision of Professor [Sharon X. Xie](https://www.dbei.med.upenn.edu/bio/sharon-xiangwen-xie-phd). Prior to join PENN, I was a Visiting Assistant Professor in the [Department of Statistics](https://stat.uconn.edu/) at the [University of Connecticut](https://uconn.edu/) from 2016 to 2018.
+Welcome to Panpan Zhang's personal website. I am currently a postdoctoral researcher in the [Department of Biostatistics, Epidemiology and Informatics](https://www.dbei.med.upenn.edu/) (DBEI) at the [Perelman School of Medicine](https://www.med.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/) (PENN), under the supervision of Professor [Sharon X. Xie](https://www.dbei.med.upenn.edu/bio/sharon-xiangwen-xie-phd). Prior to join PENN, I was a Visiting Assistant Professor in the [Department of Statistics](https://stat.uconn.edu/) at the [University of Connecticut](https://uconn.edu/) from 2016 to 2018.
 
 My biography
 ============
