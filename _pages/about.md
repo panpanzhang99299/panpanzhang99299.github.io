@@ -20,4 +20,8 @@ Contact
 * Address: 509A, 423 Guardian Drive (Bockley Hall), Philadelphia, PA 19104, U.S.A.
 * Email: panpan (dot) zhang (at) pennmedicine (dot) upenn (dot) edu
 
-**[Footprints](https://github.com/panpanzhang99299/panpanzhang.github.io/blob/master/talkmap/map.html)**
+**[Footprints](https://panpanzhang99299.github.io/panpanzhang.github.io//talkmap/map.html)**
+
+Acknowledgment
+-------------
+The creation of the personal website is based on the [template](https://github.com/academicpages) provided by Professor [Stuart Geiger](https://stuartgeiger.com/).
