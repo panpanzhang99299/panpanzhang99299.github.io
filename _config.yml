@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Panpan Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Panpan Zhang"
 description              : &description "personal description"
 url                      : https://panpanzhang99299.github.io/panpanzhang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Panpan Zhang"
-  avatar           : "https://github.com/panpanzhang99299/panpanzhang.github.io/blob/master/images/PanpanZhang.jpg"
-  bio              : "Brief biography"
+  avatar           : "PanpanZhang.jpg"
+  bio              : "Postdoctoral researcher at the University of Pennsylvania"
   location         : "Philadelphia, PA"
-  employer         : "University of Pennsylvania"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XMgB5OYAAAAJ&hl=en"
   email            : "panpan.zhang@pennmedicine.upenn.edu"
