@@ -17,4 +17,4 @@ I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest U
 
 Contact
 ============
-[509A, 423 Guardian Drive (Bockley Hall), Philadelphia, PA 19104, U.S.A.] (https://goo.gl/maps/VSAuYHdaS41csYct9) 
+<google_map>509A, 423 Guardian Drive (Bockley Hall), Philadelphia, PA 19104, U.S.A.</google_map> 
