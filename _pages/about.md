@@ -20,7 +20,7 @@ Contact
 * Address: 509A, 423 Guardian Drive (Bockley Hall), Philadelphia, PA 19104, U.S.A.
 * Email: panpan (dot) zhang (at) pennmedicine (dot) upenn (dot) edu
 
-**[Footprints](https://panpanzhang99299.github.io/panpanzhang.github.io//talkmap/map.html)**
+**[My footprints](https://panpanzhang99299.github.io/panpanzhang.github.io//talkmap/map.html)**
 
 Acknowledgment
 -------------
