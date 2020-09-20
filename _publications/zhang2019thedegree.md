@@ -2,14 +2,14 @@
 title: "The degree profile and Gini index of random caterpillar trees"
 collection: publications
 permalink: /publication/zhang2019thedegree
-excerpt: 'In this paper, we investigated two properties of a class of preferential attachment (PA) networks evolving in a dynamic manner: the joint distribution of nodes of small degrees and the degree profile. The primary methods for the analysis included martingale theory, Pólya urns and stochastic recurrences.'
-date: 2020-05-28
-venue: 'Methodology and Computing in Applied Probability'
-paperurl: 'https://doi.org/10.1007/s11009-019-09726-4'
-citation: 'Zhang, P. and Mahmoud, H. M. (2020). &quot;On nodes of small degrees and degree profile in preferential dynamic attachment circuits.&quot; <i>Methodology and Computing in Applied Probability</i>, <b>22</b>(2), 625--645.'
+excerpt: 'In this paper, we investigated the degree profile and the Gini index of two classes of random caterpillars evolving in different manners: uniform and preferential attachment (PA). The primariy method used in the analysis included stochastic recurrences, generalized Pólya urns and some combinatorial computing techniques.'
+date: 2018-12-27
+venue: 'Probability in the Engineering and Informational Sciences'
+paperurl: 'https://doi.org/10.1017/S0269964818000475'
+citation: 'Zhang, P. and Dey, D. K. (2020). &quot;The degree profile and Gini index of random caterpillar trees.&quot; <i>Probability in the Engineering and Informational Sciences</i>, <b>33</b>(4), 511--527.'
 ---
 Add full discritpion here.
 
-[Download paper here](https://doi.org/10.1007/s11009-019-09726-4)
+[Download paper here](https://doi.org/10.1017/S0269964818000475)
 
-[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4104007)
+[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4010508)
