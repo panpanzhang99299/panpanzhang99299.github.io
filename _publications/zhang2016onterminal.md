@@ -1,7 +1,7 @@
 ---
 title: "On terminal nodes and the degree profile of preferential dynamic attachment circuits"
 collection: publications
-permalink: /publication/zhang2016onnodes
+permalink: /publication/zhang2016onterminal
 excerpt: 'In this paper, we investigated terminal nodes and the degree profile in preferential dynamic attachment circuits. We showed that the number of terminal nodes followed a Gaussian law asymptotically. A generalized Pólya urn model was used to study the exact distribution of the degree of a specific node in the circuit.'
 date: 2016-01-11
 venue: 'Proceedings of the Thirteenth Workshop on Analytic Algorithmics and Combinatorics (ANALCO)'
