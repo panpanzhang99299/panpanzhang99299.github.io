@@ -6,7 +6,7 @@ excerpt: 'In this paper, we looked into investigated the degree profile of plane
 date: 2020-05-15
 venue: 'Probability in the Engineering and Informational Sciences'
 paperurl: 'https://doi.org/10.1017/S0269964820000261'
-citation: 'Zhang, P. (2020). &quot;On several properties of a class of preferential attachment trees---plane-oriented recursive trees.&quot; <i>Probability in the Engineering and Informational Sciences</i>.'
+citation: 'Zhang, P. (2020). &quot;On several properties of a class of preferential attachment trees---plane-oriented recursive trees.&quot; <i>Probability in the Engineering and Informational Sciences</i>, https://doi.org/10.1017/S0269964820000261.'
 ---
 Add full discritpion here.
 
