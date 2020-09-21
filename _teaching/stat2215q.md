@@ -8,7 +8,7 @@ date: 2018-01-16
 location: "Storrs, CT, U.S.A."
 ---
 
-[Introduction to Statistics I](https://catalog.uconn.edu/directory-of-courses/course/stat/#3000-level)
+[Course description](https://catalog.uconn.edu/directory-of-courses/course/stat/#3000-level)
 
 **Spring 2018**
 
