@@ -1,5 +1,5 @@
 ---
-title: "STAT 3375Q"
+title: "STAT 3375Q: Introduction to Mathematical Statistics I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/stat3375q
