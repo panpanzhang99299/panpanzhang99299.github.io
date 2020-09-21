@@ -1,0 +1,19 @@
+---
+title: "STAT 2215Q: Introduction to Statistics I"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/stat2215q
+venue: "University of Connecticut, Department of Statistics"
+date: 2018-01-16
+location: "Storrs, CT, U.S.A."
+---
+
+[Introduction to Statistics I](https://catalog.uconn.edu/directory-of-courses/course/stat/#3000-level)
+
+**Spring 2018**
+
+This cource introduces elementary statistical methods. Topics include but not limited to
+* analysis of variance, 
+* multiple regression, 
+* chi-square tests, 
+* non-parametric procedures.
