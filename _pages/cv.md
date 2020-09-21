@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Curriculum Vitae](https://panpanzhang99299.github.io/panpanzhang.github.io/files/CV_Panpan Zhang.pdf)
+------
 
 Education
 ======
