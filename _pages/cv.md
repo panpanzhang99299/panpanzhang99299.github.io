@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Curriculum Vitae]"
+title: "[Curriculum Vitae](https://panpanzhang99299.github.io/panpanzhang.github.io/files/CV_Panpan Zhang.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
