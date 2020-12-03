@@ -18,7 +18,7 @@ I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest U
 Contact
 ============
 * Address: 509A, 423 Guardian Drive (Bockley Hall), Philadelphia, PA 19104, U.S.A.
-* Email: panpan (dot) zhang (at) pennmedicine (dot) upenn (dot) edu
+* Email: [panpan (dot) zhang (at) pennmedicine (dot) upenn (dot) edu](mailto:panpan.zhang@pennmedicine.upenn.edu)
 
 **[My footprints](https://panpanzhang99299.github.io/panpanzhang.github.io//talkmap/map.html)**
 
