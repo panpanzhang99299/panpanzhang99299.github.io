@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae](https://panpanzhang99299.github.io/pzhang/files/)
+[Curriculum Vitae](https://panpanzhang99299.github.io/pzhang/files/CV_PanpanZhang.pdf)
 ------
 
 Education
