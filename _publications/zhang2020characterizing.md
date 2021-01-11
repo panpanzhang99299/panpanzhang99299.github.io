@@ -12,4 +12,4 @@ Add full discritpion here.
 
 [Download paper here](https://doi.org/10.1093/comnet/cnaa038)
 
-[Mathematical review](https://mathscinet.ams.org/mrlookup)
+[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4189631)
