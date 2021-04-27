@@ -15,6 +15,15 @@ My biography
 
 I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest University](https://www.wfu.edu/) in 2012, and started my doctoral training in the [Department of Statistics](https://statistics.columbian.gwu.edu/) at the [George Washington University](https://www.gwu.edu/) in the same year. I got Ph.D. in Statistics in 2016. My dissertation was [On Properties of Several Random Networks](https://search-proquest-com.proxy.library.upenn.edu/docview/1778511395/fulltextPDF/85F5580422DB4BC5PQ/1?accountid=14707) under the supervision by Professor [Hosam M. Mahmoud](https://statistics.columbian.gwu.edu/hosam-m-mahmoud).
 
+Services
+============
+
+I am an Associate Editor of [Journal of Data Science](https://jds-online.org/journal/JDS).
+
+Call for contributions
+-------------
+[Advances in Network Data Science](https://panpanzhang99299.github.io/pzhang/files/cfc-jds-netds.pdf)
+
 Contact
 ============
 * Address: 509A, 423 Guardian Drive (Bockley Hall), Philadelphia, PA 19104, U.S.A.
