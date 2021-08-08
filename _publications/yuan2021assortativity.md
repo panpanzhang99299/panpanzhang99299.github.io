@@ -11,7 +11,9 @@ paperurl: 'https://doi.org/10.1093/comnet/cnab017'
 citation: 'Yuan, Y., Yan, J. and Zhang, P. (2021). 
 &quot;Assortativity measures for weighted and directed networks.&quot; 
 <i>Journal of Complex Networks</i>, <b>9</b>(2), cnab017.'
+
 [BibTex](https://panpanzhang99299.github.io/pzhang/files/yuan2021assortativity.bib)
+
 ---
 Assortativity measures the tendency of a vertex in a network being connected by other vertexes with respect to some vertex-specific features. 
 Classical assortativity coefficients are defined for unweighted and undirected networks with respect to vertex degree. 

@@ -11,7 +11,9 @@ paperurl: 'https://doi.org/10.1016/j.physa.2021.126196'
 citation: 'Wang, T., Xiao, S., Yan, J. and Zhang, P. (2020). 
 &quot;Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input–output tables.&quot; 
 <i>Physica A: Statistical Mechanics and Its Applications</i>, <b>581</b>, 126196.'
+
 [BibTex](https://panpanzhang99299.github.io/pzhang/files/wang2021regional.bib)
+
 ---
 A multi-regional input–output table (MRIOT) containing the transactions among the region-sectors in an economy defines a weighted and directed network. 
 Using network analysis tools, we analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012. 
