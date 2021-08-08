@@ -12,7 +12,7 @@ excerpt: 'Assortativity measures the tendency of a vertex in a network being con
 date: 2021-04-28
 venue: 'Journal of Complex Networks'
 paperurl: 'https://doi.org/10.1093/comnet/cnab017'
-citation: 'Yuan, Y., Yan, J. and Zhang, P. (2021). &quot;Assortativity measures for weighted and directed networks.&quot; <i>Journal of Complex Networks</i>, https://doi.org/10.1093/comnet/cnab017.'
+citation: 'Yuan, Y., Yan, J. and Zhang, P. (2021). &quot;Assortativity measures for weighted and directed networks.&quot; <i>Journal of Complex Networks</i>, <b>9</b>, cnab017.'
 ---
 Add full discritpion here.
 
