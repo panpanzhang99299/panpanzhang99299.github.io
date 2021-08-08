@@ -13,4 +13,5 @@ citation: 'Wang, T., Xiao, S., Yan, J. and Zhang, P. (2020).
 Add full discritpion here.
 
 [Download paper here](https://doi.org/10.1016/j.physa.2021.126196)
+
 [BibTex](https://panpanzhang99299.github.io/pzhang/files/wang2021regional.bib)
