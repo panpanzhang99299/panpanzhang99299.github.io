@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.20)  28 JUN 2021 00:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.20)  30 AUG 2021 14:51
 entering extended mode
 **./CV_PanpanZhang.tex
 (CV_PanpanZhang.tex
@@ -629,57 +629,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 37.
-
-Overfull \hbox (3.33333pt too wide) detected at line 37
- [] 
- []
-
-[1
+ [1
 
 {C:/Users/zhpp1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
-Overfull \hbox (28.19171pt too wide) in paragraph at lines 164--168
-\OT1/cmr/m/n/10 weighted, di-rected net-works with ap-pli-ca-tions to World Inp
-ut-Output Ta-bles. [][]ArXiv:2104.02764[][]. 
- []
-
 [2
-
 
 
 
 ] [3
 
+
 ]
-Overfull \hbox (16.0204pt too wide) in paragraph at lines 249--250
+Overfull \hbox (16.0204pt too wide) in paragraph at lines 321--322
 []\OT1/cmr/m/n/10 Invited speaker at the 13$[]$ Work-shop on An-a-lytic Al-go-r
 ith-mics and Com-bi-na-torics (ANALCO
  []
 
 [4] [5] ) 
 Here is how much of TeX's memory you used:
- 18244 strings out of 479321
- 341709 string characters out of 2854639
- 614661 words of memory out of 3000000
- 35338 multiletter control sequences out of 15000+600000
- 408249 words of font info for 43 fonts, out of 8000000 for 9000
+ 18251 strings out of 479321
+ 341763 string characters out of 2854639
+ 614664 words of memory out of 3000000
+ 35339 multiletter control sequences out of 15000+600000
+ 408557 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,10n,116p,413b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 113i,10n,116p,413b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\zhpp1\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
 dpi600\tcrm1000.pk><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx10.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/zhpp1/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/zhpp1/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Use
-rs/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/zhpp1/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/User
+s/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
 .pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmr7.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmti10.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV_PanpanZhang.pdf (5 pages, 156827 bytes).
+nts/cm/cmr10.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr7.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/zhpp1/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on CV_PanpanZhang.pdf (5 pages, 172420 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
- 80 named destinations out of 1000 (max. 500000)
+ 210 PDF objects out of 1000 (max. 8388607)
+ 85 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
