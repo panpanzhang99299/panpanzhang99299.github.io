@@ -18,7 +18,7 @@ I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest U
 Services
 ============
 
-I am an Associate Editor of [Journal of Data Science](https://jds-online.org/journal/JDS).
+I am an Associate Editor of [Journal of Data Science](https://jds-online.org/journal/JDS) (Since 2020).
 
 Call for contributions
 -------------
