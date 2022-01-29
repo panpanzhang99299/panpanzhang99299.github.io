@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.9.9)  7 OCT 2021 15:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.9.9)  17 JAN 2022 19:58
 entering extended mode
 **./CV_PanpanZhang.tex
 (CV_PanpanZhang.tex
@@ -626,51 +626,46 @@ ys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 38.
+(Font)              <7> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
+(Font)              <5> on input line 39.
  [1
 
-{C:/Users/zhpp1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-]
+{C:/Users/zhpp1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 [2
-
 
 ] [3
 
 
 
-]
-Overfull \hbox (16.0204pt too wide) in paragraph at lines 324--325
-[]\OT1/cmr/m/n/10 Invited speaker at the 13$[]$ Work-shop on An-a-lytic Al-go-r
-ith-mics and Com-bi-na-torics (ANALCO
- []
 
-[4] [5] ) 
+] [4
+
+] [5] [6] ) 
 Here is how much of TeX's memory you used:
- 18251 strings out of 479321
- 341763 string characters out of 2854640
- 614556 words of memory out of 3000000
- 35339 multiletter control sequences out of 15000+600000
+ 18260 strings out of 479321
+ 341826 string characters out of 2854640
+ 616556 words of memory out of 3000000
+ 35340 multiletter control sequences out of 15000+600000
  408557 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,8n,116p,413b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\zhpp1\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
-dpi600\tcrm1000.pk><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmbx10.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/zhpp1/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/zhpp1/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/User
-s/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr7.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/zhpp1/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV_PanpanZhang.pdf (5 pages, 174366 bytes).
+ 113i,8n,116p,413b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\zhpp1\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/e
+c/dpi600\tcrm1000.pk><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/zhpp1/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/zhpp1/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Us
+ers/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
+10.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr7.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/zhpp1/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/zhpp1/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on CV_PanpanZhang.pdf (6 pages, 188030 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 500000)
+ 235 PDF objects out of 1000 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
