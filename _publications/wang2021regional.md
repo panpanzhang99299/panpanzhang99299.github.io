@@ -1,5 +1,5 @@
 ---
-title: "Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input–output tables"
+title: "Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables"
 collection: publications
 permalink: /publication/wang2021regional
 excerpt: 'In this paper, we utilize network analysis tools to analyze the regional and sectoral structure of the Chinese economy 
