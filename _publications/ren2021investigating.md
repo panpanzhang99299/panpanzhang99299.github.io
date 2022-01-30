@@ -2,7 +2,7 @@
 title: "Investigating several fundamental properties of random lobster trees and random spider trees"
 collection: publications
 permalink: /publication/ren2021investigating
-excerpt: 'In this paper, we uncover the structures of random lobster and spider trees. Specifically, we consider the random lobster trees that
+excerpt: 'In this paper, we uncover the structures of random lobster and spider trees. Specifically, we investigate the random lobster trees that
 grow in two different manners. For random spider trees, we characterize the asymptotic distriubtion of the number of leaves as well as two kinds
 of topological indices.'
 date: 2021-04-26

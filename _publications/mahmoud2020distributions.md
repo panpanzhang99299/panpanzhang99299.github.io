@@ -3,8 +3,8 @@ title: "Distributions in the constant-differentials Pólya process"
 collection: publications
 permalink: /publication/mahmoud2020distributions
 excerpt: 'In this paper, we study a class of unbalanced constant-differentials Pólya processes on two colors. 
-We show that the asymptotic distribution of the variable of interest depned on the diferential index, but not on the initial conditions. 
-The result is obtained by an analytic approach utilizing partial differential equations.'
+We show that the asymptotic distribution of the number of white (blue) balls depneds on the diferential index, 
+but not on the initial conditions. The result is obtained by an analytic approach utilizing partial differential equations.'
 date: 2019-08-19
 venue: 'Statistics & Probability Letters'
 paperurl: 'https://doi.org/10.1016/j.spl.2019.108592'

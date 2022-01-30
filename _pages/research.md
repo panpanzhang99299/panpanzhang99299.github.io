@@ -20,5 +20,5 @@ Collaborative research
 ====================
 I have engaged in a variety of research projects, in collaboration with the faculty members and medical professionals from
 * Center for Neurodegenerative Disease Research ([CNDR](https://www.med.upenn.edu/cndr/))
-* Penn Frontotemporal Degeneration Center ([PENN FTD Center](https://www.med.upenn.edu/ftd/))
+* Penn Frontotemporal Degeneration Center ([Penn FTD Center](https://www.med.upenn.edu/ftd/))
 * [Penn Memory Center](https://pennmemorycenter.org/)

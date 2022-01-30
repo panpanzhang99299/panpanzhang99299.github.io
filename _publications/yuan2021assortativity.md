@@ -3,7 +3,7 @@ title: "Assortativity measures for weighted and directed networks"
 collection: publications
 permalink: /publication/yuan2021assortativity
 excerpt: 'In this paper, we propose a class of assortativity measures for weighted, directed networks. Through simulation studies and applications to World
-Input-Output Tables, we find that the proposed measures outperform the classical ones without accounting for edge weights and directions. The implementation 
+Input-Output Tables, we find that the proposed measures outperform the classical counterparts without accounting for edge weights and directions. The implementation 
 of the proposed measures is is publicly available in a <i>R<i> package <i>wdnet<i>.'
 date: 2021-05-27
 venue: 'Journal of Complex Networks'
