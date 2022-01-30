@@ -8,7 +8,7 @@ outperforms classical PageRank.'
 date: 2021-09-22
 venue: 'Physica A: Statistical Mechanics and its Applications'
 paperurl: 'https://doi.org/10.1016/j.physa.2021.126438'
-citation: 'Zhang, P., Wang, T. and Yan, J. (2020). 
+citation: 'Zhang, P., Wang, T. and Yan, J. (2022). 
 &quot;PageRank centrality and algorithms for weighted, directed networks.&quot; 
 <i>Physica A: Statistical Mechanics and its Applications</i>, <b>586</b>, 126438.'
 ---
