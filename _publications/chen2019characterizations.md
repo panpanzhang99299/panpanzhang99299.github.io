@@ -11,7 +11,11 @@ paperurl: 'https://doi.org/10.1080/03610926.2018.1510005'
 citation: 'Chen, C. and Zhang, P. (2019). &quot;Characterizations of asymptotic distributions of continuous-time Pólya processes.&quot; 
 <i>Communications in Statistics---Theory and Methods</i>, <b>48</b>(21), 5308--5321.'
 ---
-Add full discritpion here.
+We propose an elementary but effective approach to studying a general class of Poissonized tenable and balanced urns on two colors. 
+We characterize the asymptotic behavior of the process via a partial differential equation that governs the process, 
+coupled with the method of moments applied in a bootstrapped manner. We show that the limiting distribution of the process 
+underlying the Bagchi-Pal urn is gamma. We also look into the tenable and balanced processes associated with randomized replacement matrix. 
+Similar results carry over to the process, with minor modifications in the methods of proof, done mutatis mutandis.
 
 [BibTex](https://panpanzhang99299.github.io/pzhang/files/chen2019characterizations.bib)
 
