@@ -3,7 +3,7 @@ title: "On Terminal Nodes and the Degree Profile of Preferential Dynamic Attachm
 collection: talks
 type: "conference presentation"
 permalink: /talks/analco2016
-venue: "Meeting on Analytic Algorithmics and Combinatorics (ANALCO) 2016"
+venue: "The Meeting on Analytic Algorithmics and Combinatorics (ANALCO) 2016"
 date: 2016-01-11
 location: "Arlington, VA, U.S.A."
 ---

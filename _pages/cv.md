@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 * M.A. in Mathematics, Wake Forest University, 2012
-* Ph.D. in Statistics, The George Washington University, 2016
+* Ph.D. in Statistics, George Washington University, 2016
 
 Work experience
 ======
