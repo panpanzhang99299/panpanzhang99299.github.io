@@ -22,6 +22,6 @@ Additionally, we apply the proposed WPR to the real network data generated from 
 Tables as an example, and have seen the results that are consistent with the global economic trends, 
 which renders it a preferred measure in the analysis.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/zhang2022pagerank.bib)
+[BibTex](https://panpanzhang99299.github.io/files/zhang2022pagerank.bib)
 
 [Download paper here](https://doi.org/10.1016/j.physa.2021.126438)

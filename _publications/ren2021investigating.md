@@ -18,6 +18,6 @@ semi-opposite reinforcement. For these two classes, we characterize the structur
 In addition, we look into a class of RSTs that evolve in a preferential attachment manner. We characterize the structure of RSTs by determining 
 the exact and asymptotic distributions of the number of leaves, and by computing two kinds of topological indices.'
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/ren2021investigating.bib)
+[BibTex](https://panpanzhang99299.github.io/files/ren2021investigating.bib)
 
 [Download paper here](https://doi.org/10.1007/s11009-021-09863-9)

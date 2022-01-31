@@ -17,7 +17,7 @@ in both purely spatial and spatio temporal frameworks. Computation of graph-stru
 and usually leads to NP-hard problems. We also review several popular convex approximation algorithms for computing scan statistics 
 in this article.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/zhang2018scan.bib)
+[BibTex](https://panpanzhang99299.github.io/files/zhang2018scan.bib)
 
 [Download paper here](https://doi.org/10.1007/978-1-4614-8414-1_43-1)
 

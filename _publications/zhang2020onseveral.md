@@ -19,7 +19,7 @@ topological index, Zagreb index, of this class of trees. We calculate the exact 
 recurrence methods. Lastly, we determine the limiting degree distribution in PORTs that grow in continuous time, where the embedding is 
 done in a Poissonization framework. We show that it is exponential after proper scaling.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/zhang2020onseveral.bib)
+[BibTex](https://panpanzhang99299.github.io/files/zhang2020onseveral.bib)
 
 [Download paper here](https://doi.org/10.1017/S0269964820000261)
 

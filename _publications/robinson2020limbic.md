@@ -38,6 +38,6 @@ included, the overall accuracy for identifying LATE-NC was estimated at >98% for
 died younger than those with LATE-NC (P < 0.0001). We conclude that in most cases, severe LATE-NC and FTLD-TDP can be differentiated by 
 applying simple neuropathological criteria.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/robinson2020limbic.bib)
+[BibTex](https://panpanzhang99299.github.io/files/robinson2020limbic.bib)
 
 [Download paper here](https://doi.org/10.1093/brain/awaa219)

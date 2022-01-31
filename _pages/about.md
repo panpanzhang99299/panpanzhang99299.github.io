@@ -22,7 +22,7 @@ I am an Associate Editor of [Journal of Data Science](https://jds-online.org/jou
 
 Call for contributions
 -------------
-[Advances in Network Data Science](https://panpanzhang99299.github.io/pzhang/files/cfc-jds-netds.pdf)
+[Advances in Network Data Science](https://panpanzhang99299.github.io/files/cfc-jds-netds.pdf)
 
 Contact
 ============

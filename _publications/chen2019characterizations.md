@@ -17,7 +17,7 @@ coupled with the method of moments applied in a bootstrapped manner. We show tha
 underlying the Bagchi-Pal urn is gamma. We also look into the tenable and balanced processes associated with randomized replacement matrix. 
 Similar results carry over to the process, with minor modifications in the methods of proof, done mutatis mutandis.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/chen2019characterizations.bib)
+[BibTex](https://panpanzhang99299.github.io/files/chen2019characterizations.bib)
 
 [Download paper here](https://doi.org/10.1080/03610926.2018.1510005)
 

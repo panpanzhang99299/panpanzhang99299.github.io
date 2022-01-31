@@ -20,7 +20,7 @@ The effectiveness of the proposed measure is assessed through extensive simulati
 assortativity measures. In application to World Input-Ouput Networks, the new measures reveal interesting insights that would not be obtained by using 
 existing ones. An implementation is publicly available in a <i>R<i> package <i>wdnet<i>.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/yuan2021assortativity.bib)
+[BibTex](https://panpanzhang99299.github.io/files/yuan2021assortativity.bib)
 
 [Download paper here](https://doi.org/10.1093/comnet/cnab017)
 

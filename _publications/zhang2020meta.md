@@ -17,6 +17,6 @@ the incubation period, the serial interval and the epidemic doubling time.
 We collect relevant studies based on the COVID-19 data in China and conduct a meta-analysis to obtain pooled estimates on the four metrics. 
 From the summary results, we conclude that the COVID-19 has stronger transmissibility than SARS, implying that stringent public health strategies are necessary.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/zhang2020meta.bib)
+[BibTex](https://panpanzhang99299.github.io/files/zhang2020meta.bib)
 
 [Download paper here](https://doi.org/10.6339/JDS.202007_18(3).0019)

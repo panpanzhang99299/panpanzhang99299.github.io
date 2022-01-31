@@ -25,7 +25,7 @@ The methods used in most of these investigations are quite sophisticated.
 In this note, we characterize the exact moments via an elementary approach. 
 The formulas for the exact moments include Stirling’s numbers of second kind and the asymptotic moments follow effortlessly.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/zhang2015explicit.bib)
+[BibTex](https://panpanzhang99299.github.io/files/zhang2015explicit.bib)
 
 [Download paper here](https://doi.org/10.1016/j.spl.2014.09.016)
 

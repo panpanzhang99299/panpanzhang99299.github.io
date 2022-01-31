@@ -14,7 +14,7 @@ The expectation and variance of the number of terminal nodes are both linear wit
 The exact expectation and variance of the degree of a node are determined via a series of Pólya-Eggenberger urn models with "hiccups" in between 
 and recurrence methods. Phase transitions of these degrees are discussed briefly.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/zhang2016onterminal.bib)
+[BibTex](https://panpanzhang99299.github.io/files/zhang2016onterminal.bib)
 
 [Download paper here](https://doi.org/10.1137/1.9781611974324.9)
 

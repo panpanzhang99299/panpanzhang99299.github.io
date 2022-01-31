@@ -22,7 +22,7 @@ The community heterogeneity across the regions was high and the regional fragmen
 Quantified metrics assessing the relative importance of the province-sectors in the national economy echo the national and regional economic development policies 
 to a certain extent.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/wang2021regional.bib)
+[BibTex](https://panpanzhang99299.github.io/files/wang2021regional.bib)
 
 [Download paper here](https://doi.org/10.1016/j.physa.2021.126196)
 

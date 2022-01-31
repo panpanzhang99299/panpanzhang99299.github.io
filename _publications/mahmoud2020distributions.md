@@ -19,7 +19,7 @@ and the amount of ball addition at the epochs, but not on the initial conditions
 The result is obtained by an analytic approach utilizing partial differential equations. 
 We present a martingale formulation that may provide alternatives.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/mahmoud2020distributions.bib)
+[BibTex](https://panpanzhang99299.github.io/files/mahmoud2020distributions.bib)
 
 [Download paper here](https://doi.org/10.1016/j.spl.2019.108592)
 

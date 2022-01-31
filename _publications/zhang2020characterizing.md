@@ -17,7 +17,7 @@ analytic combinatorics and Pólya urns, etc. The small-world property is uncover
 and the sparsity is assessed by a proposed Gini index. Finally, we look into three distance-based properties; they are total depth, diameter 
 and Wiener index.
 
-[BibTex](https://panpanzhang99299.github.io/pzhang/files/zhang2020characterizing.bib)
+[BibTex](https://panpanzhang99299.github.io/files/zhang2020characterizing.bib)
 
 [Download paper here](https://doi.org/10.1093/comnet/cnaa038)
 
