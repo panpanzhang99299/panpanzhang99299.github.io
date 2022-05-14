@@ -20,12 +20,8 @@ Services
 
 I am an Associate Editor of [Journal of Data Science](https://jds-online.org/journal/JDS) (Since 2020).
 
-Call for contributions
--------------
-[Advances in Network Data Science](https://panpanzhang99299.github.io/files/cfc-jds-netds.pdf)
-
 News
-======
+============
 * Our application paper "Appropriateness of Applying Cerebrospinal Fluid Biomarker Cutoffs from Alzheimer’s Disease to Parkinson’s Disease" has been accepted for publication on <i>Journal of Parkinson’s Disease</i>. The preprint is available at [link](https://doi.org/10.3233/JPD-212989). 
 
 Contact
