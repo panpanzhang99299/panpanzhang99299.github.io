@@ -26,8 +26,8 @@ Call for contributions
 
 News
 ======
-  <ul>{% for post in site.posts %}
-    {% include archive-single-talk-main.html %}
+  <ul>{% for post in site.year-archive %}
+    {% include archive-single-talk-about.html %}
   {% endfor %}</ul>
 
 Contact
