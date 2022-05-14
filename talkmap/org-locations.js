@@ -27,7 +27,7 @@ var addressPoints = [
   ],
   
   [
-    "Sydney, NSW, AUS",
+    "Sydney, NSW, AU",
     -33.8688,
     151.2093
   ],
@@ -36,5 +36,11 @@ var addressPoints = [
     "Nashville, TN, USA",
     36.1627,
     -86.7816
-  ]
+  ],
+  
+   [
+    "Budapest, HU",
+    47.4979,
+    19.0402
+  ],
 ];
