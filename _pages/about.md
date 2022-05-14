@@ -24,6 +24,12 @@ Call for contributions
 -------------
 [Advances in Network Data Science](https://panpanzhang99299.github.io/files/cfc-jds-netds.pdf)
 
+News
+======
+  <ul>{% for post in site.posts %}
+    {% include archive-single-talk-main.html %}
+  {% endfor %}</ul>
+
 Contact
 ============
 * Address: 509A, 423 Guardian Drive (Bockley Hall), Philadelphia, PA 19104, U.S.A.
