@@ -26,9 +26,7 @@ Call for contributions
 
 News
 ======
-  <ul>{% for post in site.year-archive %}
-    {% include archive-single-talk-about.html %}
-  {% endfor %}</ul>
+* Our application paper "Appropriateness of Applying Cerebrospinal Fluid Biomarker Cutoffs from Alzheimer’s Disease to Parkinson’s Disease" has been accepted for publication on <i>Journal of Parkinson’s Disease<\i>. The preprint is available at [link](https://doi.org/10.3233/JPD-212989). 
 
 Contact
 ============
