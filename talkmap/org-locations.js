@@ -24,5 +24,17 @@ var addressPoints = [
     "Shanghai, PRC",
     31.2304,
     121.4737
+  ],
+  
+  [
+    "Sydney, NSW, AUS",
+    33.8688,
+    151.2093
+  ],
+  
+  [
+    "Nashville, TN, USA",
+    36.1627,
+    86.7816
   ]
 ];
