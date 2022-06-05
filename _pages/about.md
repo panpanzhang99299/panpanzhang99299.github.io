@@ -22,6 +22,7 @@ I am an Associate Editor of [Journal of Data Science](https://jds-online.org/jou
 
 News
 ============
+* Our project "Robust Methods for Missing Covariates in Longitudinal Studies with Application to Biomarker Research in Parkinson’s Disease Dementia" has been accepted for publication and presentation at the <i>International Congress of Parkinson's Disease and Movement Disorders</i> in Madrid, Spain from September 15 to 18, 2022.
 * Our application paper "Appropriateness of Applying Cerebrospinal Fluid Biomarker Cutoffs from Alzheimer’s Disease to Parkinson’s Disease" has been accepted for publication on <i>Journal of Parkinson’s Disease</i>, <b>12</b>(4), 1155--1167. The paper is available at [link](https://doi.org/10.3233/JPD-212989). 
 
 [More News](https://panpan-zhang.com/year-archive/)
