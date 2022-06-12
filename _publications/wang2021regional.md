@@ -8,7 +8,7 @@ to uncover a few interesting and telling insights.'
 date: 2021-06-22
 venue: 'Physica A: Statistical Mechanics and its Applications'
 paperurl: 'https://doi.org/10.1016/j.physa.2021.126196'
-citation: 'Wang, T., Xiao, S., Yan, J. and Zhang, P. (2020). 
+citation: 'Wang, T., Xiao, S., Yan, J. and Zhang, P. (2021). 
 &quot;Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input–output tables.&quot; 
 <i>Physica A: Statistical Mechanics and its Applications</i>, <b>581</b>, 126196.'
 ---
