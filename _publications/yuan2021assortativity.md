@@ -18,7 +18,7 @@ We propose a class of assortativity coefficients that capture the assortative ch
 The vertex-to-vertex strength correlation is used as an example, but the proposed measure can be applied to any pair of vertex-specific features. 
 The effectiveness of the proposed measure is assessed through extensive simulations based on prevalent random network models in comparison with existing 
 assortativity measures. In application to World Input-Ouput Networks, the new measures reveal interesting insights that would not be obtained by using 
-existing ones. An implementation is publicly available in a <i>R<i> package <i>wdnet<i>.
+existing ones. An implementation is publicly available in a R package <i>wdnet<i>.
 
 [BibTex](https://panpanzhang99299.github.io/files/yuan2021assortativity.bib)
 
