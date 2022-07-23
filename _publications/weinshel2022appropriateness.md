@@ -6,9 +6,9 @@ excerpt: 'To be added.'
 date: 2022-05-24
 venue: 'Journal of Classification'
 paperurl: 'https://doi.org/10.1007/s00357-019-9310-5'
-citation: 'Weinshel, S., Irwin, D. J., Zhang, P., Weintraub, D., Shaw, L. M., Siderowf, A. and Xie, S. X. (2022). 
+citation: "Weinshel, S., Irwin, D. J., Zhang, P., Weintraub, D., Shaw, L. M., Siderowf, A. and Xie, S. X. (2022). 
 &quot;Appropriateness of applying cerebrospinal fluid biomarker cutoffs from Alzheimer's disease to Parkinson's disease.&quot; 
-<i>Journal of Parkinson's Disease</i>, <b>12</b>(4), 1155--1167.'
+<i>Journal of Parkinson's Disease</i>, <b>12</b>(4), 1155--1167."
 ---
 Add full discription here.
 
