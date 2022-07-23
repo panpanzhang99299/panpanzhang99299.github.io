@@ -1,10 +1,8 @@
 ---
 title: "Appropriateness of applying cerebrospinal fluid biomarker cutoffs from Alzheimer’s disease to Parkinson’s disease"
 collection: publications
-permalink: /publication/chen2019characterizations
-excerpt: 'In this paper, we study a general class of poissonized (tenable and balanced) urns. 
-We characterize the asymptotic behavior of the processes by solving a partial differential equation governing the processes. 
-We also conduct an analogous analysis of a class of processes associated with randomized replacement matrix.'
+permalink: /publication/weinshel2022appropriateness
+excerpt: 'We will add this later.'
 date: 2018-11-11
 venue: 'Communications in Statistics---Theory and Methods'
 paperurl: 'https://doi.org/10.1080/03610926.2018.1510005'
