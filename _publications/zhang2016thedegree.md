@@ -1,7 +1,7 @@
 ---
 title: "The degree profile and weight in Apollonian networks and k-trees"
 collection: publications
-permalink: /publication/zhang2016thedegree
+permalink: /publications/zhang2016thedegree
 excerpt: 'In this paper, we investigated two properties of high-dimensional random Apollonian networks (RANs): the degree profile and a novel topological index called total weight. The primary methods for the analysis included martingale theory, Pólya urns and stochastic recurrences.'
 date: 2016-03-24
 venue: 'Advances in Applied Probability'
