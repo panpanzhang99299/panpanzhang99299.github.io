@@ -1,5 +1,5 @@
 ---
-title: "Characterizations of asymptotic distributions of continuous-time Pólya processes"
+title: "Appropriateness of applying cerebrospinal fluid biomarker cutoffs from Alzheimer’s disease to Parkinson’s disease"
 collection: publications
 permalink: /publication/chen2019characterizations
 excerpt: 'In this paper, we study a general class of poissonized (tenable and balanced) urns. 
