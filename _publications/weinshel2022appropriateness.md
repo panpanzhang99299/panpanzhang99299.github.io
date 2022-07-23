@@ -14,24 +14,7 @@ citation: 'Weinshel, S., Irwin, D. J., Zhang, P., Weintraub, D., Shaw, L. M., Si
 &quot;Appropriateness of applying cerebrospinal fluid biomarker cutoffs from Alzheimer's disease to Parkinson's disease.&quot; 
 <i>Journal of Parkinson's Disease</i>, <b>12</b>(4), 1155--1167.'
 ---
-Background: While cutoffs for abnormal levels of the cerebrospinal fluid (CSF) biomarkers amyloid-β 1-42 (Aβ142), total tau (t-tau), 
-phosphorylated tau (p-tau), and the ratios of t-tau/Aβ142 and p-tau/Aβ142, have been established in Alzheimer’s disease (AD), biologically 
-relevant cutoffs have not been studied extensively in Parkinson’s disease (PD). 
-
-Objective: Assess the suitability and diagnostic accuracy of established AD-derived CSF biomarker cutoffs in the PD population. 
-
-Methods:Baseline and longitudinal data on CSF biomarkers, cognitive diagnoses, and PET amyloid imaging in 423 newly diagnosed patients with 
-PD from the Parkinson’s Progression Markers Initiative (PPMI) cohort were used to evaluate established AD biomarker cutoffs compared with 
-optimal cutoffs derived from the PPMI cohort. 
-
-Results:Using PET amyloid imaging as the gold standard for AD pathology, the optimal cutoff of Aβ142 was higher than the AD cutoff, the 
-optimal cutoffs of t-tau/Aβ142 and p-tau/Aβ142 were lower than the AD cutoffs, and their confidence intervals (CIs) did not overlap with 
-the AD cutoffs. Optimal cutoffs for t-tau and p-tau to predict cognitive impairment were significantly lower than the AD cutoffs, and 
-their CIs did not overlap with the AD cutoffs. 
-
-Conclusion: Optimal cutoffs for the PPMI cohort for Aβ142, t-tau/Aβ142, and p-tau/Aβ142 to predict amyloid-PET positivity and for t-tau and 
-p-tau to predict cognitive impairment differ significantly from cutoffs derived from AD populations. The presence of additional pathologies
-such as alpha-synuclein in PD may lead to disease-specific CSF biomarker characteristics.
+Add full discription
 
 [BibTex](https://panpanzhang99299.github.io/files/weinshel2022appropriateness.bib)
 
