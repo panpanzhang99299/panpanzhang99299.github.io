@@ -1,14 +1,15 @@
 ---
-title: "Appropriateness of applying cerebrospinal fluid biomarker cutoffs from Alzheimer’s disease to Parkinson’s disease"
+title: "Characterizations of asymptotic distributions of continuous-time Pólya processes"
 collection: publications
-permalink: /publication/weinshel2022appropriateness
-excerpt: 'To be added'
-date: 2022-05-24
-venue: 'Journal of Parkinson's Disease'
-paperurl: 'https://doi.org/10.3233/JPD-212989'
-citation: 'Weinshel, S., Irwin, D. J., Zhang, P., Weintraub, D., Shaw, L. M., Siderowf, A. and Xie, S. X. (2022). 
-&quot;Appropriateness of applying cerebrospinal fluid biomarker cutoffs from Alzheimer's disease to Parkinson's disease.&quot; 
-<i>Journal of Parkinson's Disease</i>, <b>12</b>(4), 1155--1167.'
+permalink: /publication/chen2019characterizations
+excerpt: 'In this paper, we study a general class of poissonized (tenable and balanced) urns. 
+We characterize the asymptotic behavior of the processes by solving a partial differential equation governing the processes. 
+We also conduct an analogous analysis of a class of processes associated with randomized replacement matrix.'
+date: 2018-11-11
+venue: 'Communications in Statistics---Theory and Methods'
+paperurl: 'https://doi.org/10.1080/03610926.2018.1510005'
+citation: 'Chen, C. and Zhang, P. (2019). &quot;Characterizations of asymptotic distributions of continuous-time Pólya processes.&quot; 
+<i>Communications in Statistics---Theory and Methods</i>, <b>48</b>(21), 5308--5321.'
 ---
 Add full discription here.
 
