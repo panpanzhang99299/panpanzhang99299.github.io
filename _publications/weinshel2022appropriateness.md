@@ -2,7 +2,9 @@
 title: "Appropriateness of applying cerebrospinal fluid biomarker cutoffs from Alzheimer’s disease to Parkinson’s disease"
 collection: publications
 permalink: /publication/weinshel2022appropriateness
-excerpt: 'To be added.'
+excerpt: 'In this paper, we assessed the suitability and diagnostic accuracy of established cerebrospinal fluid (CSF) biomarker 
+cutoffs for Alzheimer's disease (AD) in the Parkinson's disease (PD) population. Specifically, we considered amyloid-ß 1-42 (Aß 1-42), 
+total tau (t-tau), phosphorylated tau (p-tau), the ratio of t-tau and Aß 1-42 and the ratio of p-tau and Aß 1-42.'
 date: 2022-05-24
 venue: "Journal of Parkinson's Disease"
 paperurl: 'https://doi.org/10.3233/JPD-212989'
