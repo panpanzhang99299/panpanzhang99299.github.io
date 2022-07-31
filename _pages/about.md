@@ -22,8 +22,8 @@ I am an Associate Editor of [Journal of Data Science](https://jds-online.org/jou
 
 News
 ============
-* Our project "Appropriateness of Applying Cerebrospinal Fluid Biomarker Cutoffs from Alzheimer’s Disease to Parkinson’s Disease" will be presented at the [Alzheimer's Association International Conference](https://aaic.alz.org/overview.asp) (AAIC 2022) in San Diego, CA, USA from July 31 to August 4, 2022. The poster can be downloaded via this [link]()
-* Our project "Robust Methods for Missing Covariates in Longitudinal Studies with Application to Biomarker Research in Parkinson’s Disease Dementia" has been accepted for publication and presentation at the [International Congress of Parkinson's Disease and Movement Disorders](https://www.mdscongress.org/) (MDS 2022) in Madrid, Spain from September 15 to 18, 2022.
+* Our project "Appropriateness of Applying Cerebrospinal Fluid Biomarker Cutoffs from Alzheimer’s Disease to Parkinson’s Disease" will be presented at the [Alzheimer's Association International Conference](https://aaic.alz.org/overview.asp) (AAIC 2022) in San Diego, CA, USA from July 31 to August 4, 2022. The poster can be downloaded [here](https://panpan-zhang.com/files/PD_cutoffs_AAIC2022.pdf).
+* Our project "Robust Methods for Missing Covariates in Longitudinal Studies with Application to Biomarker Research in Parkinson’s Disease Dementia" has been accepted for publication and presentation at the [International Congress of Parkinson's Disease and Movement Disorders](https://www.mdscongress.org/) (MDS 2022) in Madrid, Spain from September 15 to 18, 2022. The poster can be downloaded [here](https://panpan-zhang.com/files/kernel_MDS2022.pdf)
 * Our application paper "Appropriateness of Applying Cerebrospinal Fluid Biomarker Cutoffs from Alzheimer’s Disease to Parkinson’s Disease" has been accepted for publication on <i>Journal of Parkinson’s Disease</i>, <b>12</b>(4), 1155--1167. The paper is available at [link](https://doi.org/10.3233/JPD-212989). 
 
 [More News](https://panpan-zhang.com/year-archive/)
