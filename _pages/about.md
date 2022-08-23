@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Panpan Zhang's personal website. I am currently an assistant professor in the [Department of Biostatistics](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) at [Vanderbilt University Medical Center](https://www.vumc.org/main/home) (VUMC). Besides, I am a faculty member within the [Vanderbilt Memory and Alzheimer's Center](https://www.vumc.org/vmac/home) (VMAC), which is also affiliated to VUMC.  
+Welcome to Panpan Zhang's personal website. I am currently an assistant professor in the [Department of Biostatistics](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) at the [Vanderbilt University Medical Center](https://www.vumc.org/main/home) (VUMC). Besides, I am a faculty member within the [Vanderbilt Memory and Alzheimer's Center](https://www.vumc.org/vmac/home) (VMAC), which is also affiliated to VUMC.  
 
 Prior to joining VUMC, I was a postdoctoral researcher in the [Department of Biostatistics, Epidemiology and Informatics](https://www.dbei.med.upenn.edu/) (DBEI) at the [Perelman School of Medicine](https://www.med.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/) (Penn), under the supervision of Professor [Sharon X. Xie](https://www.dbei.med.upenn.edu/bio/sharon-xiangwen-xie-phd). From 2016 to 2018,, I was a visiting assistant professor in the [Department of Statistics](https://stat.uconn.edu/) at the [University of Connecticut](https://uconn.edu/).
 
