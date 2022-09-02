@@ -4,7 +4,7 @@ permalink: /software/
 author_profile: true
 ---
 
-wdnet
+[wdnet](https://cran.r-project.org/web/packages/wdnet/index.html)
 ====================
 This is a R package for weighted directed network analysis. The package is publicly
-available on [GitLab](https://gitlab.com/wdnetwork/wdnet).
+available on the [CRAN](https://cran.r-project.org/web/packages/wdnet/index.html).

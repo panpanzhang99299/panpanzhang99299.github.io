@@ -11,7 +11,7 @@ title                    : "Panpan Zhang"
 title_separator          : "-"
 name                     : &name "Panpan Zhang"
 description              : &description "personal description"
-url                      : https://panpanzhang99299.github.io
+url                      : https://panpan-zhang.com/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "panpanzhang99299/panpanzhang99299.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Panpan Zhang"
   avatar           : "PanpanZhang.jpg"
-  bio              : "Postdoctoral researcher at the University of Pennsylvania"
-  location         : "Philadelphia, PA"
+  bio              : "Assistant Professor at the Vanderbilt University Medical Center"
+  location         : "Nashville, TN"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XMgB5OYAAAAJ&hl=en"
-  email            : "panpan.zhang@pennmedicine.upenn.edu"
+  email            : "panpan.zhang@vumc.org"
   researchgate     : "https://www.researchgate.net/profile/Panpan_Zhang8"
   uri              :
   bitbucket        :
