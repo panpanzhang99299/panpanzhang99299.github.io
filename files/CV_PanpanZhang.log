@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.7)  1 SEP 2022 22:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.7)  5 SEP 2022 21:04
 entering extended mode
 **./CV_PanpanZhang.tex
 (CV_PanpanZhang.tex
@@ -642,15 +642,15 @@ n-der-bilt Mem-ory & Alzheimer's Cen-ter, VUMC, Nashville,
 ] [6
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 491.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 491.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 491.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 491.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 491.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 502.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 502.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 502.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 502.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 502.
  ) 
 Here is how much of TeX's memory you used:
- 15695 strings out of 481565
- 306400 string characters out of 2914180
+ 15696 strings out of 481565
+ 306407 string characters out of 2914180
  537975 words of memory out of 3000000
  30542 multiletter control sequences out of 15000+200000
  537465 words of font info for 41 fonts, out of 3000000 for 9000
@@ -669,9 +669,9 @@ amsfonts/cm/cmr7.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/zhpp1/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/zhpp1/AppData/Local/Pr
 ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV_PanpanZhang.pdf (6 pages, 186808 bytes).
+Output written on CV_PanpanZhang.pdf (6 pages, 188966 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 103 named destinations out of 1000 (max. 500000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 104 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
