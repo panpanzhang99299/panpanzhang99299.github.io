@@ -19,8 +19,10 @@ Education
 
 Work experience
 ======
-* Visiting Assistant Professor, University of Connecticut, 2016 -- 2018
-* Postdoctoral researcher, University of Pennsylvania, 2018 -- present
+* Visiting Assistant Professor, Department of Statistics, University of Connecticut, 2016 -- 2018
+* Postdoctoral researcher, Department of Biostatistics, Epidemiology and Informatics, University of Pennsylvania, 2018 -- 2022
+* Assistant Professor, Department of Biostatistics, Vanderbilt University Medical Center, 2022 -- present
+* Assistant Professor, Vanderbilt Memory & Alzheimer's Center, Vanderbilt University Medical Center, 2022 -- present
 
 Publications
 ======
