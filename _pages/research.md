@@ -8,9 +8,9 @@ My research interest lies at the interface of applied probability, applied stati
 Network analysis
 ====================
 This is a broad and burgeoning research topic. Specifically, I am interested in
-* Random network models (**collaborator(s):** [Hosam M. Mahmoud](https://statistics.columbian.gwu.edu/hosam-m-mahmoud) from GWU, [Tiandong Wang](https://scms.fudan.edu.cn/info/2672/5120.htm) from SCMS);
-* Network inference (**collaborator(s):** [Jun Yan](http://merlot.stat.uconn.edu/~jyan/) from UConn);
-* Community detection (**collaborator(s):** [Dipak K. Dey](http://merlot.stat.uconn.edu/~dey/) from UConn).
+* Random network models (**collaborator(s):** [Hosam M. Mahmoud](https://statistics.columbian.gwu.edu/hosam-m-mahmoud) from GWU, [Tiandong Wang](https://scms.fudan.edu.cn/info/2672/5120.htm) from SCMS)
+* Network inference (**collaborator(s):** [Jun Yan](http://merlot.stat.uconn.edu/~jyan/) from UConn)
+* Community detection (**collaborator(s):** [Dipak K. Dey](http://merlot.stat.uconn.edu/~dey/) from UConn)
 
 Longitudinal data analysis
 ====================
