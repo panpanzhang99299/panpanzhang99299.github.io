@@ -24,7 +24,9 @@ I am an Associate Editor of [Journal of Data Science](https://jds-online.org/jou
 
 News
 ============
-* I am going to present "The Sackin index and depth of leaves in generalized Schroder trees" at the [International Conference on Statistical Distributions and Applications](http://www.icosda22.org/) (ICOSDA 2022) in Huntington, WV, USA. This is a joint work with Professor [Hosam Mahmoud](https://statistics.columbian.gwu.edu/hosam-mahmoud) (GWU).
+* Our algorithm paper "Generating directed networks with predetermined assortativity measures" will appear in <i>Statistics and Computing</i>. The paper is in press, and the online version will be available soon ([DOI](https://doi.org/10.1007/s11222-022-10161-8)).
+* Our application paper "Incorporating auxiliary information in betweenness measure for input-output networks" is published on <i>Physica A: Statistical Mechanics and its Applications</i>. The online version is available at [DOI](https://doi.org/10.1016/j.physa.2022.128200).
+* I am going to present "The Sackin index and depth of leaves in generalized Schröder trees" at the [International Conference on Statistical Distributions and Applications](http://www.icosda22.org/) (ICOSDA 2022) in Huntington, WV, USA. This is a joint work with Professor [Hosam Mahmoud](https://statistics.columbian.gwu.edu/hosam-mahmoud) (GWU).
 * My invited session proposal has been accepted for [ENAR 2023 Spring Meeting](https://www.enar.org/). The session title is "Recent Advances in Statistical Methods for Neurodegenerative Disease Research". There are four internationally renowned biostatisticians who will present their recent works in my invited session; They are Professors [Rebecca Betensky](https://publichealth.nyu.edu/faculty/rebecca-betensky) (NYU), [Tanya Garcia](https://sph.unc.edu/adv_profile/tanya-garcia/) (UNC Chapel Hill), [Yuanjia Wang](https://www.publichealth.columbia.edu/people/our-faculty/yw2016) (Columbia) and [Yongzhao Shao](https://med.nyu.edu/faculty/yongzhao-shao) (NYU Langone).
 
 [More News](https://panpan-zhang.com/year-archive/)
