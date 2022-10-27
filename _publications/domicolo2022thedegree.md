@@ -18,4 +18,4 @@ random caterpillars.
 
 [BibTex](https://panpanzhang99299.github.io/files/zhang2022pagerank.bib)
 
-[Download paper here](https://doi.org/10.1016/j.physa.2021.126438)
+[Download paper here](https://doi.org/10.31390/josa.3.4.01)
