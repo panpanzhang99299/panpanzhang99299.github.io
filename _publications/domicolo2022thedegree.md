@@ -2,8 +2,8 @@
 title: "The degree Gini index of several classes of random trees and their poissonized counterparts---Evidence for duality"
 collection: publications
 permalink: /publication/domicolo2022thedegree
-excerpt: 'In this paper, we provide some evidence of duality between discrete-time random trees and their poissonized counterparts. Specifically, we look into the
-limiting degree Gini indexes of binary search trees, binary pyramids and random caterpillars.'
+excerpt: 'In this paper, we provided some evidence showing duality between discrete-time random trees and their poissonized (continuous-time) counterparts. 
+Specifically, we looked into the limiting degree Gini indexes of binary search trees, binary pyramids and random caterpillars.'
 date: 2022-10-27
 venue: 'Journal of Stochastic Analysis'
 paperurl: 'https://doi.org/10.31390/josa.3.4.01'
@@ -16,6 +16,6 @@ We give additional evidence in favor of this theory by showing that several clas
 their poissonized counterparts have the same limiting degree Gini index. The classes that we consider include binary search trees, binary pyramids and
 random caterpillars.
 
-[BibTex](https://panpanzhang99299.github.io/files/zhang2022pagerank.bib)
+[BibTex](https://panpanzhang99299.github.io/files/domicolo2022thedegree.bib)
 
 [Download paper here](https://doi.org/10.31390/josa.3.4.01)
