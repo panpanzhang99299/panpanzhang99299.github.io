@@ -46,14 +46,22 @@ Referee services
 ======
 * Annals of the Institute of Statistical Mathematics
 * Advances in Applied Probability
-* Communications in Statistics
+* Applied Artificial Intelligence
+* BMJ Open
+* Communications in Statistics---Theory and Methods
 * Contemporary Clinical Trials Communications
 * Enviromental and Ecological Statistics
+* Epidemiology & Infection
+* Frontiers in Neurosciences
+* Journal of Alzheimer's Disease
 * Journal of Applied Probability
 * Journal of Applied Statistics
+* Journal of Computational Science
 * Journal of Data Science
 * Methodology and Computing in Applied Probability
+* Physica A: Statistical Mechanics and its Applications
 * Probability in the Engineering and Informational Sciences
 * Random Structure and Algorithms
 * Statistics and Its Interface
+* Statistics in Biosciences
 * Statistics and Probability Letters
