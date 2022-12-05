@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.10)  27 NOV 2022 12:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.20)  5 DEC 2022 08:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -349,7 +349,7 @@ Package rerunfilecheck Info: File `CV_PanpanZhang.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  9312 strings out of 475385
- 146749 string characters out of 2775962
+ 146911 string characters out of 2775962
  507922 words of memory out of 3000000
  30484 multiletter control sequences out of 15000+600000
  479677 words of font info for 62 fonts, out of 8000000 for 9000
@@ -369,7 +369,7 @@ fonts/cm/cmr9.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/zhanp15/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV_PanpanZhang.pdf (8 pages, 223653 bytes).
+Output written on CV_PanpanZhang.pdf (8 pages, 223560 bytes).
 PDF statistics:
  302 PDF objects out of 1000 (max. 8388607)
  123 named destinations out of 1000 (max. 500000)
