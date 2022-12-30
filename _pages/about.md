@@ -42,4 +42,4 @@ Contact
 
 Acknowledgment
 -------------
-The creation of the personal website is based on the [template](https://github.com/academicpages) provided by Professor [Stuart Geiger](https://stuartgeiger.com/).
+The creation of my personal website is based on the [template](https://github.com/academicpages) provided by Professor [Stuart Geiger](https://stuartgeiger.com/).
