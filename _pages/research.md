@@ -8,9 +8,17 @@ My research interest lies at the interface of applied probability, applied stati
 Network analysis
 ====================
 This is a broad and burgeoning research topic. Specifically, I am interested in
-* Random network models (**collaborator(s):** [Hosam M. Mahmoud](https://statistics.columbian.gwu.edu/hosam-m-mahmoud) from GWU, [Tiandong Wang](https://scms.fudan.edu.cn/info/2672/5120.htm) from SCMS)
-* Network inference (**collaborator(s):** [Jun Yan](http://merlot.stat.uconn.edu/~jyan/) from UConn)
-* Community detection (**collaborator(s):** [Dipak K. Dey](http://merlot.stat.uconn.edu/~dey/) from UConn)
+* Random network models 
+  **Collaborator(s):** 
+  * [Hosam M. Mahmoud](https://statistics.columbian.gwu.edu/hosam-m-mahmoud) from GWU
+  * [Tiandong Wang](https://scms.fudan.edu.cn/info/2672/5120.htm) from SCMS)
+* Network inference 
+  **Collaborator(s):** 
+  * [Jun Yan](http://merlot.stat.uconn.edu/~jyan/) from UConn
+  * [Xiaojing Wang](https://xiaojing-wang.uconn.edu/) from UConn
+* Community detection 
+  **collaborator(s):** 
+  * [Dipak K. Dey](http://merlot.stat.uconn.edu/~dey/) from UConn
 
 Longitudinal data analysis
 ====================
@@ -22,7 +30,9 @@ This is the primary focus of my current reserch. We are committed to developing 
 Collaborative research
 ====================
 I have engaged in a variety of research projects, in collaboration with the faculty members and medical professionals from
+**Vanderbilt University Medical Center**
 * Vanderbilt Memory & Alzheimer's Center ([VMAC](https://www.vumc.org/vmac/home))
+**Perelman School of Medicine at the University of Pennsylvania**
 * Center for Neurodegenerative Disease Research ([CNDR](https://www.med.upenn.edu/cndr/))
 * Penn Frontotemporal Degeneration Center ([Penn FTD Center](https://www.med.upenn.edu/ftd/))
 * [Penn Memory Center](https://pennmemorycenter.org/)
