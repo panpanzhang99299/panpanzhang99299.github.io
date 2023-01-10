@@ -12,7 +12,7 @@ This is a broad and burgeoning research topic. Specifically, I am interested in
 
   *Collaborator(s):* 
   * [Hosam M. Mahmoud](https://statistics.columbian.gwu.edu/hosam-m-mahmoud) from GWU
-  * [Tiandong Wang](https://scms.fudan.edu.cn/info/2672/5120.htm) from SCMS)
+  * [Tiandong Wang](https://scms.fudan.edu.cn/info/2672/5120.htm) from SCMS
 * Network inference 
 
   *Collaborator(s):* 
