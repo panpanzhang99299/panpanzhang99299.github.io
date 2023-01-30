@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.20)  5 DEC 2022 08:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.20)  30 JAN 2023 14:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -340,21 +340,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/zhanp15/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 216.
+(Font)              <7> on input line 225.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 216.
+(Font)              <5> on input line 225.
  [4] [5] [6] [7] [8] (CV_PanpanZhang.aux)
 Package rerunfilecheck Info: File `CV_PanpanZhang.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9312 strings out of 475385
- 146911 string characters out of 2775962
+ 9313 strings out of 475385
+ 146918 string characters out of 2775962
  507922 words of memory out of 3000000
  30484 multiletter control sequences out of 15000+600000
  479677 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,77p,366b,566s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,5n,77p,366b,565s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\zhanp15\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 rm1000.pk><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type
@@ -369,9 +369,9 @@ fonts/cm/cmr9.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/zhanp15/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV_PanpanZhang.pdf (8 pages, 223560 bytes).
+Output written on CV_PanpanZhang.pdf (8 pages, 223670 bytes).
 PDF statistics:
- 302 PDF objects out of 1000 (max. 8388607)
- 123 named destinations out of 1000 (max. 500000)
+ 303 PDF objects out of 1000 (max. 8388607)
+ 124 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
