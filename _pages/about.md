@@ -19,8 +19,8 @@ I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest U
 
 Services
 ============
-
-I am an Associate Editor of [Journal of Data Science](https://jds-online.org/journal/JDS) (Since 2020).
+* I am an Associate Editor of [Methodology and Computing in Applied Probability](https://www.springer.com/journal/11009) (Since 2023).
+* I am an Associate Editor of [Journal of Data Science](https://jds-online.org/journal/JDS) (Since 2020).
 
 News
 ============
