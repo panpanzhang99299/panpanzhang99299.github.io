@@ -17,7 +17,7 @@ Education
 * M.A. in Mathematics, Wake Forest University, 2012
 * Ph.D. in Statistics, George Washington University, 2016
 
-Work experience
+Work Experience
 ======
 * Visiting Assistant Professor, Department of Statistics, University of Connecticut, 2016 -- 2018
 * Postdoctoral Researcher, Department of Biostatistics, Epidemiology and Informatics, University of Pennsylvania, 2018 -- 2022
@@ -42,7 +42,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Referee services
+Referee Services
 ======
 * Annals of the Institute of Statistical Mathematics
 * Advances in Applied Probability
