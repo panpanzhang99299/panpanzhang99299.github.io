@@ -17,8 +17,8 @@ This is a broad and burgeoning research topic. Specifically, I am interested in
 
   *Collaborator(s):* 
   * [Dipak K. Dey](http://merlot.stat.uconn.edu/~dey/) from UConn
-  * [Jun Yan](http://merlot.stat.uconn.edu/~jyan/) from UConn
   * [Xiaojing Wang](https://xiaojing-wang.uconn.edu/) from UConn
+  * [Jun Yan](http://merlot.stat.uconn.edu/~jyan/) from UConn
 
 * Random network models (degree distribution, topological indices, etc.)
 
