@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My personal website"
+title: "My Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ Welcome to Panpan Zhang's personal website. I am currently an Assistant Professo
 
 Prior to joining VUMC, I was a Postdoctoral Researcher in the [Department of Biostatistics, Epidemiology and Informatics](https://www.dbei.med.upenn.edu/) (DBEI) at the [Perelman School of Medicine](https://www.med.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/) (Penn), under the supervision of Professor [Sharon X. Xie](https://www.dbei.med.upenn.edu/bio/sharon-xiangwen-xie-phd). From 2016 to 2018, I was a Visiting Assistant Professor in the [Department of Statistics](https://stat.uconn.edu/) at the [University of Connecticut](https://uconn.edu/).
 
-My biography
+My Biography
 ============
 
 I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest University](https://www.wfu.edu/) in 2012, and started my doctoral training in the [Department of Statistics](https://statistics.columbian.gwu.edu/) at the [George Washington University](https://www.gwu.edu/) in the same year. I got Ph.D. in Statistics in 2016. My dissertation was [On Properties of Several Random Networks](https://search-proquest-com.proxy.library.upenn.edu/docview/1778511395/fulltextPDF/85F5580422DB4BC5PQ/1?accountid=14707) under the supervision of Professor [Hosam M. Mahmoud](https://statistics.columbian.gwu.edu/hosam-m-mahmoud).
