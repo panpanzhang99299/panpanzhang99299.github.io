@@ -37,7 +37,7 @@ Contact
 * Phone: (615) 322-2001
 * Email: [panpan (dot) zhang (at) vumc (dot) org](mailto:panpan.zhang@vumc.org)
 
-**[My footprints](https://panpan-zhang.com/talkmap/map.html)**
+**[My Footprints](https://panpan-zhang.com/talkmap/map.html)**
 
 Acknowledgment
 -------------
