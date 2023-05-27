@@ -2,7 +2,6 @@
 title: "Research Interest"
 permalink: /research/
 author_profile: true
-has_children: true
 ---
 My research interest lies at the interface of applied probability, applied statistics and machine learning. My research is driven by collaborations with a few extremely talented and outstanding probabilists/statisticians/biostatisticians/computer scientists.
 
