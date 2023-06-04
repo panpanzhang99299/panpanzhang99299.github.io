@@ -11,6 +11,7 @@ This is a broad and burgeoning research topic. Specifically, I am interested in
 * Neuroimaging applications
 
   *Collaborator(s):* 
+  * [Zhengwu Zhang](https://stor.unc.edu/faculty-member/zhang-zhengwu/) from UNC Chapel Hill
   * [Yize Zhao](https://ysph.yale.edu/profile/yize-zhao/) from Yale
 
 * Network data analysis (community detection, link prediction, etc.)
