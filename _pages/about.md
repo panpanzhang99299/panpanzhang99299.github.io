@@ -24,6 +24,7 @@ Services
 
 News
 ============
+* I will present "A Journey of Link Prediction Problems in Functional Brain Networks" in an invited session at [<i>The Statistical Methods in Imaging Conference 2023</i>](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/) (SMI 2023), Minneapolis, MN, USA. This is a joint work with Professor [Xiaojing Wang](https://xiaojing-wang.uconn.edu/) from UConn.
 * My invited session proposal has been accepted for [NESS 2023](https://symposium.nestat.org/). The session title is "Recent Advances in Neuroimaging Data Integration and Analysis". Four biostatisticians with expertise in neuroimaging will present their recent works in my invited session; They are Professors [Ani Eloyan](https://vivo.brown.edu/display/aeloyan) (Brown), [Yanming Li](https://www.kumc.edu/yli8.html) (KUMC), [Rongjie Liu](https://ani.stat.fsu.edu/~rjliu/) (FSU) and [Yuan Wang](https://sc.edu/study/colleges_schools/public_health/faculty-staff/wang_yuan.php) (SC).
 * Our clinical paper "Turning apathy into action in neurodegenerative disease: Development and pilot testing of a goal-directed behaviour app" will appear in <i>Neuropsychological Rehabilitation</i>. The paper is in press, and available online ([DOI](https://doi.org/10.1080/09602011.2023.2203403)).
 * Our method paper "On several properties of a class of hybrid recursive trees" will appear in <i>Methodology and Computing in Applied Probability</i>. The paper is in press, and available online ([DOI](https://doi.org/10.1007/s11009-023-09988-z)).
