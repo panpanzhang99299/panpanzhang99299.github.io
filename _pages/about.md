@@ -37,7 +37,8 @@ Contact
 ============
 * Address: 2525 West End Avenue, Suite 1100, Room 11128A, Nashville, TN 37203, U.S.A.
 * Phone: (615) 322-2001
-* Email: [panpan (dot) zhang (at) vumc (dot) org](mailto:panpan.zhang@vumc.org)
+* Primary Email: [panpan (dot) zhang (at) vumc (dot) org](mailto:panpan.zhang@vumc.org)
+* Alternate Email: [panpan (dot) zhang (dot) 1 (at) vanderbilt (dot) edu](mailto:panpan.zhang.1@vanderbilt.edu)
 
 **[My Footprints](https://panpan-zhang.com/talkmap/map.html)**
 
