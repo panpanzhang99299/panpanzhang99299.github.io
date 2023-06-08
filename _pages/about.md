@@ -40,7 +40,7 @@ Contact
 * Primary Email: [panpan (dot) zhang (at) vumc (dot) org](mailto:panpan.zhang@vumc.org)
 * Alternate Email: [panpan (dot) zhang (dot) 1 (at) vanderbilt (dot) edu](mailto:panpan.zhang.1@vanderbilt.edu)
 
-<img src = "https://www.vumc.org/marketing-engagement/sites/default/files/VUMC_Logo.jpg", width = 100, height = 20>
+<img src = "https://www.vumc.org/marketing-engagement/sites/default/files/VUMC_Logo.jpg", width = "100", height = "20">
 
 **[My Footprints](https://panpan-zhang.com/talkmap/map.html)**
 
