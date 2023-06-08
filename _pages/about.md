@@ -40,6 +40,8 @@ Contact
 * Primary Email: [panpan (dot) zhang (at) vumc (dot) org](mailto:panpan.zhang@vumc.org)
 * Alternate Email: [panpan (dot) zhang (dot) 1 (at) vanderbilt (dot) edu](mailto:panpan.zhang.1@vanderbilt.edu)
 
+![Vandy logo](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fvanderbilt-commodores-logo%2F&psig=AOvVaw0SHVlBPiScem8DxyMUkstR&ust=1686333924592000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDfncahtP8CFQAAAAAdAAAAABAE)
+
 **[My Footprints](https://panpan-zhang.com/talkmap/map.html)**
 
 Acknowledgment
