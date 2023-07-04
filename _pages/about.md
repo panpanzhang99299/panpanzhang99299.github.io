@@ -19,6 +19,7 @@ I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest U
 
 Services
 ============
+* I am the Publications Officer of the [ASA Statistics in Imaging Section](https://statsinimaging.github.io/) (2023 - 2024).
 * I am an Associate Editor of [Methodology and Computing in Applied Probability](https://www.springer.com/journal/11009) (Since 2023).
 * I am an Associate Editor of [Journal of Data Science](https://jds-online.org/journal/JDS) (Since 2020).
 
