@@ -59,7 +59,7 @@ var addressPoints = [
   [
     "Huntington, WV, USA",
     38.4192,
-    82.4452
+    -82.4452
   ],	
 
   [
