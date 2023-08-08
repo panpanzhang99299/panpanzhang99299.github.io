@@ -21,13 +21,13 @@ var addressPoints = [
   ],
   
   [
-    "Shanghai, PRC",
+    "Shanghai, China",
     31.2304,
     121.4737
   ],
   
   [
-    "Sydney, NSW, AU",
+    "Sydney, Australia",
     -33.8688,
     151.2093
   ],
@@ -38,9 +38,45 @@ var addressPoints = [
     -86.7816
   ],
   
-   [
-    "Budapest, HU",
+  [
+    "Budapest, Hungary",
     47.4979,
     19.0402
+  ],
+  
+  [
+    "Amsterdam, Netherlands",
+    52.3676,
+    4.9041
+  ],
+
+  [
+    "Lisbon, Portugal",
+    38.7223,
+    -9.1393
+  ],
+
+  [
+    "Huntington, WV, USA",
+    38.4192,
+    82.4452
+  ],	
+
+  [
+    "Anchorage, AK, USA",
+    61.2176,
+    -149.8997
+  ],
+
+  [
+    "Minneapolis, MN, USA",
+    44.9778,
+    -93.2650
+  ],
+
+  [
+    "Ann Arbor, MI, USA",
+    42.2808,
+    -83.7430
   ],
 ];
