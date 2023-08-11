@@ -1,15 +1,19 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.20)  13 FEB 2023 12:07
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.17)  7 AUG 2023 22:01
+>>>>>>> f419b177601080cde9095f6d2b8006fa2f7cf6af
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./CV_PanpanZhang.tex
 (CV_PanpanZhang.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28>
+L3 programming layer <2022-08-30>
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -213,7 +217,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip50
 )
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
-Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup4
 \symboldletters=\mathgroup5
 \symboldsymbols=\mathgroup6
@@ -231,7 +235,7 @@ Package xcolor Info: Driver file: pdftex.def on input line 227.
 
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
 ef
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
 x)
@@ -245,60 +249,60 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 11.
+Package hyperref Info: Option `colorlinks' set `true' on input line 12.
 
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 \l__pdf_internal_box=\box52
 ) (CV_PanpanZhang.aux)
 \openout1 = `CV_PanpanZhang.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(65.04256pt, 467.42276pt, 65.04256pt)
-* v-part:(T,H,B)=(108.405pt, 628.23685pt, 108.405pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=467.42276pt
-* \textheight=628.23685pt
-* \oddsidemargin=-7.22743pt
-* \evensidemargin=-7.22743pt
-* \topmargin=-0.86499pt
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.02501pt
+* \textheight=686.56499pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -308,7 +312,7 @@ LaTeX Font Info:    ... okay on input line 23.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 23.
+Package hyperref Info: Link coloring ON on input line 24.
 (CV_PanpanZhang.out) (CV_PanpanZhang.out)
 \@outlinefile=\write3
 \openout3 = `CV_PanpanZhang.out'.
@@ -330,32 +334,50 @@ mkii
 \everyMPtoPDFconversion=\toks21
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 27.
+(Font)              <24.88> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 27.
+(Font)              <20.74> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 27.
+(Font)              <17.28> on input line 28.
  [1
 
 {C:/Users/zhanp15/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-[2] [3]
+[2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
+<<<<<<< HEAD
 (Font)              <7> on input line 232.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 232.
  [4] [5] [6] [7] [8] (CV_PanpanZhang.aux)
+=======
+(Font)              <12> on input line 279.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 279.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 279.
+ [5] [6] [7] [8] [9] [10] (CV_PanpanZhang.aux)
+>>>>>>> f419b177601080cde9095f6d2b8006fa2f7cf6af
 Package rerunfilecheck Info: File `CV_PanpanZhang.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  9313 strings out of 475385
  146918 string characters out of 2775962
  506922 words of memory out of 3000000
  30484 multiletter control sequences out of 15000+600000
  479677 words of font info for 62 fonts, out of 8000000 for 9000
+=======
+ 9351 strings out of 475389
+ 147171 string characters out of 2776055
+ 505746 words of memory out of 3000000
+ 30495 multiletter control sequences out of 15000+600000
+ 483372 words of font info for 75 fonts, out of 8000000 for 9000
+>>>>>>> f419b177601080cde9095f6d2b8006fa2f7cf6af
  1141 hyphenation exceptions out of 8191
- 72i,5n,77p,366b,564s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,6n,77p,366b,594s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\zhanp15\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
+<<<<<<< HEAD
 rm1000.pk><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX
@@ -370,8 +392,23 @@ ublic/amsfonts/cm/cmsy10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/zhanp15/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on CV_PanpanZhang.pdf (8 pages, 223757 bytes).
+=======
+rm1200.pk><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbxsl10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/zhanp15/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/zhanp15/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/zh
+anp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
+:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r17.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmti12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on CV_PanpanZhang.pdf (10 pages, 203479 bytes).
+>>>>>>> f419b177601080cde9095f6d2b8006fa2f7cf6af
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
- 124 named destinations out of 1000 (max. 500000)
+ 333 PDF objects out of 1000 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
