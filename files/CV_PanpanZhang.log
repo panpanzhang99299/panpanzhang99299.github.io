@@ -1,15 +1,11 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.20)  13 FEB 2023 12:07
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.17)  7 AUG 2023 22:01
->>>>>>> f419b177601080cde9095f6d2b8006fa2f7cf6af
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.20)  11 AUG 2023 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./CV_PanpanZhang.tex
 (CV_PanpanZhang.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-30>
+L3 programming layer <2022-09-28>
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
@@ -217,7 +213,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip50
 )
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
-Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
+Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup4
 \symboldletters=\mathgroup5
 \symboldsymbols=\mathgroup6
@@ -235,7 +231,7 @@ Package xcolor Info: Driver file: pdftex.def on input line 227.
 
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
 ef
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
 x)
@@ -253,7 +249,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 12.
 
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
-File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 \l__pdf_internal_box=\box52
 ) (CV_PanpanZhang.aux)
@@ -344,55 +340,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/zhanp15/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-<<<<<<< HEAD
-(Font)              <7> on input line 232.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 232.
- [4] [5] [6] [7] [8] (CV_PanpanZhang.aux)
-=======
 (Font)              <12> on input line 279.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 279.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 279.
  [5] [6] [7] [8] [9] [10] (CV_PanpanZhang.aux)
->>>>>>> f419b177601080cde9095f6d2b8006fa2f7cf6af
 Package rerunfilecheck Info: File `CV_PanpanZhang.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 9313 strings out of 475385
- 146918 string characters out of 2775962
- 506922 words of memory out of 3000000
- 30484 multiletter control sequences out of 15000+600000
- 479677 words of font info for 62 fonts, out of 8000000 for 9000
-=======
- 9351 strings out of 475389
- 147171 string characters out of 2776055
- 505746 words of memory out of 3000000
- 30495 multiletter control sequences out of 15000+600000
+ 9350 strings out of 475385
+ 147321 string characters out of 2775962
+ 505923 words of memory out of 3000000
+ 30498 multiletter control sequences out of 15000+600000
  483372 words of font info for 75 fonts, out of 8000000 for 9000
->>>>>>> f419b177601080cde9095f6d2b8006fa2f7cf6af
  1141 hyphenation exceptions out of 8191
  72i,6n,77p,366b,594s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\zhanp15\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
-<<<<<<< HEAD
-rm1000.pk><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb><C:/Users/zhanp15/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/zhanp15/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/z
-hanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mr17.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr9.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/zhanp15/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV_PanpanZhang.pdf (8 pages, 223757 bytes).
-=======
 rm1200.pk><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmbx12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmbxsl10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKT
@@ -406,7 +371,6 @@ onts/cm/cmsy10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmti12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmtt12.pfb>
 Output written on CV_PanpanZhang.pdf (10 pages, 203479 bytes).
->>>>>>> f419b177601080cde9095f6d2b8006fa2f7cf6af
 PDF statistics:
  333 PDF objects out of 1000 (max. 8388607)
  142 named destinations out of 1000 (max. 500000)
