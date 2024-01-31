@@ -10,7 +10,7 @@ var addressPoints = [
     -72.2495
   ],
   [
-    "Washington DC, USA",
+    "Washington, DC, USA",
     38.9072,
     -77.0369
   ],
@@ -84,5 +84,11 @@ var addressPoints = [
     "Baltimore, MD, USA",
     39.2904,
     -76.6122
+  ],
+
+  [
+    "San Diego, CA, USA",
+    32.7157,
+    -117.1611
   ],
 ];
