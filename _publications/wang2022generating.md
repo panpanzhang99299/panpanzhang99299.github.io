@@ -2,10 +2,8 @@
 title: "Generating directed networks with predetermined assortativity measures"
 collection: publications
 permalink: /publication/wang2022generating
-excerpt: 'In this paper, we proposed an efficient algorithm, called DiDPR, for generating directed networks with predetermined (directed) assortativity measures. The proposed algorithm is 
-capable of preserving some important network properties, such as in- and out-degree distributions. The key idea of the algorithm is to convert the generation procedure to solving a convex
-optimization problem. The performance assessment of the proposed algorithm was done through extensive simulations and a Facebook wall post social network. The implementation of DiDPR is
-available in R package [wdnet](https://CRAN.R-project.org/package=wdnet).'
+excerpt: 'In this paper, we proposed an efficient algorithm, called DiDPR, for generating directed networks with predetermined (directed) assortativity measures. The performance assessment of the proposed algorithm was done through 
+extensive simulations and the application to a Facebook wall post social network. The implementation of DiDPR is available in an R package [wdnet](https://CRAN.R-project.org/package=wdnet).'
 date: 2022-10-10
 venue: 'Statistics and Computing'
 paperurl: 'https://doi.org/10.1007/s11222-022-10161-8'
@@ -22,6 +20,7 @@ a Facebook wall post network as a real data example. The codes for implementing 
 
 [BibTex](https://panpanzhang99299.github.io/files/wang2022generating.bib)
 
+[Download paper here](https://doi.org/10.1007/s11222-022-10161-8)
+
 [Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4493723)
 
-[Download paper here](https://doi.org/10.1007/s11222-022-10161-8)
