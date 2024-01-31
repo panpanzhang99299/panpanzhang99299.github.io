@@ -30,6 +30,12 @@ News
   - Invited Session: Biostatistics in Government and Pharmaceutical Industry. Confirmed speakers include Dr. Li Cheung (NIH/NCI), Phoebe Jiang (Biogen), Cong Wang (FDA) and Lanju Zhang (Vertex).
 * Multiple VMAC abstracts have been presented at [AAIC 2023](https://aaic.alz.org/highlights2023.asp):
   - Neighborhood disadvantage is associated with changes in cerebrovascular function among older adults over a 9 year follow‐up period (Cambronero et al., [DOI](https://doi.org/10.1002/alz.080675))
+  - Higher baseline cerebrospinal fluid platelet-derived growth factor receptor-ß levels are associated with slower reductions in longitudinal cerebral blood flow among cognitively unimpaired individuals (Moore et al., [DOI](https://doi.org/10.1002/alz.080372))
+  - Dyadic patterns of subjective cognitive decline relate to Alzheimer’s disease biomarkers differently in preclinical and prodromal clinical states (Houston et al., [DOI](https://doi.org/10.1002/alz.075637))
+  - CSF‐plasma albumin ratio differs by sex in community dwelling older adults (Yates et al., [DOI](https://doi.org/10.1002/alz.080059))
+  - Sex-specific associations of cerebrospinal fluid YKL-40 with white matter hyperintensities over a 7-year follow-up period (Peterson et al., [DOI](https://doi.org/10.1002/alz.079755))
+  - Cognitive status modifies the association between elevated cerebrospinal fluid phosphorylated tau and longitudinal cerebral blood flow changes over a 7-year follow-up period (Robb et al., [DOI](https://doi.org/10.1002/alz.080341))
+
 
 [More News](https://panpan-zhang.com/year-archive/)
 
