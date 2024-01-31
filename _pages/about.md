@@ -27,7 +27,7 @@ News
 ============
 * My two invited session proposal have been accepted for [ICSA 2024 Applied Statistics Symposium](https://symposium2024.icsa.org/) in Nashville, MD, USA from June 16 to 19, 2024. 
   - Invited Session: Novel Statistical Methods for Imaging Data Analysis and Beyond. Confirmed speakers include Professors [Andrew A. Chen](https://andrewanchen.github.io/) (MUSC), [Moo K. Chung](https://pages.stat.wisc.edu/~mchung/) (UW-Madison), [Shan Yu](https://statistics.as.virginia.edu/faculty-staff/profile/sy5jx) (UVA) and [Yize Zhao](https://ysph.yale.edu/profile/yize-zhao/) (Yale).
-  - Invited Session: Biostatistics in Government and Pharmaceutical Industry. Confirmed speakers include Dr. Li Cheung (NIH/NCI), Phoebe Jiang (Biogen), Cong Wang (FDA) and Lanju Zhang (Vertex).
+  - Invited Session: Biostatistics in Government and Pharmaceutical Industry. Confirmed speakers include Drs. Li Cheung (NIH/NCI), Phoebe Jiang (Biogen), Cong Wang (FDA) and Lanju Zhang (Vertex).
 * Multiple VMAC abstracts have been presented at [AAIC 2023](https://aaic.alz.org/highlights2023.asp):
   - Neighborhood disadvantage is associated with changes in cerebrovascular function among older adults over a 9 year follow‐up period (Cambronero et al., [DOI](https://doi.org/10.1002/alz.080675))
   - Higher baseline cerebrospinal fluid platelet-derived growth factor receptor-ß levels are associated with slower reductions in longitudinal cerebral blood flow among cognitively unimpaired individuals (Moore et al., [DOI](https://doi.org/10.1002/alz.080372))
