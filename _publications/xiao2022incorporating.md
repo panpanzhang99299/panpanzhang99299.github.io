@@ -20,6 +20,6 @@ auxiliary information relevant to the research objectives for betweenness comput
 
 [BibTex](https://panpanzhang99299.github.io/files/xiao2022incorporating.bib)
 
-[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4497328)
-
 [Download paper here](https://doi.org/10.1016/j.physa.2022.128200)
+
+[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4497328)

@@ -19,3 +19,5 @@ random caterpillars.
 [BibTex](https://panpanzhang99299.github.io/files/domicolo2022thedegree.bib)
 
 [Download paper here](https://doi.org/10.31390/josa.3.4.01)
+
+[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4527142)
