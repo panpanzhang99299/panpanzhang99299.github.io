@@ -22,3 +22,5 @@ the presence of outliers. The proposed model is also applied to a MovieLens data
 [BibTex](https://panpanzhang99299.github.io/files/liu2024variational.bib)
 
 [Download paper here](https://doi.org/10.1016/j.csda.2023.107836)
+
+[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4636722)
