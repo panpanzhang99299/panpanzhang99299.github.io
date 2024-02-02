@@ -16,5 +16,5 @@ The session title is "Novel Statistical Methods for Imaging Data Analysis and Be
 - [Yize Zhao](https://ysph.yale.edu/profile/yize-zhao/) (Duke)
 
 
-Invited Session for ENAR 2024!
+Invited Session for ICSA 2024!
 =====
