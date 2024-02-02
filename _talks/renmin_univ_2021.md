@@ -5,7 +5,7 @@ type: "seminar presentation"
 permalink: /talks/rnu2021
 venue: "School of Statistics, Renmin University of China"
 date: 2021-03-18
-location: "online"
+location: "Online Seminar"
 ---
 
 [More information here](http://stat.ruc.edu.cn/en/displaynews.php?id=6207)
