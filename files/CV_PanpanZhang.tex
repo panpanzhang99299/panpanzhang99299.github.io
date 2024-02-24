@@ -6,10 +6,10 @@ bottom=.75in]{geometry}
 \usepackage{hyperref}
 \usepackage{bm}
 \usepackage{xcolor}
-\def\MR#1{\href{http://www.ams.org/mathscinet-getitem?mr=#1}{MR#1}}
-\def\DOI#1{\href{http://doi.org/#1}{\underline{DOI}}}
-\def\PMID#1{\href{https://pubmed.ncbi.nlm.nih.gov/#1}
-{PMID: #1}}
+\def \MR #1{\href{http://www.ams.org/mathscinet-getitem?mr=#1}{MR#1}}
+\def \DOI #1{\href{http://doi.org/#1}{\underline{DOI}}}
+\def \PMID #1#2{\href{https://pubmed.ncbi.nlm.nih.gov/#1}{PMID: #1 
+PMCID: PMC#2}}
 
 \hypersetup{
 	colorlinks = true
@@ -307,8 +307,8 @@ bottom=.75in]{geometry}
 		\item \PZ, {\sc Chen, C.} and {\sc Mahmoud, H.\ M.} 
 		(2015). Explicit characterization of moments of balanced 
 		triangular P\'{o}lya urns by an elementary approach. 
-		\emph{Statistics \& Probability Letters}, {\bf 96}, 149--153. \MR{3281759} \href{https://doi.org/10.1016/j.spl.2014.09.016}
-		{\underline{DOI}}
+		\emph{Statistics \& Probability Letters}, {\bf 96}, 
+		149--153. \MR{3281759} \DOI{10.1016/j.spl.2014.09.016}
 		
 		\item \PZ\ and {\sc Mahmoud, H.\ M.} (2016). 
 		Distributions in a class of Poissonized urns with an application to Apollonian networks. \emph{Statistics \& Probability Letters}, {\bf 115}, 1--7. \MR{3498362}
@@ -356,9 +356,8 @@ bottom=.75in]{geometry}
 		
 		\item {\sc Robinson, J.\ L., Porta, S., Garrett, F.\ G.}, 
 		\PZnot, {\sc Xie, S.\ X., Sun, E., Van Deerlin, V.\ M., Abner, E.\ L., Jicha, G.\ A., Barber, J.\ M., Lee, V.\ M.-Y., Lee, E.\ B., Trojanowski, J.\ Q.} and {\sc Nelson, P.\ T.*} (2020). Limbic-predominant age-related TDP-43 encephalopathy differs from frontotemporal lobar degeneration. {\em Brain}, {\bf 143}(9), 
-		2844--2857. \href{https://doi.org/10.1093/brain/awaa219}
-		{\underline{DOI}} \href{https://pubmed.ncbi.nlm.nih.gov/32830216}
-		{\underline{PubMed}}
+		2844--2857. \DOI{10.1093/brain/awaa219} 
+		\PMID{32830216}{7526723}
 		
 		\item \PZ, {\sc Wang, T.} and {\sc Xie, S.\ X.} 
 		(2020). Meta-analysis of several epidemic characteristics of COVID-19. {\em Journal of Data Science}, {\bf 18}(3), 536--549. \href{https://doi.org/10.6339/JDS.202007_18(3).0019}
@@ -459,7 +458,8 @@ bottom=.75in]{geometry}
 		neurodegenerative disease: Development and pilot testing of 
 		a goal-directed behaviour app. {\em Neuropsychological 
 		Rehabilitation} (in press). 
-		\DOI{10.1080/09602011.2023.2203403} \PMID{37128648}
+		\DOI{10.1080/09602011.2023.2203403} 
+		\PMID{37128648}{10600325}
 		
 		\item {\sc Chen, Y., Sewell, D.,} \PZ\ and Zhu, X. (2023). 
 		Editorial: Advances in network data science. {\em Journal of 
