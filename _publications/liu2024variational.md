@@ -5,9 +5,9 @@ permalink: /publication/liu2024variational
 excerpt: 'In this paper, we proposed a novel mixed-membership stochastic block model for bipartite networks. The model was derived analytically, and a variational
 Bayesian algorithm was introduced for inference. Extensive simulations were conducted for empirical justification. The model was applied to a MovieLens dataset for
 a real data application. 
-[Article](https://doi.org/10.1016/j.csda.2023.107836){: .btn}
-[R Codes](https://doi.org/10.1016/j.csda.2023.107836){: .btn}
-[Slides](https://doi.org/10.1016/j.csda.2023.107836){: .btn}'
+[Article](https://doi.org/10.1016/j.csda.2023.107836){: .md-button}
+[R Codes](https://doi.org/10.1016/j.csda.2023.107836){: .md-button}
+[Slides](https://doi.org/10.1016/j.csda.2023.107836){: .md-button}'
 date: 2023-09-06
 venue: 'Computational Statistics & Data Analysis'
 paperurl: 'https://doi.org/10.1016/j.csda.2023.107836'
@@ -22,8 +22,8 @@ algorithm that is computationally feasible for approximating the untractable pos
 Extensive simulations show that the proposed model provides more accurate inference than competing methods with 
 the presence of outliers. The proposed model is also applied to a MovieLens dataset for a real data application.
 
-[BibTex](https://panpanzhang99299.github.io/files/liu2024variational.bib)
+[BibTex](https://panpanzhang99299.github.io/files/liu2024variational.bib){: .md-button}
 
-[Download paper here](https://doi.org/10.1016/j.csda.2023.107836)
+[Download paper here](https://doi.org/10.1016/j.csda.2023.107836){: .md-button}
 
-[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4636722)
+[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4636722){: .md-button}
