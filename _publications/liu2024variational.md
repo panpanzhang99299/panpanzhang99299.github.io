@@ -19,8 +19,6 @@ algorithm that is computationally feasible for approximating the untractable pos
 Extensive simulations show that the proposed model provides more accurate inference than competing methods with 
 the presence of outliers. The proposed model is also applied to a MovieLens dataset for a real data application.
 
-[BibTex](https://panpanzhang99299.github.io/files/liu2024variational.bib){: .md-button}
-
-[Download paper here](https://doi.org/10.1016/j.csda.2023.107836){: .md-button}
-
-[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4636722){: .md-button}
+<button class="IPbutton" type="button" onclick="window.location='https://doi.org/10.1016/j.csda.2023.107836'">DOI</button>
+<button class="IPbutton" type="button" onclick="window.location='https://panpanzhang99299.github.io/files/liu2024variational.bib'">BibTex</button>
+<button class="IPbutton" type="button" onclick="window.location='https://mathscinet.ams.org/mathscinet-getitem?mr=4636722'">AMS:Mathematical Reviews</button>
