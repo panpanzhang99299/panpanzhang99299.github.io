@@ -4,7 +4,7 @@ permalink: /software/
 author_profile: true
 ---
 
-## [wdnet](https://cran.r-project.org/web/packages/wdnet/index.html)
+[wdnet](https://cran.r-project.org/web/packages/wdnet/index.html)
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/Yelie-Yuan/wdnet/workflows/R-CMD-check/badge.svg)](https://github.com/Yelie-Yuan/wdnet/actions)
 [![CRAN Status](http://www.r-pkg.org/badges/version-last-release/wdnet)](https://cran.r-project.org/package=wdnet)
