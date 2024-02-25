@@ -4,11 +4,10 @@ collection: publications
 permalink: /publication/liu2024variational
 excerpt: 'In this paper, we proposed a novel mixed-membership stochastic block model for bipartite networks. The model was derived analytically, and a variational
 Bayesian algorithm was introduced for inference. Extensive simulations were conducted for empirical justification. The model was applied to a MovieLens dataset for
-a real data application. 
-<a href="https://doi.org/10.1016/j.csda.2023.107836", class = "button")Article</a>'
+a real data application.'
 date: 2023-09-06
 venue: 'Computational Statistics & Data Analysis'
-paperurl: 'https://doi.org/10.1016/j.csda.2023.107836'
+paperurl: '<a href="https://doi.org/10.1016/j.csda.2023.107836" class = "button")Article</a>'
 citation: 'Liu, J., Ye, Z., Chen, K. and Zhang, P. (2024). 
 &quot;Variational Bayesian inference for bipartite mixed-membership stochastic block model with applications to collaborative filtering.&quot; 
 <i>Computational Statistics & Data Analysis</i>, <b>189</b>, 107836.'
