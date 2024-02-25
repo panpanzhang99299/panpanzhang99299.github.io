@@ -20,8 +20,6 @@ are applied to both synthetic and real network data. We see that with extra flex
 the hybrid random network provides a better fit to real-world scenarios, where lighter tails from in- and out-degrees 
 are observed.
 
-[BibTex](https://panpan-zhang.com/files/wang2022directed.bib)
-
-[Download paper here](https://doi.org/10.1007/s10463-022-00827-5)
-
-[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4467842)
+<button class="IPbutton" type="button" onclick="window.location='https://doi.org/10.1007/s10463-022-00827-5'">Article</button>
+<button class="IPbutton" type="button" onclick="window.location='https://panpan-zhang.com/files/wang2022directed.bib'">BibTex</button>
+<button class="IPbutton" type="button" onclick="window.location='https://mathscinet.ams.org/mathscinet-getitem?mr=4467842'">AMS:Mathematical Reviews</button>
