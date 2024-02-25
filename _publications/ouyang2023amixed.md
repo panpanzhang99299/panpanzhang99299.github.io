@@ -15,6 +15,5 @@ citation: 'Ouyang, G., Dey, D. K. and Zhang, P. (2023).
 ---
 We propose a simple mixed membership model for social network clustering in this paper. A flexible function is adopted to measure affinities among a set of entities in a social network. The model not only allows each entity in the network to possess more than one membership, but also provides accurate statistical inference about network structure. We estimate the membership parameters using an MCMC algorithm. We evaluate the performance of the proposed algorithm by applying our model to two empirical social network data, the Zachary club data and the bottlenose dolphin network data. We also conduct some numerical studies based on synthetic networks for further assessing the effectiveness of our algorithm. In the end, some concluding remarks and future work are addressed briefly.
 
-[BibTex](https://panpanzhang99299.github.io/files/ouyang2023amixed.bib)
-
-[Download paper here](https://doi.org/10.6339/23-JDS1109)
+<button class="IPbutton" type="button" onclick="window.location='https://doi.org/10.6339/23-JDS1109'">Article</button>
+<button class="IPbutton" type="button" onclick="window.location='https://panpanzhang99299.github.io/files/ouyang2023amixed.bib'">BibTex</button>
