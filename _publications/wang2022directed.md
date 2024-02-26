@@ -2,13 +2,13 @@
 title: "Directed hybrid random networks mixing preferential attachment with uniform attachment mechanisms"
 collection: publications
 permalink: /publication/wang2022directed
-excerpt: 'In this paper, we consider a directed hybrid random network that mixes preferential attahcment (PA) rules with
-uniform attachment (UA) rules. We rigorously show that this class of networks have lighter distributional tails than pure
-PA models. For inference, two parameter estimation schemes are developed, and justified by simulations. A real network
-data application indicates that the proposed network model provides a better fit than pure PA model.'
+excerpt: 'In this paper, we considered a directed hybrid random network mixing preferential attahcment (PA) rules with
+uniform attachment (UA) rules. We proved that this class of hybrid networks would have lighter distributional tails than directed
+PA networks. For inference, two parameter estimation schemes were developed, and justified by simulations. A real network
+data application showed that the proposed network model provided a better fit than pure PA model.'
 date: 2022-04-23
 venue: 'Annals of the Institute of Statistical Mathematics'
-paperurl: 'https://doi.org/10.1007/s11009-019-09726-4'
+paperurl: 'https://doi.org/10.1007/s10463-022-00827-5'
 citation: 'Wang, T. and Zhang, P. (2022). &quot;Directed hybrid random networks mixing preferential attachment with uniform attachment mechanisms.&quot; <i>Annals of the Institute of Statistical Mathematics</i>, <b>74</b>(5), 957--986.'
 ---
 Motivated by the complexity of network data, we propose a directed hybrid random network that mixes 
@@ -20,8 +20,6 @@ are applied to both synthetic and real network data. We see that with extra flex
 the hybrid random network provides a better fit to real-world scenarios, where lighter tails from in- and out-degrees 
 are observed.
 
-[BibTex](https://panpan-zhang.com/files/wang2022directed.bib)
-
-[Download paper here](https://doi.org/10.1007/s11009-019-09726-4)
-
-[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4467842)
+<button class="IPbutton" type="button" onclick="window.location='https://doi.org/10.1007/s10463-022-00827-5'">Article</button>
+<button class="IPbutton" type="button" onclick="window.location='https://panpan-zhang.com/files/wang2022directed.bib'">BibTex</button>
+<button class="IPbutton" type="button" onclick="window.location='https://mathscinet.ams.org/mathscinet-getitem?mr=4467842'">AMS:Mathematical Reviews</button>
