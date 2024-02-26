@@ -11,6 +11,7 @@ author_profile: true
 [![CRAN Status](http://www.r-pkg.org/badges/version-last-release/wdnet)](https://cran.r-project.org/package=wdnet)
 [![CRAN Checks](https://badges.cranchecks.info/summary/wdnet.svg)](https://cran.r-project.org/web/checks/check_results_wdnet.html)
 [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/wdnet)](https://cran.r-project.org/package=wdnet)
+[![JDS](https://img.shields.io/badge/JDS-10.6339%2F23--JDS1110-brightgreen)](https://doi.org/10.6339/23-JDS1110)
 <!-- badges: end -->
 
 This is a R package for weighted directed network analysis. The package is publicly
