@@ -25,7 +25,7 @@ Services
 
 News
 ============
-* Our new algorithm paper "A strength and sparsity preserving algorithm for generating weighted, directed networks with predetermined assortativity" has been accepted for publication on *Physica A: Statistical Mechanics and its Applications*.
+* Our new algorithm paper "A strength and sparsity preserving algorithm for generating weighted, directed networks with predetermined assortativity" has been accepted for publication in *Physica A: Statistical Mechanics and its Applications*.
 The preprint can be found on [ArXiv](https://arxiv.org/pdf/2308.13033.pdf).
 
 * My two invited session proposal have been accepted for [ICSA 2024 Applied Statistics Symposium](https://symposium2024.icsa.org/) in Nashville, TN, USA from June 16 to 19, 2024. 
