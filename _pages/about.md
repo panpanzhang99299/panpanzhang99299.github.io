@@ -25,6 +25,9 @@ Services
 
 News
 ============
+* Our new algorithm paper "A strength and sparsity preserving algorithm for generating weighted, directed networks with predetermined assortativity" has been accepted for publication on *Physica A: Statistical Mechanics and its Applications*.
+The preprint can be found on [ArXiv](https://arxiv.org/pdf/2308.13033.pdf).
+
 * My two invited session proposal have been accepted for [ICSA 2024 Applied Statistics Symposium](https://symposium2024.icsa.org/) in Nashville, TN, USA from June 16 to 19, 2024. 
   - Invited Session: Novel Statistical Methods for Imaging Data Analysis and Beyond. Confirmed speakers include Professors [Andrew A. Chen](https://andrewanchen.github.io/) (MUSC), [Moo K. Chung](https://pages.stat.wisc.edu/~mchung/) (UW-Madison), [Shan Yu](https://statistics.as.virginia.edu/faculty-staff/profile/sy5jx) (UVA) and [Yize Zhao](https://ysph.yale.edu/profile/yize-zhao/) (Yale).
   - Invited Session: Biostatistics in Government and Pharmaceutical Industry. Confirmed speakers include Drs. Li Cheung (NIH/NCI), Phoebe Jiang (Biogen), Cong Wang (FDA) and Lanju Zhang (Vertex).
