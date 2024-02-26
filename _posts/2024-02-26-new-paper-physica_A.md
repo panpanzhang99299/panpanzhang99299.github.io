@@ -1,5 +1,5 @@
 ---
-title: 'Invited Session for ENAR 2024'
+title: 'New Paper on Physica A'
 date: 2022-02-26
 permalink: /posts/2012/08/blog-post-1/
 tags:
