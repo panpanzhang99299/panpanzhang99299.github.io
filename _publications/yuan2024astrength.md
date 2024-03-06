@@ -8,7 +8,7 @@ venue: 'Physica A: Statistical Mechanics and its Applications'
 paperurl: 'https://doi.org/10.1016/j.physa.2024.129634'
 citation: 'Yuan, Y., Yan, J. and Zhang, P. (2024). 
 &quot;A strength and sparsity preserving algorithm for generating weighted, directed networks with predetermined assortativity.&quot; 
-<i>Physica A: Statistical Mechanics and its Applications</i>, <b>638</b>(1), 129634.'
+<i>Physica A: Statistical Mechanics and its Applications</i>, <b>638</b>, 129634.'
 ---
 Degree-preserving rewiring is a widely used technique for generating unweighted networks with given assortativity, but for weighted networks, it is unclear how an analog would preserve the strengths and other critical network features such as sparsity level. This study introduces a novel approach for rewiring weighted networks to achieve desired directed assortativity. The method utilizes a mixed integer programming framework to establish a target network with predetermined assortativity coefficients, followed by an efficient rewiring algorithm termed “strength and sparsity preserving rewiring” (SSPR). SSPR retains the node strength distributions and network sparsity after rewiring. It is also possible to accommodate additional properties like edge weight distribution, albeit with extra computational cost. The optimization scheme can be used to determine feasible assortativity ranges for an initial network. The effectiveness of the proposed SSPR algorithm is demonstrated through its application to two classes of popular network models.
 
