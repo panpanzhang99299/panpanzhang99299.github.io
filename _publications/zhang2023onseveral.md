@@ -11,10 +11,8 @@ citation: 'Zhang, P. (2023).
 &quot;On Several properties of a class of hybrid recursive trees.&quot; 
 <i>Methodology and Computing in Applied Probability</i>, <b>25</b>(1), 16.'
 ---
-n this paper, we propose a class of random trees, the evolution of which is an integration of uniform and preferential attachments. Hence, they are called hybrid recursive trees (HRTs). The goal of this paper is to characterize the structure of HRTs. At first, we investigate the degree profile of HRTs by determining the exact and asymptotic mean of the degree of a node with fixed label. Next, we show that the limit distribution of the number of leaves of HRTs is Gaussian, and that the degree distribution follows a power law, suggesting that HRTs are scale-free. At last, we look into the Zagreb index of HRTs, where the first two moments are calculated.
+In this paper, we propose a class of random trees, the evolution of which is an integration of uniform and preferential attachments. Hence, they are called hybrid recursive trees (HRTs). The goal of this paper is to characterize the structure of HRTs. At first, we investigate the degree profile of HRTs by determining the exact and asymptotic mean of the degree of a node with fixed label. Next, we show that the limit distribution of the number of leaves of HRTs is Gaussian, and that the degree distribution follows a power law, suggesting that HRTs are scale-free. At last, we look into the Zagreb index of HRTs, where the first two moments are calculated.
 
-[BibTex](https://panpanzhang99299.github.io/files/zhang2023onseveral.bib)
-
-[Download paper here](https://doi.org/10.1007/s11009-023-09988-z)
-
-[Mathematical review](https://mathscinet.ams.org/mathscinet-getitem?mr=4547421)
+<button class="IPbutton" type="button" onclick="window.location='https://doi.org/10.1007/s11009-023-09988-z'">Article</button>
+<button class="IPbutton" type="button" onclick="window.location='https://panpanzhang99299.github.io/files/zhang2023onseveral.bib'">BibTex</button>
+<button class="IPbutton" type="button" onclick="window.location='https://mathscinet.ams.org/mathscinet-getitem?mr=4547421'">AMS:Mathematical Reviews</button>
