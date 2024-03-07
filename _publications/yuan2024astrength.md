@@ -3,7 +3,7 @@ title: "A strength and sparsity preserving algorithm for generating weighted, di
 collection: publications
 permalink: /publication/yuan2024astrength
 excerpt: 'In this paper, we proposed an efficient algorithm for generating weighted, directed networks with given assortativity measures. The determination of target networks was done by solving a linear programming problem, followed by a rewiring algorithm preserving node strenghts and network sparsity. The method implementation was done through Python. 
-[[**DOI**](https://doi.org/10.1016/j.physa.2024.129634) | [**ArXiv**](https://arxiv.org/pdf/2308.13033.pdf)]'
+<[**DOI**](https://doi.org/10.1016/j.physa.2024.129634) \| [**ArXiv**](https://arxiv.org/pdf/2308.13033.pdf)>'
 date: 2024-02-28
 venue: 'Physica A: Statistical Mechanics and its Applications'
 paperurl: 'https://doi.org/10.1016/j.physa.2024.129634'
