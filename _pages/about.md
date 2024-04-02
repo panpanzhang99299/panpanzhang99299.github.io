@@ -25,20 +25,10 @@ Services
 
 News
 ============
+* Our new method paper "The Sackin index and depth of leaves in generalized Schröder trees" has been accepted for publication in *Stochastic Models*. The paper is at the stage of final round of proofreading.
+* Our new neuroimaging paper "Empirical assessment of the assumptions of ComBat with diffusion tensor imaging" has been accepted for publication in *Journal of Medical Imaging*. The paper is currently in press.
 * Our new algorithm paper "A strength and sparsity preserving algorithm for generating weighted, directed networks with predetermined assortativity" has been accepted for publication in *Physica A: Statistical Mechanics and its Applications*.
 The preprint can be found on [ArXiv](https://arxiv.org/pdf/2308.13033.pdf).
-
-* My two invited session proposal have been accepted for [ICSA 2024 Applied Statistics Symposium](https://symposium2024.icsa.org/) in Nashville, TN, USA from June 16 to 19, 2024. 
-  - Invited Session: Novel Statistical Methods for Imaging Data Analysis and Beyond. Confirmed speakers include Professors [Andrew A. Chen](https://andrewanchen.github.io/) (MUSC), [Moo K. Chung](https://pages.stat.wisc.edu/~mchung/) (UW-Madison), [Shan Yu](https://statistics.as.virginia.edu/faculty-staff/profile/sy5jx) (UVA) and [Yize Zhao](https://ysph.yale.edu/profile/yize-zhao/) (Yale).
-  - Invited Session: Biostatistics in Government and Pharmaceutical Industry. Confirmed speakers include Drs. Li Cheung (NIH/NCI), Phoebe Jiang (Biogen), Cong Wang (FDA) and Lanju Zhang (Vertex).
-* Multiple VMAC abstracts have been presented at [AAIC 2023](https://aaic.alz.org/highlights2023.asp):
-  - Neighborhood disadvantage is associated with changes in cerebrovascular function among older adults over a 9 year follow‐up period (Cambronero et al., [DOI](https://doi.org/10.1002/alz.080675))
-  - Higher baseline cerebrospinal fluid platelet-derived growth factor receptor-ß levels are associated with slower reductions in longitudinal cerebral blood flow among cognitively unimpaired individuals (Moore et al., [DOI](https://doi.org/10.1002/alz.080372))
-  - Dyadic patterns of subjective cognitive decline relate to Alzheimer’s disease biomarkers differently in preclinical and prodromal clinical states (Houston et al., [DOI](https://doi.org/10.1002/alz.075637))
-  - CSF‐plasma albumin ratio differs by sex in community dwelling older adults (Yates et al., [DOI](https://doi.org/10.1002/alz.080059))
-  - Sex-specific associations of cerebrospinal fluid YKL-40 with white matter hyperintensities over a 7-year follow-up period (Peterson et al., [DOI](https://doi.org/10.1002/alz.079755))
-  - Cognitive status modifies the association between elevated cerebrospinal fluid phosphorylated tau and longitudinal cerebral blood flow changes over a 7-year follow-up period (Robb et al., [DOI](https://doi.org/10.1002/alz.080341))
-
 
 [More News](https://panpan-zhang.com/year-archive/)
 
