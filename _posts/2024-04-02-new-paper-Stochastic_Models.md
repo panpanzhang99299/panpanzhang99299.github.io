@@ -1,6 +1,6 @@
 ---
 title: 'New Paper in Stochastic Models'
-date: 2022-02-26
+date: 2024-04-02
 permalink: /posts/2012/08/blog-post-6/
 tags:
   - Leaves
