@@ -1,6 +1,6 @@
 ---
 title: 'Invited Session for ENAR 2024'
-date: 2022-02-01
+date: 2024-02-01
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - Biostatistics
