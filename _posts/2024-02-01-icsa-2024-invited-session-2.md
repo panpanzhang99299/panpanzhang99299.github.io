@@ -17,5 +17,5 @@ The session title is "Biostatistics in Government and Pharmaceutical Industry". 
 - Lanju Zhang (Vertex)
 
 
-Invited Session for ENAR 2024!
+Invited Session for ICSA 2024!
 =====
