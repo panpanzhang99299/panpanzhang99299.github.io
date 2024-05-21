@@ -10,7 +10,7 @@ tags:
 ---
 
 Our new neuroimaging paper "Empirical assessment of the assumptions of ComBat with diffusion tensor imaging" has been accepted for 
-publication in *Journal of Medical Imaging*. The paper is currently in press.
+publication in *Journal of Medical Imaging*; [DOI](https://doi.org/10.1117/1.JMI.11.2.024011).
 
 
 New paper in JMI!
