@@ -9,9 +9,8 @@ tags:
   - Publication
 ---
 
-Our new neuroimaging paper "The Sackin index and depth of leaves in generalized Schröder trees" has been accepted for 
-publication in *Stochastic Models*. The paper is at the stage of final round of proofreading.
-
+Our new random network paper "The Sackin index and depth of leaves in generalized Schröder trees" has been accepted for 
+publication in *Stochastic Models*; [DOI](https://doi.org/10.1080/15326349.2024.2353061).
 
 New paper in Stochastic Models!
 =====

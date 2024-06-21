@@ -26,14 +26,11 @@ Services
 
 News
 ============
+* Our new method paper "Predictive partly conditional models for longitudinal ordinal outcomes with application to Alzheimer’s disease progression" has been accepted for publication in *Statistics in Bioscience*; [DOI](https://doi.org/10.1007/s12561-024-09433-w).
 * I am organizing three invited sessions for The 37th New England Statistics Symposium ([NESS 2024](https://symposium.nestat.org/)) that is going to take place in Storrs, CT, USA from May 22 to 24, 2024. They are
   * Recent Advances in Statistical Methods for Neuroimaging Research: Speakers include Drs. [Guanqun Cao](https://sites.google.com/view/guanquncaowebpage) (MSU), [Suprateek Kundu](https://sites.google.com/view/suprateek/home) (MD Anderson), [Simon Vandekar](https://simonvandekar.github.io/) (VUMC) and myself;
-  * Innovative Statistical Methods for Longitudinal and Survival Data Analyses: Speakers include Drs. [Hongyuan Cao](https://ani.stat.fsu.edu/~hycao/) (FSU), [Shou-En Lu](https://sph.rutgers.edu/directory/shou-en-lu-phd-sheherhers) (Rutgers), [Jing Qian](https://www.umass.edu/public-health-sciences/about/directory/jing-qian) (UMASS Amherst) and [Yi Xiong](https://www.buffalo.edu/ai-data-science/people/ub-affiliated-faculty.host.html/content/shared/sphhp/biostatistics/profiles/faculty/xiong-yi.detail.html) (UB);
+  * Innovative Statistical Methods for Longitudinal and Survival Data Analyses: Speakers include Drs. [Hongyuan Cao](https://ani.stat.fsu.edu/~hycao/) (FSU), [Shou-En Lu](https://sph.rutgers.edu/directory/shou-en-lu-phd-sheherhers) (Rutgers), [Jing Qian](https://www.umass.edu/public-health-sciences/about/directory/jing-qian) (UMASS Amherst) and [Jun Yan](https://statistics.uconn.edu/person/jun-yan/) (UConn);
   * Recent Advances in Network Analysis: Theory and Applications: Speakers include Drs. [Yuanjia Wang](https://blogs.cuit.columbia.edu/yw2016/) (Columbia), [Hosam Mahmoud](https://statistics.columbian.gwu.edu/hosam-mahmoud) (GWU) and [Laura Forastiere](https://ysph.yale.edu/profile/laura-forastiere/) (Yale); The fourth speaker is Shiying Xiao, a Ph.D. student from UConn.
-* Our new method paper "The Sackin index and depth of leaves in generalized Schröder trees" has been accepted for publication in *Stochastic Models*. The paper is at the stage of final round of proofreading.
-* Our new neuroimaging paper "Empirical assessment of the assumptions of ComBat with diffusion tensor imaging" has been accepted for publication in *Journal of Medical Imaging*. The paper is currently in press.
-* Our new algorithm paper "A strength and sparsity preserving algorithm for generating weighted, directed networks with predetermined assortativity" has been accepted for publication in *Physica A: Statistical Mechanics and its Applications*.
-The preprint can be found on [ArXiv](https://arxiv.org/pdf/2308.13033.pdf).
 
 [More News](https://panpan-zhang.com/year-archive/)
 

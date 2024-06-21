@@ -10,8 +10,8 @@ tags:
 ---
 
 Our new algorithm paper "A strength and sparsity preserving algorithm for generating weighted, directed networks with
-predetermined assortativity" has been accepted for publication in *Physica A: Statistical Mechanics and its Applications*.
-The preprint can be found on [ArXiv](https://arxiv.org/pdf/2308.13033.pdf).
+predetermined assortativity" has been accepted for publication in *Physica A: Statistical Mechanics and its Applications*; 
+[DOI](https://doi.org/10.1016/j.physa.2024.129634).
 
 
 New paper in Physica A!
