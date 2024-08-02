@@ -26,6 +26,7 @@ Services
 
 News
 ============
+* Our new application paper "Characterizing patterns of DTI variance in aging brains" has been accepted for publication in *Journal of Medical Imaging*.
 * Our new method paper "Predictive partly conditional models for longitudinal ordinal outcomes with application to Alzheimer’s disease progression" has been accepted for publication in *Statistics in Bioscience*; [DOI](https://doi.org/10.1007/s12561-024-09433-w).
 * I am organizing three invited sessions for The 37th New England Statistics Symposium ([NESS 2024](https://symposium.nestat.org/)) that is going to take place in Storrs, CT, USA from May 22 to 24, 2024. They are
   * Recent Advances in Statistical Methods for Neuroimaging Research: Speakers include Drs. [Guanqun Cao](https://sites.google.com/view/guanquncaowebpage) (MSU), [Suprateek Kundu](https://sites.google.com/view/suprateek/home) (MD Anderson), [Simon Vandekar](https://simonvandekar.github.io/) (VUMC) and myself;
