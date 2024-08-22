@@ -13,8 +13,8 @@ location: "Storrs, CT, U.S.A."
 **Spring 2017**
 
 This is a continuing cource of STAT 3375Q. Topics include but not limited to
-* Sampling distributions and parameter estimation,
-* Neyman-Pearson theory of hypothesis testing,
-* correlation,
-* regression,
-* analysis of variance.
+* Sampling distributions and parameter estimation
+* Neyman-Pearson theory of hypothesis testing
+* Correlation
+* Regression
+* Analysis of variance.

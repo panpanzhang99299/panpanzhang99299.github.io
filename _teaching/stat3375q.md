@@ -13,6 +13,6 @@ location: "Storrs, CT, U.S.A."
 **Fall 2016, Fall 2017, Spring 2018**
 
 This cource focuses on the mathematical theory underlying statistical methods. Topics include but not limited to
-* probability spacesdistributions in one and several dimensions,
-* generating functions,
-* limit theorems.
+* Probability distributions in one and several dimensions
+* Generating functions
+* Limit theorems

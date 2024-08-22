@@ -13,7 +13,7 @@ location: "Storrs, CT, U.S.A."
 **Spring 2018**
 
 This cource introduces elementary statistical methods. Topics include but not limited to
-* analysis of variance, 
-* multiple regression, 
-* chi-square tests, 
-* non-parametric procedures.
+* Analysis of variance
+* Multiple regression 
+* Chi-square tests
+* Non-parametric procedures
