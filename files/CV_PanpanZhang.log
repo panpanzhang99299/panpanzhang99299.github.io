@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.10)  21 AUG 2024 17:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.17)  28 AUG 2024 21:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./CV_PanpanZhang.tex
 (CV_PanpanZhang.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28>
+L3 programming layer <2022-08-30>
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
@@ -213,7 +213,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip50
 )
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
-Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup4
 \symboldletters=\mathgroup5
 \symboldsymbols=\mathgroup6
@@ -231,7 +231,7 @@ Package xcolor Info: Driver file: pdftex.def on input line 227.
 
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
 ef
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
 x)
@@ -249,7 +249,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 
 (C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 \l__pdf_internal_box=\box52
 ) (CV_PanpanZhang.aux)
@@ -350,10 +350,10 @@ Package rerunfilecheck Info: File `CV_PanpanZhang.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9373 strings out of 475385
- 147332 string characters out of 2775962
- 506016 words of memory out of 3000000
- 30500 multiletter control sequences out of 15000+600000
+ 9374 strings out of 475389
+ 147344 string characters out of 2776055
+ 505837 words of memory out of 3000000
+ 30497 multiletter control sequences out of 15000+600000
  483372 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,6n,77p,366b,594s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -370,7 +370,7 @@ r17.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmti12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on CV_PanpanZhang.pdf (12 pages, 212944 bytes).
+Output written on CV_PanpanZhang.pdf (12 pages, 213012 bytes).
 PDF statistics:
  378 PDF objects out of 1000 (max. 8388607)
  163 named destinations out of 1000 (max. 500000)
