@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Curriculum Vitae](/blog/images/something.pdf "Curriculum Vitae")
+![Curriculum Vitae](../files/CV_PanpanZhang.pdf "Curriculum Vitae")
 ------
 
 Education
