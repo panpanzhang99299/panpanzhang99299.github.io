@@ -27,7 +27,7 @@ Services
 
 News
 ============
-<img src="/images/calendar-icon.png" width="50" height="50"> ***9-27-2024:*** Our **application** paper "Sex and APOE-ε4 Allele Differences in Longitudinal White Matter Microstructure in Multiple Cohorts of Aging and Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.14343)** | **[BioRxiv](https://doi.org/10.1101/2024.06.10.598357)**>. The paper is in press. 
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="37" height="37"> ***9-27-2024:*** Our **application** paper "Sex and APOE-ε4 Allele Differences in Longitudinal White Matter Microstructure in Multiple Cohorts of Aging and Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.14343)** | **[BioRxiv](https://doi.org/10.1101/2024.06.10.598357)**>. The paper is in press. 
 
 [More News](https://panpan-zhang.com/year-archive/)
 
