@@ -27,8 +27,9 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-27-2024:**</span> Our application paper "Sex and APOE-ε4 Allele Differences in Longitudinal White Matter Microstructure in Multiple Cohorts of Aging and Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.14343)** | **[BioRxiv](https://doi.org/10.1101/2024.06.10.598357)**>. 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**7-30-2024:**</span> Our application paper "Characterizing Patterns of Diffusion Tensor Imaging Variance in Aging Brains" has been accepted for publication in *Journal of Medical Imaging* <**[DOI](https://doi.org/10.1117/1.JMI.11.4.044007)** | **[MedRxiv](https://doi.org/10.1101/2023.08.22.23294381)**>. 
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-27-2024:**</span> Our application paper "Sex and APOE-ε4 Allele Differences in Longitudinal White Matter Microstructure in Multiple Cohorts of Aging and Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.14343)** \| **[BioRxiv](https://doi.org/10.1101/2024.06.10.598357)**>. 
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**7-30-2024:**</span> Our application paper "Characterizing Patterns of Diffusion Tensor Imaging Variance in Aging Brains" has been accepted for publication in *Journal of Medical Imaging* <**[DOI](https://doi.org/10.1117/1.JMI.11.4.044007)** \| **[MedRxiv](https://doi.org/10.1101/2023.08.22.23294381)**>. 
 
 [More News](https://panpan-zhang.com/year-archive/)
 
