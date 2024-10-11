@@ -27,12 +27,7 @@ Services
 
 News
 ============
-* Our new application paper "Characterizing patterns of DTI variance in aging brains" has been accepted for publication in *Journal of Medical Imaging*.
-* Our new method paper "Predictive partly conditional models for longitudinal ordinal outcomes with application to Alzheimer’s disease progression" has been accepted for publication in *Statistics in Bioscience*; [DOI](https://doi.org/10.1007/s12561-024-09433-w).
-* I am organizing three invited sessions for The 37th New England Statistics Symposium ([NESS 2024](https://symposium.nestat.org/)) that is going to take place in Storrs, CT, USA from May 22 to 24, 2024. They are
-  * Recent Advances in Statistical Methods for Neuroimaging Research: Speakers include Drs. [Guanqun Cao](https://sites.google.com/view/guanquncaowebpage) (MSU), [Suprateek Kundu](https://sites.google.com/view/suprateek/home) (MD Anderson), [Simon Vandekar](https://simonvandekar.github.io/) (VUMC) and myself;
-  * Innovative Statistical Methods for Longitudinal and Survival Data Analyses: Speakers include Drs. [Hongyuan Cao](https://ani.stat.fsu.edu/~hycao/) (FSU), [Shou-En Lu](https://sph.rutgers.edu/directory/shou-en-lu-phd-sheherhers) (Rutgers), [Jing Qian](https://www.umass.edu/public-health-sciences/about/directory/jing-qian) (UMASS Amherst) and [Jun Yan](https://statistics.uconn.edu/person/jun-yan/) (UConn);
-  * Recent Advances in Network Analysis: Theory and Applications: Speakers include Drs. [Yuanjia Wang](https://blogs.cuit.columbia.edu/yw2016/) (Columbia), [Hosam Mahmoud](https://statistics.columbian.gwu.edu/hosam-mahmoud) (GWU) and [Laura Forastiere](https://ysph.yale.edu/profile/laura-forastiere/) (Yale); The fourth speaker is Shiying Xiao, a Ph.D. student from UConn.
+:date: ***9-27-2024:*** Our <u>**application**</u> paper "Sex and APOE-ε4 Allele Differences in Longitudinal White Matter Microstructure in Multiple Cohorts of Aging and Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.14343)** | **[BioRxiv](https://doi.org/10.1101/2024.06.10.598357)**>. The paper is in press. 
 
 [More News](https://panpan-zhang.com/year-archive/)
 
