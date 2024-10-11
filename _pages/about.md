@@ -1,11 +1,10 @@
 ---
-permalink: /
+permalink: 
 title: "My Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - about/
 ---
 
 Welcome to Panpan Zhang's personal website. I am currently an Assistant Professor of Biostatistics (tenure track) in the [Department of Biostatistics](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) and an Assistant Professor of Neurology (secondary) in the [Department of Neurology](https://www.vumc.org/neurology) at the [Vanderbilt University Medical Center](https://www.vumc.org/main/home) (VUMC). Besides, I am a faculty member within the [Vanderbilt Memory & Alzheimer's Center](https://www.vumc.org/vmac/home) (VMAC), which is an NIA-funded exploratory [Alzheimer’s Disease Research Center](https://www.nia.nih.gov/health/alzheimers-disease-research-centers) (ADRC) at VUMC.  
