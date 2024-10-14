@@ -1,6 +1,6 @@
 ---
 title: 'New Paper in Statistics in Bioscience'
-date: 2024-04-02
+date: 2024-03-24
 permalink: /posts/2024/04/post-1/
 tags:
   - Alzheimer's disease
@@ -9,8 +9,8 @@ tags:
   - Publication 
 ---
 
-Our method paper "Predictive partly conditional models for longitudinal ordinal outcomes with application to Alzheimer’s disease progression" has been accepted for 
+Our method paper "Predictive Partly Conditional Models for Longitudinal Ordinal Outcomes with Application to Alzheimer’s Disease Progression" has been accepted for 
 publication in *Statistics in Bioscience*; [DOI](https://doi.org/10.1007/s12561-024-09433-w).
 
-**New paper** in *Statistics in Bioscience*!
+New paper in *Statistics in Bioscience*!
 =====
