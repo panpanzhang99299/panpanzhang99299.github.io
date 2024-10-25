@@ -14,8 +14,9 @@ author_profile: true
 [![JDS](https://img.shields.io/badge/JDS-10.6339%2F23--JDS1110-brightgreen)](https://doi.org/10.6339/23-JDS1110)
 <!-- badges: end -->
 
-This is a R package for weighted and directed network analysis. The package is publicly
-available on the [CRAN](https://cran.r-project.org/web/packages/wdnet/index.html).
+This is a R package for weighted and directed network analysis. The package is publicly available on the [CRAN](https://cran.r-project.org/web/packages/wdnet/index.html). This 
+package was selected as one of the "honorable mentions" for the [**John M. Chambers Statistical Software Award**](https://community.amstat.org/jointscsg-section/awards/john-m-chambers)
+(ASA Section on Statistical Computing) in 2023.
 
 ### References
 
