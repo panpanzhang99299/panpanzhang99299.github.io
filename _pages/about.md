@@ -27,7 +27,7 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**11-1-2024:**</span> Our commentary paper "Impact of Early Alcohol Consumption on Adolescent Development: Commentary on a Longitudinal Study Conducted by [Ferariu et al. (2024)](https://onlinelibrary.wiley.com/doi/10.1111/acer.15393)" has been accepted for publication in *Alcohol: Clinical and Experimental Research*. The paper is **in press**.
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**11-1-2024:**</span> Our commentary paper "Impact of Early Alcohol Consumption on Adolescent Development: Commentary on a Longitudinal Study Conducted by [Ferariu et al. (2024)](https://onlinelibrary.wiley.com/doi/10.1111/acer.15393)" has been accepted for publication in *Alcohol: Clinical and Experimental Research* <**[DOI](https://doi.org/10.1111/acer.15497)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-27-2024:**</span> Our application paper "Sex and APOE-ε4 Allele Differences in Longitudinal White Matter Microstructure in Multiple Cohorts of Aging and Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.14343)** \| **[BioRxiv](https://doi.org/10.1101/2024.06.10.598357)**>. 
 
