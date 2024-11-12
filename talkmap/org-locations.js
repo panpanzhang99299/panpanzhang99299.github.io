@@ -91,4 +91,10 @@ var addressPoints = [
     32.7157,
     -117.1611
   ],
+
+  [
+    "Indianapolis, IN, USA",
+    39.7691,
+    -86.1580
+  ],
 ];
