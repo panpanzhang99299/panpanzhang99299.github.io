@@ -1,5 +1,5 @@
 ---
-title: "Characterizations of asymptotic distributions of continuous-time P\'{o}lya processes"
+title: "Characterizations of Asymptotic Distributions of Continuous-Time Pólya Processes"
 collection: publications
 permalink: /publication/chen2019characterizations
 excerpt: 'In this paper, we study a general class of poissonized (tenable and balanced) urns. 
