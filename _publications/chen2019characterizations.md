@@ -19,5 +19,5 @@ is gamma. We also look into the tenable and balanced processes associated with r
 to the process, with minor modifications in the methods of proof, done mutatis mutandis.
 
 <button class="IPbutton" type="button" onclick="window.location='https://doi.org/10.1080/03610926.2018.1510005'">Article</button>
-<button class="IPbutton" type="button" onclick="window.location='../files/chen2019characterizations.bib'">BibTex</button>
+<button class="IPbutton" type="button" onclick="window.location='https://panpanzhang99299.github.io/files/chen2019characterizations.bib'">BibTex</button>
 <button class="IPbutton" type="button" onclick="window.location='https://mathscinet.ams.org/mathscinet-getitem?mr=4007715'">AMS:Mathematical Reviews</button>
