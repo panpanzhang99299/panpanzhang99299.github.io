@@ -22,5 +22,5 @@ distribution, albeit with extra computational cost. The optimization scheme can 
 The effectiveness of the proposed SSPR algorithm is demonstrated through its application to two classes of popular network models.
 
 <button class="IPbutton" type="button" onclick="window.location='https://doi.org/10.1016/j.physa.2024.129634'">Article</button>
-<button class="IPbutton" type="button" onclick="window.location='https://panpanzhang99299.github.io/files/yuan2024astrength'">BibTex</button>
+<button class="IPbutton" type="button" onclick="window.location='https://panpan-zhang.com/files/yuan2024astrength.bib'">BibTex</button>
 <button class="IPbutton" type="button" onclick="window.location='https://mathscinet.ams.org/mathscinet/relay-station?mr=4711177'">AMS:Mathematical Reviews</button>
