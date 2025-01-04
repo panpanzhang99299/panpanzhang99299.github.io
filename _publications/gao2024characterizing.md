@@ -10,17 +10,37 @@ This work has provided a foundation for study planning to account for regional v
 date: 2024-08-24
 venue: 'Journal of Medical Imaging'
 paperurl: 'https://doi.org/10.1117/1.JMI.11.4.044007'
-citation: 'Gao, C., Yang, Q., Kim, M. E., Khairi, N. M., Cai, L. Y., Newlin, N. R., Kanakaraj, P., Remedios, L. W., Krishnan, A. R., Yu, X., Yao, T., 
+citation: "Gao, C., Yang, Q., Kim, M. E., Khairi, N. M., Cai, L. Y., Newlin, N. R., Kanakaraj, P., Remedios, L. W., Krishnan, A. R., Yu, X., Yao, T., 
 Zhang, P., Schilling, K. G., Moyer, D., Archer, D. B., Resnick, S. M., Landman, B. A., the Alzheimer's Disease Neuroimaging Initiative and 
 the BIOCARD Study Team. (2024). &quot;Characterizing patterns of diffusion tensor imaging variance in aging brains. &quot;<i>Journal of Medical Imaging</i>, 
-<b>11</b>(4), 044007.'
+<b>11</b>(4), 044007."
 ---
-A network-based method applied to collaborative filtering in recommender systems is introduced in this paper. Specifically, a novel mixed-membership 
-stochastic block model with a conjugate prior from the exponential family is proposed for bipartite networks. The analytical expression of the model 
-is derived, and a variational Bayesian algorithm that is computationally feasible for approximating the untractable posterior distributions is presented. 
-Extensive simulations show that the proposed model provides more accurate inference than competing methods with the presence of outliers. The proposed 
-model is also applied to a MovieLens dataset for a real data application.
+Purpose:
+===
+As large analyses merge data across sites, a deeper understanding of variance in statistical assessment across the sources of data becomes critical for 
+valid analyses. Diffusion tensor imaging (DTI) exhibits spatially varying and correlated noise, so care must be taken with distributional assumptions. 
+Here, we characterize the role of physiology, subject compliance, and the interaction of the subject with the scanner in the understanding of DTI variability, 
+as modeled in the spatial variance of derived metrics in homogeneous regions.
 
-<button class="IPbutton" type="button" onclick="window.location='https://doi.org/10.1016/j.csda.2023.107836'">Article</button>
-<button class="IPbutton" type="button" onclick="window.location='https://panpanzhang99299.github.io/files/liu2024variational.bib'">BibTex</button>
-<button class="IPbutton" type="button" onclick="window.location='https://mathscinet.ams.org/mathscinet-getitem?mr=4636722'">AMS:Mathematical Reviews</button>
+Approach:
+===
+We analyze DTI data from 1035 subjects in the Baltimore Longitudinal Study of Aging, with ages ranging from 22.4 to 103 years old. For each subject, up to 12 
+longitudinal sessions were conducted. We assess the variance of DTI scalars within regions of interest (ROIs) defined by four segmentation methods and investigate 
+the relationships between the variance and covariates, including baseline age, time from the baseline (referred to as "interval"), motion, sex, and whether it 
+is the first scan or the second scan in the session.
+
+Results:
+===
+Covariate effects are heterogeneous and bilaterally symmetric across ROIs. Inter-session interval is positively related (p << 0.001) to FA variance in the cuneus 
+and occipital gyrus, but negatively (p << 0.001) in the caudate nucleus. Males show significantly (p << 0.001) higher FA variance in the right putamen, thalamus, 
+body of the corpus callosum, and cingulate gyrus. In 62 out of 176 ROIs defined by the Eve type-1 atlas, an increase in motion is associated (p < 0.05) with a decrease 
+in FA variance. Head motion increases during the rescan of DTI (∆µ = 0.045 mm per volume).
+
+Conclusions:
+===
+The effects of each covariate on DTI variance and their relationships across ROIs are complex. Ultimately, we encourage researchers to include estimates of variance 
+when sharing data and consider models of heteroscedasticity in analysis. This work provides a foundation for study planning to account for regional variations in metric variance.
+
+<button class="IPbutton" type="button" onclick="window.location='https://doi.org/10.1117/1.JMI.11.4.044007'">Article</button>
+<button class="IPbutton" type="button" onclick="window.location='https://panpanzhang99299.github.io/files/gao2024characterizing.bib'">BibTex</button>
+<button class="IPbutton" type="button" onclick="window.location='https://pubmed.ncbi.nlm.nih.gov/39185477'">PubMed</button>
