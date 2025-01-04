@@ -34,7 +34,7 @@ Results:
 Covariate effects are heterogeneous and bilaterally symmetric across ROIs. Inter-session interval is positively related (p << 0.001) to FA variance in the cuneus 
 and occipital gyrus, but negatively (p << 0.001) in the caudate nucleus. Males show significantly (p << 0.001) higher FA variance in the right putamen, thalamus, 
 body of the corpus callosum, and cingulate gyrus. In 62 out of 176 ROIs defined by the Eve type-1 atlas, an increase in motion is associated (p < 0.05) with a decrease 
-in FA variance. Head motion increases during the rescan of DTI (∆µ = 0.045 mm per volume).
+in FA variance. Head motion increases during the rescan of DTI ($\Delta \mu = 0.045$ mm per volume).
 
 Conclusions:
 ===
