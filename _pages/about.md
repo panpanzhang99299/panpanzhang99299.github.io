@@ -27,7 +27,7 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-5-2025:**</span> Our application paper "Social Network Analysis as a New Tool to Measure Academic Impact of Physicians" has been accepted for publication in *Laryngoscope Investigative Otolaryngology*.
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-5-2025:**</span> Our application paper "Social Network Analysis as a New Tool to Measure Academic Impact of Physicians" has been accepted for publication in *Laryngoscope Investigative Otolaryngology* <**[DOI](https://doi.org/10.1002/lio2.70060)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**11-1-2024:**</span> Our commentary paper "Impact of Early Alcohol Consumption on Adolescent Development: Commentary on a Longitudinal Study Conducted by [Ferariu et al. (2024)](https://onlinelibrary.wiley.com/doi/10.1111/acer.15393)" has been accepted for publication in *Alcohol: Clinical and Experimental Research* <**[DOI](https://doi.org/10.1111/acer.15497)**>. 
 
