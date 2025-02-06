@@ -27,6 +27,8 @@ Services
 
 News
 ============
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-6-2025:**</span> Our method paper "Rank-Based Assortativity for Weighted, Directed Networks" has been accepted for publication in *Journal of Complex Networks*.
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-5-2025:**</span> Our application paper "Social Network Analysis as a New Tool to Measure Academic Impact of Physicians" has been accepted for publication in *Laryngoscope Investigative Otolaryngology* <**[DOI](https://doi.org/10.1002/lio2.70060)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**11-1-2024:**</span> Our commentary paper "Impact of Early Alcohol Consumption on Adolescent Development: Commentary on a Longitudinal Study Conducted by [Ferariu et al. (2024)](https://onlinelibrary.wiley.com/doi/10.1111/acer.15393)" has been accepted for publication in *Alcohol: Clinical and Experimental Research* <**[DOI](https://doi.org/10.1111/acer.15497)**>. 
@@ -34,8 +36,6 @@ News
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-27-2024:**</span> Our application paper "Sex and APOE-ε4 Allele Differences in Longitudinal White Matter Microstructure in Multiple Cohorts of Aging and Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.14343)** \| **[bioRxiv](https://doi.org/10.1101/2024.06.10.598357)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-8-2024:**</span> I will chair an invited session for the 2025 Lifetime Data Science (**LiDS 2025**) Conference that will be held in Brooklyn, NY (May 28-30, 2025). The confirmed speakers are Drs. [Ana Capuano](https://www.rushu.rush.edu/faculty/ana-w-capuano-mps-phd) (Rush), [Sarah Lotspeich](https://www.sarahlotspeich.com/) (WFU), [Tery Therneau](https://www.mayo.edu/research/faculty/therneau-terry-m-ph-d/bio-00025991) (Mayo) and [Chengjie Xiong](https://i2db.wustl.edu/people/chengjie-xiong/) (WashU).
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**7-30-2024:**</span> Our application paper "Characterizing Patterns of Diffusion Tensor Imaging Variance in Aging Brains" has been accepted for publication in *Journal of Medical Imaging* <**[DOI](https://doi.org/10.1117/1.JMI.11.4.044007)** \| **[medRxiv](https://doi.org/10.1101/2023.08.22.23294381)**>. 
 
 [More News](https://panpan-zhang.com/year-archive/)
 
