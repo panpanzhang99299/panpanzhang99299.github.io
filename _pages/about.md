@@ -27,7 +27,7 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-6-2025:**</span> Our method paper "Rank-Based Assortativity for Weighted, Directed Networks" has been accepted for publication in *Journal of Complex Networks* (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-6-2025:**</span> Our method paper "Rank-Based Assortativity for Weighted, Directed Networks" has been accepted for publication in *Journal of Complex Networks* <**[DOI](https://doi.org/10.1093/comnet/cnaf002)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-5-2025:**</span> Our application paper "Social Network Analysis as a New Tool to Measure Academic Impact of Physicians" has been accepted for publication in *Laryngoscope Investigative Otolaryngology* <**[DOI](https://doi.org/10.1002/lio2.70060)**>.
 
