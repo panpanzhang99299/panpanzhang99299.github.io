@@ -1,7 +1,7 @@
 ---
 title: 'New Paper in Statistics in Bioscience'
 date: 2024-03-24
-permalink: /posts/2024/04/post-1/
+permalink: /posts/2024/post-1/
 tags:
   - Alzheimer's disease
   - Ordinal longitudinal outcomes
