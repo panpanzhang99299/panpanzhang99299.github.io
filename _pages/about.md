@@ -27,7 +27,7 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-21-2025:**</span> Our method paper "Autoregressive Bayesian Modeling of Censored HIV Longitudinal Data Using the Multivariate Student's-t Distribution" has been accepted for publication in *Japanese Journal of Statistics and Data Science* (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-21-2025:**</span> Our method paper "Autoregressive Bayesian Modeling of Censored HIV Longitudinal Data Using the Multivariate Student's-t Distribution" has been accepted for publication in *Japanese Journal of Statistics and Data Science* <**[DOI]( https://doi.org/10.1007/s42081-025-00299-w)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-17-2025:**</span> Our application paper "White Matter Abnormalities and Cognition in Aging and Alzheimer’s Disease" has been accepted for publication in *JAMA Neurology* (in press).
 
