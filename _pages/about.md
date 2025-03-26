@@ -27,21 +27,19 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-10-2025:**</span> Our method paper "CALF-SBM: A Covariate-Assisted Latent Factor Stochastic Block Model" has been accepted for publication in *Physica A: Statistical Mechanics and its Applications* (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-10-2025:**</span> Our clinical paper "Increased Sedentary Behavior Is Associated with Neurodegeneration and Worse Cognition in Older Adults over a 7-Year Period Despite High Levels of Physical Activity" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI]( https://doi.org/10.1002/alz.70157)**>.
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-10-2025:**</span> Our method paper "CALF-SBM: A Covariate-Assisted Latent Factor Stochastic Block Model" has been accepted for publication in *Physica A: Statistical Mechanics and its Applications* <**[DOI]( https://doi.org/10.1016/j.physa.2025.130536)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-21-2025:**</span> Our method paper "Autoregressive Bayesian Modeling of Censored HIV Longitudinal Data Using the Multivariate Student's-t Distribution" has been accepted for publication in *Japanese Journal of Statistics and Data Science* <**[DOI]( https://doi.org/10.1007/s42081-025-00299-w)**>.
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-17-2025:**</span> Our application paper "White Matter Abnormalities and Cognition in Aging and Alzheimer’s Disease" has been accepted for publication in *JAMA Neurology* (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-17-2025:**</span> Our clinical paper "White Matter Abnormalities and Cognition in Aging and Alzheimer’s Disease" has been accepted for publication in *JAMA Neurology* (in press).
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-14-2025:**</span> Our application paper "The Effect of Alzheimer’s Disease Genetic Factors on Limbic White Matter Microstructure" has been accepted for publication in *Alzheimer's & Dementia* (in press). 
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-14-2025:**</span> Our clinical paper "The Effect of Alzheimer’s Disease Genetic Factors on Limbic White Matter Microstructure" has been accepted for publication in *Alzheimer's & Dementia* (in press). 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-6-2025:**</span> Our method paper "Rank-Based Assortativity for Weighted, Directed Networks" has been accepted for publication in *Journal of Complex Networks* <**[DOI](https://doi.org/10.1093/comnet/cnaf002)**>. 
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-5-2025:**</span> Our application paper "Social Network Analysis as a New Tool to Measure Academic Impact of Physicians" has been accepted for publication in *Laryngoscope Investigative Otolaryngology* <**[DOI](https://doi.org/10.1002/lio2.70060)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**11-1-2024:**</span> Our commentary paper "Impact of Early Alcohol Consumption on Adolescent Development: Commentary on a Longitudinal Study Conducted by [Ferariu et al. (2024)](https://onlinelibrary.wiley.com/doi/10.1111/acer.15393)" has been accepted for publication in *Alcohol: Clinical and Experimental Research* <**[DOI](https://doi.org/10.1111/acer.15497)**>. 
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-27-2024:**</span> Our application paper "Sex and APOE-ε4 Allele Differences in Longitudinal White Matter Microstructure in Multiple Cohorts of Aging and Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.14343)** \| **[bioRxiv](https://doi.org/10.1101/2024.06.10.598357)**>. 
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-5-2025:**</span> Our clinical paper "Social Network Analysis as a New Tool to Measure Academic Impact of Physicians" has been accepted for publication in *Laryngoscope Investigative Otolaryngology* <**[DOI](https://doi.org/10.1002/lio2.70060)**>.
 
 [More News](https://panpan-zhang.com/year-archive/)
 
