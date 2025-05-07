@@ -27,6 +27,9 @@ Services
 
 News
 ============
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-7-2025:**</span> Our method paper "The Dynamics of Cognitive 
+		Decline towards Alzheimer’s Disease Progression: Results from ADSP-PHC’s Harmonized Cognitive Composites" has been accepted for publication in *Alzheimer's & Dementia* (in press).
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**4-22-2025:**</span> Our clinical paper "LC-MS/MS Proteomics Identifies Plasma Proteins Related to Cognition over 9-Year Follow-Up" has been accepted for publication in *Alzheimer's & Dementia* (in press).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-26-2025:**</span> Our clinical paper "Increased Sedentary Behavior Is Associated with Neurodegeneration and Worse Cognition in Older Adults over a 7-Year Period Despite High Levels of Physical Activity" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI]( https://doi.org/10.1002/alz.70157)**>.
