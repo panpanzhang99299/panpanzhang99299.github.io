@@ -28,6 +28,8 @@ Services
 News
 ============
 
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-14-2025:**</span> Our application paper "Bias and Efficiency Comparison between Multiple Imputation and Available-Case Analysis for Missing Data in Longitudinal Models" has been accepted for publication in *Statistics in Biosciences* (in press).
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-7-2025:**</span> Our method paper "The Dynamics of Cognitive Decline towards Alzheimer’s Disease Progression: Results from ADSP-PHC’s Harmonized Cognitive Composites" has been accepted for publication in *Alzheimer's & Dementia* (in press).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**4-22-2025:**</span> Our clinical paper "LC-MS/MS Proteomics Identifies Plasma Proteins Related to Cognition over 9-Year Follow-Up" has been accepted for publication in *Alzheimer's & Dementia* (in press).
