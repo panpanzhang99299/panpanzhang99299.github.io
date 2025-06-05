@@ -26,4 +26,4 @@ I have engaged in a variety of research projects, in collaboration with the facu
 *Perelman School of Medicine at the University of Pennsylvania*
 * Center for Neurodegenerative Disease Research ([CNDR](https://www.med.upenn.edu/cndr/))
 * Penn Frontotemporal Degeneration Center ([Penn FTD Center](https://www.med.upenn.edu/ftd/))
-* [Penn Memory Center](https://pennmemorycenter.org/)
+* Penn Memory Center ([PMC](https://pennmemorycenter.org/))
