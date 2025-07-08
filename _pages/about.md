@@ -27,7 +27,11 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-15-2025:**</span> Our clinical paper "The Association between Poor Sleep Health and Alzheimer’s Disease Structural Neuroimaging Biomarkers" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI]( https://doi.org/10.1002/alz.70364)**>.
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-25-2025:**</span> Our clinical paper "Cross-Sectional and Longitudinal Associations of Neighborhood Disadvantage With Fluid Biomarkers of Neuroinflammation and Neurodegeneration" has been accepted for publication in *Neurology* <**[DOI](https://doi.org/10.1212/WNL.0000000000213770)**>.
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-24-2025:**</span> Our application paper "The Social Network of Otolaryngology: Collaborative Publishing Relationships by Gender" has been accepted for publication in *Laryngoscope* <**[DOI](https://doi.org/10.1002/lary.32394)**>.
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-15-2025:**</span> Our clinical paper "The Association between Poor Sleep Health and Alzheimer’s Disease Structural Neuroimaging Biomarkers" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.70364)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-14-2025:**</span> Our application paper "Bias and Efficiency Comparison between Multiple Imputation and Available-Case Analysis for Missing Data in Longitudinal Models" has been accepted for publication in *Statistics in Biosciences* (in press).
 
