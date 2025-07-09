@@ -27,7 +27,7 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-25-2025:**</span> Our review paper "Multimorbidity in Dementia: Current Perspectives and Future Challenges" has been accepted for publication in *Alzheimer's & Dementia* (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**7-5-2025:**</span> Our review paper "Multimorbidity in Dementia: Current Perspectives and Future Challenges" has been accepted for publication in *Alzheimer's & Dementia* (in press).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-25-2025:**</span> Our clinical paper "Cross-Sectional and Longitudinal Associations of Neighborhood Disadvantage With Fluid Biomarkers of Neuroinflammation and Neurodegeneration" has been accepted for publication in *Neurology* <**[DOI](https://doi.org/10.1212/WNL.0000000000213770)**>.
 
