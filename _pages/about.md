@@ -27,6 +27,8 @@ Services
 
 News
 ============
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-25-2025:**</span> Our review paper "Multimorbidity in Dementia: Current Perspectives and Future Challenges" has been accepted for publication in *Alzheimer's & Dementia* (in press).
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-25-2025:**</span> Our clinical paper "Cross-Sectional and Longitudinal Associations of Neighborhood Disadvantage With Fluid Biomarkers of Neuroinflammation and Neurodegeneration" has been accepted for publication in *Neurology* <**[DOI](https://doi.org/10.1212/WNL.0000000000213770)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-24-2025:**</span> Our application paper "The Social Network of Otolaryngology: Collaborative Publishing Relationships by Gender" has been accepted for publication in *Laryngoscope* <**[DOI](https://doi.org/10.1002/lary.32394)**>.
@@ -43,9 +45,9 @@ News
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-10-2025:**</span> Our method paper "CALF-SBM: A Covariate-Assisted Latent Factor Stochastic Block Model" has been accepted for publication in *Physica A: Statistical Mechanics and its Applications* <**[DOI]( https://doi.org/10.1016/j.physa.2025.130536)**>.
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-21-2025:**</span> Our method paper "Autoregressive Bayesian Modeling of Censored HIV Longitudinal Data Using the Multivariate Student's-t Distribution" has been accepted for publication in *Japanese Journal of Statistics and Data Science* <**[DOI]( https://doi.org/10.1007/s42081-025-00299-w)**>.
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-21-2025:**</span> Our method paper "Autoregressive Bayesian Modeling of Censored HIV Longitudinal Data Using the Multivariate Student's-t Distribution" has been accepted for publication in *Japanese Journal of Statistics and Data Science* <**[DOI]( https://doi.org/10.1007/s42081-025-00299-w)**>.
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-17-2025:**</span> Our clinical paper "White Matter Abnormalities and Cognition in Aging and Alzheimer’s Disease" has been accepted for publication in *JAMA Neurology* (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-17-2025:**</span> Our clinical paper "White Matter Abnormalities and Cognition in Aging and Alzheimer’s Disease" has been accepted for publication in *JAMA Neurology* <**[DOI]( https://doi.org/10.1001/jamaneurol.2025.1601)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**2-14-2025:**</span> Our clinical paper "The Effect of Alzheimer’s Disease Genetic Factors on Limbic White Matter Microstructure" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI]( https://doi.org/10.1002/alz.70130)**>.
 
