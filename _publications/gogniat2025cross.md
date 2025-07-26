@@ -7,13 +7,13 @@ excerpt: "In this paper, WE examined both cross-sectional and longitudinal links
         At baseline, greater neighborhood disadvantage was significantly associated with higher cerebrospinal fluid levels of chitinase-3-like protein 1 (YKL-40), a marker of neuroinflammation, 
         and elevated total tau. Longitudinally, higher ADI was linked to faster annual increases in plasma high-sensitivity C-reactive protein (CRP), a nonspecific systemic inflammation marker, 
         after adjusting for key covariates. The findings support the idea that living in socioeconomically disadvantaged neighborhoods may contribute to systemic inflammation and early 
-        AD-related neurodegenerative processes, suggesting a sociobiologic pathway underlying health disparities in aging"
+        AD-related neurodegenerative processes, suggesting a sociobiologic pathway underlying health disparities in aging."
 date: 2025-06-25
 venue: "Neurology"
 paperurl: 'https://doi.org/10.1212/WNL.000000000021377'
 citation: "Gogniat, M. A., Khan, O. A., Ratangee, B., Bolton, C. J., Zhang, P., Liu, D., Pechman, K. R., Yates, A., Gaynor, L. S., Eaton, J.,
-            Peterson, A., Gifford, K. A., Hohman, T. J., Blennow, K., Zetterberg, H. and Jefferson, A. L. (2025). &quot;Cross-sectional and longitudinal 
-            associations of neighborhood disadvantage with fluid biomarkers of neuroinflammation and neurodegeneration. &quot;<i>Neurology</i>, 
+            Peterson, A., Gifford, K. A., Hohman, T. J., Blennow, K., Zetterberg, H. and Jefferson, A. L. (2025).&quot;Cross-sectional and longitudinal 
+            associations of neighborhood disadvantage with fluid biomarkers of neuroinflammation and neurodegeneration.&quot;<i>Neurology</i>, 
             <b>105</b>(2), e213770."
 ---
 Background: 
