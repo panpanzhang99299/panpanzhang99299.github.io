@@ -27,14 +27,14 @@ optimal cutoffs derived from the PPMI cohort.
 
 Results: 
 ===
-Using PET amyloid imaging as the gold standard for AD pathology, the optimal cutoff of A$\beta_{142}$ was higher than the AD cutoff, the optimal 
-cutoffs of t-tau/A$\beta_{142}$ and p-tau/A$\beta_{142}$ were lower than the AD cutoffs, and their confidence intervals (CIs) did not overlap with the AD cutoffs. 
+Using PET amyloid imaging as the gold standard for AD pathology, the optimal cutoff of A$\beta$142 was higher than the AD cutoff, the optimal 
+cutoffs of t-tau/A$\beta$142 and p-tau/A$\beta$142 were lower than the AD cutoffs, and their confidence intervals (CIs) did not overlap with the AD cutoffs. 
 Optimal cutoffs for t-tau and p-tau to predict cognitive impairment were significantly lower than the AD cutoffs, and their CIs did not 
 overlap with the AD cutoffs. 
 
 Conclusion: 
 ===
-Optimal cutoffs for the PPMI cohort for A$\beta$142, t-tau/A$\beta_{142}$, and p-tau/A$\beta_{142}$ to predict amyloid-PET positivity and for t-tau and p-tau to 
+Optimal cutoffs for the PPMI cohort for A$\beta$142, t-tau/A$\beta$142, and p-tau/A$\beta$142 to predict amyloid-PET positivity and for t-tau and p-tau to 
 predict cognitive impairment differ significantly from cutoffs derived from AD populations. The presence of additional pathologies such as 
 alpha-synuclein in PD may lead to disease-specific CSF biomarker characteristics.
 
