@@ -2,12 +2,7 @@
 title: "Cross-sectional and longitudinal associations of neighborhood disadvantage with fluid biomarkers of neuroinflammation and neurodegeneration"
 collection: publications
 permalink: /publication/gogniat2025cross
-excerpt: "In this paper, WE examined both cross-sectional and longitudinal links between baseline neighborhood disadvantage, quantified by the Area Deprivation Index (ADI), 
-        and fluid biomarkers of neuroinflammation and Alzheimer's disease (AD) pathology over up to nine years of follow-up using the Vanderbilt Memory and Aging Project cohort. 
-        At baseline, greater neighborhood disadvantage was significantly associated with higher cerebrospinal fluid levels of chitinase-3-like protein 1 (YKL-40), a marker of neuroinflammation, 
-        and elevated total tau. Longitudinally, higher ADI was linked to faster annual increases in plasma high-sensitivity C-reactive protein (CRP), a nonspecific systemic inflammation marker, 
-        after adjusting for key covariates. The findings support the idea that living in socioeconomically disadvantaged neighborhoods may contribute to systemic inflammation and early 
-        AD-related neurodegenerative processes, suggesting a sociobiologic pathway underlying health disparities in aging."
+excerpt: 'In this paper, we examined both cross-sectional and longitudinal links between baseline neighborhood disadvantage, quantified by the Area Deprivation Index (ADI), and fluid biomarkers of neuroinflammation and Alzheimer disease (AD) pathology over up to nine years of follow-up using the Vanderbilt Memory and Aging Project cohort. At baseline, greater neighborhood disadvantage was significantly associated with higher cerebrospinal fluid levels of chitinase-3-like protein 1 (YKL-40), a marker of neuroinflammation, and elevated total tau. Longitudinally, higher ADI was linked to faster annual increases in plasma high-sensitivity C-reactive protein (CRP), a nonspecific systemic inflammation marker, after adjusting for key covariates. The findings support the idea that living in socioeconomically disadvantaged neighborhoods may contribute to systemic inflammation and early AD-related neurodegenerative processes, suggesting a sociobiologic pathway underlying health disparities in aging. <[**DOI**](https://doi.org/10.1212/WNL.000000000021377) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/40561381)>'
 date: 2025-06-25
 venue: "Neurology"
 paperurl: 'https://doi.org/10.1212/WNL.000000000021377'
