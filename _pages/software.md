@@ -22,7 +22,7 @@ package was selected as one of the "honorable mentions" for the [**John M. Chamb
 
 1. Yuan, Y., Yan, J. and **Zhang, P.** (2021). Assortativity measures for weighted and directed networks. *Journal of Complex Networks*, **9**(2), cnab017. <[**DOI**](https://doi.org/10.1093/comnet/cnab017)>
 2. **Zhang, P.**, Wang, T. and Yan, J. (2022). PageRank centrality and algorithms for weighted, directed networks. *Physica A: Statistical Mechanics and its Applications*, **586**, 126438. <[**DOI**](https://doi.org/10.1016/j.physa.2021.126438)>
-3. Wang, T., Yan, J., Yuan, Y. and **Zhang, P.** (2022). Generating directed networks with predetermined assortativity measures. *Statistics and Computing*, **32**(5), 91. <[**DOI**](https://doi.org/10.1007/s11222-022-10161-8)> ***<span style="color:magenta">(Equal contribution)</span>***
+3. Wang, T., Yan, J., Yuan, Y. and **Zhang, P.** (2022). Generating directed networks with predetermined assortativity measures. *Statistics and Computing*, **32**(5), 91. <[**DOI**](https://doi.org/10.1007/s11222-022-10161-8)> ***<span style="color:brown">(Equal contribution)</span>***
 4. Yuan, Y., Wang, T., Yan, J. and **Zhang, P.** (2023). Generating general preferential attachment networks with R package wdnet. *Journal of Data Science*, **21**(3), 538--556. <[**DOI**](https://doi.org/10.6339/23-JDS1110)>
 5. Yuan, Y., Yan, J. and **Zhang, P.** (2024). A Strength and sparsity preserving algorithm for generating weighted, directed networks with predetermined assortativity. *Physica A: Statistical Mechanics and its Applications*, **638**, 129634. <[**DOI**](https://doi.org/10.1016/j.physa.2024.129634)>
 
