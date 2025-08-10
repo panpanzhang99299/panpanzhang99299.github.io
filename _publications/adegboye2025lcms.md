@@ -1,10 +1,10 @@
 ---
 title: "LC-MS/MS proteomics identifies plasma proteins related to cognition over 9-year follow-up"
 collection: publications
-permalink: /publication/gogniat2025cross
+permalink: /publication/adegboye2025lcms
 excerpt: 'In this paper, we used tandem mass tag (TMT)-labeled LC-MS/MS proteomics to examine plasma samples from 336 older adults. We identified 10 plasma proteins whose baseline levels significantly predicted 
 cognitive decline in specific domains over a 9‑year follow-up: language (e.g., EGFR, RTN4RL2), processing speed (e.g., EGFR, NOMO2, CLEC3B), executive function (A1BG), and visuospatial skills (e.g., RTN4RL2, GALNT1, 
-SERPINA4/5, C8A, ALDOB); though not episodic memory. <[**DOI**](https://doi.org/10.1002/alz.70276) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/40469059/)>'
+SERPINA4, SERPINA5, C8A, ALDOB); though not episodic memory. <[**DOI**](https://doi.org/10.1002/alz.70276) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/40469059/)>'
 date: 2025-06-05
 venue: "Alzheimer's & Dementia"
 paperurl: 'https://doi.org/10.1002/alz.70276'
@@ -18,8 +18,8 @@ This project identified plasma proteins predictive of cognitive decline across a
 
 Methods
 ===
-Vanderbilt Memory and Aging Project participants (n = 336, 73 $\pm$ 7 years, 59% male, 87% non-Hispanic White, 10% Black/African American) underwent blood draw for 
-baseline plasma protein abundance using mass spectrometry analysis of tandem mass tag (TMT)-labeled peptides and serial neuropsychological assessment (follow-up = 6.1 $\pm$ 2.3 years). 
+Vanderbilt Memory and Aging Project participants ($n = 336$, $73 \pm$ 7$ years, $59\%$ male, $87\%$ non-Hispanic White, 10% Black/African American) underwent blood draw for 
+baseline plasma protein abundance using mass spectrometry analysis of tandem mass tag (TMT)-labeled peptides and serial neuropsychological assessment (follow-up = $6.1 \pm 2.3$ years). 
 Linear mixed-effects regressions related protein levels to neuropsychological outcomes in fully adjusted models. False discovery rate correction was applied.
 
 Results
