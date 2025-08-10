@@ -8,7 +8,7 @@ author_profile: true
 
 - **<span style="color:teal">Yiqing Pan</span>**, M.S. in Biostatistics (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center
 
-## Former Ph.D. Students (Collaborative Mentorship)
+# Former Ph.D. Students (Collaborative Mentorship)
 
 - **<span style="color:teal">Yelie Yuan</span>** (Advisor: Dr. [Jun Yan](https://statistics.uconn.edu/person/jun-yan/)), Ph.D. (2023), Department of Statistics, University of Connecticut
   1. **<span style="color:teal">Yuan, Y.</span>**, Yan, J. and **Zhang, P.** (2021). Assortativity measures for weighted and directed networks. *Journal of Complex Networks*, **9**(2), cnab017. <[**DOI**](https://doi.org/10.1093/comnet/cnab017)>
