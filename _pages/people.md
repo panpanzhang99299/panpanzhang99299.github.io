@@ -1,18 +1,16 @@
 ---
-title: "People"
+title: "Students"
 permalink: /people/
 author_profile: true
 ---
 
-## Students
-
-### Vanderbilt University Medical Center
+## Vanderbilt University Medical Center
 
 - **<span style="color:brown">Zongyue Teng</span>** (co-advised with Dr. [Dandan Liu](https://www.vumc.org/biostatistics/person/dandan-liu)), M.S. in Biostatistics (expected 2026)
 
 - **<span style="color:brown">Yiqing Pan</span>**, M.S. in Biostatistics (expected 2026)
 
-### University of Connecticut
+## University of Connecticut
 
 - **<span style="color:brown">Yelie Yuan.</span>** (Advisor: Dr. [Jun Yan](https://statistics.uconn.edu/person/jun-yan/)), Ph.D in Statistics (2023)
   1. **<span style="color:brown">Yuan, Y.</span>**, Yan, J. and **Zhang, P.** (2021). Assortativity measures for weighted and directed networks. *Journal of Complex Networks*, **9**(2), cnab017. <[**DOI**](https://doi.org/10.1093/comnet/cnab017)>
