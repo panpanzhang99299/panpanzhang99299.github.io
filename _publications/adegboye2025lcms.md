@@ -18,7 +18,7 @@ This project identified plasma proteins predictive of cognitive decline across a
 
 Methods
 ===
-Vanderbilt Memory and Aging Project participants ($n = 336$, $73 \pm$ 7$ years, $59\%$ male, $87\%$ non-Hispanic White, 10% Black/African American) underwent blood draw for 
+Vanderbilt Memory and Aging Project participants ($n = 336$, $73 \pm 7$ years, $59\%$ male, $87\%$ non-Hispanic White, 10% Black/African American) underwent blood draw for 
 baseline plasma protein abundance using mass spectrometry analysis of tandem mass tag (TMT)-labeled peptides and serial neuropsychological assessment (follow-up = $6.1 \pm 2.3$ years). 
 Linear mixed-effects regressions related protein levels to neuropsychological outcomes in fully adjusted models. False discovery rate correction was applied.
 
