@@ -1,12 +1,12 @@
 ---
-title: "Current Master Advisees"
+title: "Current Master Students"
 permalink: /people/
 author_profile: true
 ---
 
 - **<span style="color:teal">Zongyue Teng</span>** (Co-advised with Dr. [Dandan Liu](https://www.vumc.org/biostatistics/person/dandan-liu)), M.S. (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center
 
-- **<span style="color:teal">Yiqing Pan</span>**, M.S. in Biostatistics (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center
+- **<span style="color:teal">Yiqing Pan</span>**, M.S. (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center
 
 # Former Ph.D. Students (Collaborative Mentorship)
 
