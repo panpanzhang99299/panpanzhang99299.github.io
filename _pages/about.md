@@ -27,6 +27,8 @@ Services
 
 News
 ============
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-15-2025:**</span> I have been appointed as one of the inaugural Scholars for the Vanderbilt Alzheimer's Disease Research Center Research Education Component (REC).
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**8-6-2025:**</span> Our clinical paper "Mild Kidney Dysfunction Affects the Predictive Accuracy of Blood-Based Biomarkers for Neuropsychological and Neuroimaging Outcomes over a 9-Year Follow-Up Period" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.70651)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**7-5-2025:**</span> Our review paper "Multimorbidity in Dementia: Current Perspectives and Future Challenges" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.70546)**>.
