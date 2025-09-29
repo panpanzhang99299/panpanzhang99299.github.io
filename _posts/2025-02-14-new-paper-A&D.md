@@ -1,7 +1,7 @@
 ---
 title: "New Paper in Alzheimer's & Dementia"
-date: 2024-09-27
-permalink: /posts/2024/post-3/
+date: 2025-02-14
+permalink: /posts/2025/post-3/
 tags:
   - Alzheimer's disease
   - Genetic factors
