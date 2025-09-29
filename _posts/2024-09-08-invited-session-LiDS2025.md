@@ -7,7 +7,7 @@ tags:
   - Conference 
 ---
 
- I will chair an invited session for the 2025 Lifetime Data Science (LiDS 2025) Conference that will be held in Brooklyn, NY (May 28-30, 2025). The confirmed speakers are (in alphabetic order)
+ I will chair an invited session for the 2025 Lifetime Data Science Conference (LiDS 2025) that will be held in Brooklyn, NY (May 28-30, 2025). The confirmed speakers are (in alphabetic order)
  - Dr. [Ana Capuano](https://www.rushu.rush.edu/faculty/ana-w-capuano-mps-phd) (Rush)
  - Dr. [Sarah C. Lotspeich](https://www.sarahlotspeich.com/) (WFU)
  - Dr. [Terry M. Therneau](https://www.mayo.edu/research/faculty/therneau-terry-m-ph-d/bio-00025991) (Mayo) 
