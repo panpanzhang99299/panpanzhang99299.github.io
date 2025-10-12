@@ -27,7 +27,7 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-12-2025:**</span> Our clinical paper "Increased neuroplastic activity in the pathogenesis of Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-12-2025:**</span> Our clinical paper "Increased Neuroplastic Activity in the Pathogenesis of Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* (in press).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-15-2025:**</span> I have been appointed as one of the inaugural Scholars for the Vanderbilt Alzheimer's Disease Research Center Research Education Component (REC).
 
