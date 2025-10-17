@@ -44,7 +44,7 @@ author_profile: true
       Generating directed networks with predetermined assortativity measures. 
       <em>Statistics and Computing</em>, <strong>32</strong>(5), 91. 
       <a href="https://doi.org/10.1007/s11222-022-10161-8"><strong>DOI</strong></a> 
-      <span style="color:brown;"><em>(Equal contribution)</em></span></li>
+      <span style="color:brown;"><strong><em>(Equal contribution)</em></strong></span></li>
 
       <li><strong><span style="color:teal">Yuan, Y.</span></strong>, Wang, T., Yan, J. and <strong>Zhang, P.</strong> (2023). 
       Generating general preferential attachment networks with R package wdnet. 
@@ -59,8 +59,8 @@ author_profile: true
       <li><strong><span style="color:teal">Yuan, Y.</span></strong>, Wang, T., Yan, J. and <strong>Zhang, P.</strong> (2024). 
       wdnet: Weighted and Directed Network. R package version 1.2.3. 
       <a href="https://cran.r-project.org/web/packages/wdnet/index.html"><strong>CRAN</strong></a> 
-      <span style="color:brown;"><em>(Honorable mention for the 2023 
-      <a href="https://community.amstat.org/jointscsg-section/awards/john-m-chambers">John M. Chambers Statistical Software Award</a>)</em></span></li>
+      <span style="color:brown;"><strong><em>(Honorable mention for the 2023 
+      <a href="https://community.amstat.org/jointscsg-section/awards/john-m-chambers">John M. Chambers Statistical Software Award</a>)</em></strong></span></li>
     </ol>
   </div>
 </div>
@@ -78,7 +78,7 @@ author_profile: true
       CALFSBM: A covariate-assisted latent factor stochastic block model. 
       <em>Physica A</em>, <strong>667</strong>, 130536. 
       <a href="https://doi.org/10.1016/j.physa.2025.130536"><strong>DOI</strong></a> 
-      <span style="color:brown;"><em>(Winner of the 2025 JSM student paper award from the ASA sections on SPES and Q&P)</em></span></li>
+      <span style="color:brown;"><strong><em>(Winner of the 2025 JSM student paper award from the ASA sections on SPES and Q&P)</em></strong></span></li>
     </ol>
   </div>
 </div>
