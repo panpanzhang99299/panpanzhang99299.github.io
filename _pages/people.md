@@ -7,7 +7,7 @@ author_profile: true
 ## Current Master Students
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/zongyue_teng.jpeg" alt="Zongyue Teng" width="120" style="border-radius: 10px; margin-right: 20px;">
+  <img src="/images/ZongyueTeng.jpeg" alt="Zongyue Teng" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
     <p><strong><span style="color:teal">Zongyue Teng</span></strong> (Co-advised with Dr. <a href="https://www.vumc.org/biostatistics/person/dandan-liu">Dandan Liu</a>), 
     M.S. (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center.</p>
@@ -15,7 +15,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/yiqing_pan.jpg" alt="Yiqing Pan" width="120" style="border-radius: 10px; margin-right: 20px;">
+  <img src="/images/YiqingPan.jpg" alt="Yiqing Pan" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
     <p><strong><span style="color:teal">Yiqing Pan</span></strong>, 
     M.S. (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center.</p>
