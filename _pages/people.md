@@ -27,7 +27,7 @@ author_profile: true
 ## Former Ph.D. Students (Collaborative Mentorship)
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/yelie_yuan.jpg" alt="Yelie Yuan" width="120" style="border-radius: 10px; margin-right: 20px;">
+  <img src="/images/YelieYuan.jpg" alt="Yelie Yuan" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
     <p><strong><span style="color:teal">Yelie Yuan</span></strong> (Advisor: Dr. 
     <a href="https://statistics.uconn.edu/person/jun-yan/">Jun Yan</a>), 
@@ -66,7 +66,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/sydney_louit.jpg" alt="Sydney Louit" width="120" style="border-radius: 10px; margin-right: 20px;">
+  <img src="/images/SydneyLouit.jpg" alt="Sydney Louit" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
     <p><strong><span style="color:teal">Sydney Louit</span></strong> (Advisor: Dr. 
     <a href="https://statistics.uconn.edu/person/jun-yan/">Jun Yan</a>), 
