@@ -4,7 +4,15 @@ permalink: /people/
 author_profile: true
 ---
 
-- **<span style="color:teal">Zongyue Teng</span>** (Co-advised with Dr. [Dandan Liu](https://www.vumc.org/biostatistics/person/dandan-liu)), M.S. (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="width: 200px; text-align: center;">
+  <img src="../images/zongyue_teng.jpeg" alt="Zongyue Teng" width="180" style="border-radius: 10px;">
+  <p><strong><span style="color:teal">Zongyue Teng</span></strong><br>
+  M.S. (expected 2026)<br>
+  Co-advised with Dr. <a href="https://www.vumc.org/biostatistics/person/dandan-liu">Dandan Liu</a><br>
+  Department of Biostatistics, Vanderbilt University Medical Center</p>
+</div>
 
 - **<span style="color:teal">Yiqing Pan</span>**, M.S. (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center
 
