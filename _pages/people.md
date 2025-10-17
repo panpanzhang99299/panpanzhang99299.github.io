@@ -4,6 +4,8 @@ permalink: /people/
 author_profile: true
 ---
 
+I am fortunate to mentor and collaborate with a group of talented and dedicated students and trainees.
+
 ## Current Master Students
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
