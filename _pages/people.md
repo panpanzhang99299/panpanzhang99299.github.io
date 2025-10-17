@@ -1,5 +1,5 @@
 ---
-title: "Current Master Students"
+title: "Research Team"
 permalink: /people/
 author_profile: true
 ---
