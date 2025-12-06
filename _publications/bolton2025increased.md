@@ -2,10 +2,8 @@
 title: "Increased neuroplastic activity in the pathogenesis of Alzheimer's disease"
 collection: publications
 permalink: /publication/bolton2025increased
-excerpt: 'The study investigates whether elevated neuroplastic activity, measured by CSF GAP-43, is involved early in Alzheimer’s disease (AD) pathogenesis. In 161 non-demented older adults followed for four years (in average), 
-          higher baseline GAP-43 was strongly associated with core AD biomarkers (lower Aβ42/40 ratio and higher p-tau and total tau) and predicted further amyloid decline over time. These associations were stronger 
-          in individuals with AD risk factors such as APOE ε4, cerebrovascular risk, female sex, and MCI. The findings suggest that heightened neuroplastic activity may not simply reflect compensatory responses but 
-          may actively contribute to early AD pathology. <[**DOI**](https://doi.org/10.1002/alz.70897) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/41315049/)>'
+excerpt: 'In this study, we found that increased neuroplastic activity, measured by elevated CSF GAP-43 levels, in individuals with Alzheimer’s risk factors was associated with accelerated development of 
+          hallmarks of Alzheimer’s disease pathology. <[**DOI**](https://doi.org/10.1002/alz.70897) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/41315049/)>'
 date: 2025-11-28
 venue: "Alzheimer's & Dementia"
 paperurl: 'https://doi.org/10.1002/alz.70897'

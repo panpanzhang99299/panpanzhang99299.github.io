@@ -2,10 +2,8 @@
 title: "Mild kidney dysfunction affects the predictive accuracy of blood-based biomarkers for neuropsychological and neuroimaging outcomes over a 9 year follow-up period"
 collection: publications
 permalink: /publication/bolton2025mild
-# excerpt: 'This study investigates whether mild kidney dysfunction alters the performance of blood-based Alzheimer’s disease (AD) biomarkers. Because plasma biomarkers are increasingly used for early 
-#           detection and risk prediction, we examined how estimated glomerular filtration rate (eGFR), a marker of kidney function, affects the accuracy of several AD-related plasma measures. We found that 
-#           even modest reductions in kidney function significantly diminished the predictive accuracy of these biomarkers for detecting AD pathology. The results indicate that kidney dysfunction can confound 
-#           biomarker concentrations and should be considered when interpreting plasma-based AD tests, emphasizing the need to account for renal health in both clinical and research applications.. <[**DOI**](https://doi.org/10.1002/alz.70651) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/40970383/)>'
+excerpt: 'In this study, we found that mild kidney dysfunction significantly alters plasma Alzheimer’s biomarkers (e.g., NfL), thereby reducing their diagnostic accuracy and highlighting the need to account for 
+          renal function in clinical and research applications. <[**DOI**](https://doi.org/10.1002/alz.70651) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/40970383/)>'
 date: 2025-09-19
 venue: "Alzheimer's & Dementia"
 paperurl: 'https://doi.org/10.1002/alz.70651'
