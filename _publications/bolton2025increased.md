@@ -26,7 +26,7 @@ interaction terms.
 
 Results
 ===
-Higher GAP-43 was cross-sectionally related to all AD biomarkers (p-values < 0.0001) and predicted longitudinal reductions in Aβ42 (p < 0.0001). Associations were stronger in AD risk groups.
+Higher GAP-43 was cross-sectionally related to all AD biomarkers (p-values < 0.0001) and predicted longitudinal reductions in A$\beta$42 (p < 0.0001). Associations were stronger in AD risk groups.
 
 Discussion
 ===
