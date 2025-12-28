@@ -7,14 +7,18 @@ My research interest lies at the interface of applied probability, applied stati
 
 Network Analysis
 ====================
-This is a broad and burgeoning research topic. I am particularly interested in
+I am particularly interested in the following topics:
 * Neuroimaging and social science applications
-* Network data analysis (community detection, link prediction, etc.)
-* Random network models (degree distribution, topological indices, etc.)
+* Network data analysis (e.g., **community detection** and **link prediction**)
+* Random network models (e.g., **degree distribution** and **topological measures**)
 
 Longitudinal Data Analysis
 ====================
-This is the primary focus of my current research. We are committed to developing novel statistical methods for assessing dementia risk in neurodegenerative diseases and related disorders. Specifically, we investigate **missing data**, **measurement error** and **high dimension** problems with focus on the applications to Alzheimer's Disease, Parkinson's Disease and other neurodegenerative disorders.  
+I am committed to developing novel statistical methods for assessing dementia risk in neurodegenerative diseases and related disorders. Specifically, my work addresses challenges arising from **missing data** and **measurement error**, with a particular focus on applications to Alzheimer’s disease, Parkinson’s disease, and other neurodegenerative disorders.
+
+Causal Inference
+====================
+I establish analytical frameworks to enhance understanding of how molecular signatures (e.g., proteomic profiles) influence cognitive decline in Alzheimer’s disease and aging populations. These frameworks integrate pathway-level analyses and are specifically designed to address statistical challenges associated with **high dimensionality**.
 
 Collaborative Research
 ====================
@@ -22,7 +26,7 @@ I have engaged in a variety of research projects, in collaboration with the facu
 
 *Vanderbilt University Medical Center*
 * Vanderbilt Memory & Alzheimer's Center ([VMAC](https://www.vumc.org/vmac/home))
-* Medical-Image Analysis and Statistical Interpretation Lab ([MASI](https://my.vanderbilt.edu/masi/))
+* Medical-Image Analysis and Statistical Interpretation ([MASI](https://my.vanderbilt.edu/masi/)) Lab
 
 *Perelman School of Medicine at the University of Pennsylvania*
 * Center for Neurodegenerative Disease Research ([CNDR](https://www.med.upenn.edu/cndr/))
