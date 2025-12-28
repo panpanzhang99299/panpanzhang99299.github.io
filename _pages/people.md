@@ -11,7 +11,7 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/ZongyueTeng.jpeg" alt="Zongyue Teng" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
-    <p><strong><span style="color:teal">Zongyue Teng</span></strong> (Co-advised with Dr. <a href="https://www.vumc.org/biostatistics/person/dandan-liu">Dandan Liu</a>), 
+    <p><strong><span style="color:teal">Zongyue Teng</span></strong> (Co-advised by Dr. <a href="https://www.vumc.org/biostatistics/person/dandan-liu">Dandan Liu</a>), 
     M.S. (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center.</p>
   </div>
 </div>
