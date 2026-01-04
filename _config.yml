@@ -48,8 +48,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-link_color               : "#1a73e8"
-link_color_hover         : "#0b57d0"
 
 # SEO Related
 google_site_verification :
