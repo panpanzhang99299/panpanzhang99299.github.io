@@ -12,7 +12,7 @@ Welcome to Panpan Zhang's personal website. I am currently an Assistant Professo
 
 Prior to joining VUMC, I was a Postdoctoral Researcher in the [Department of Biostatistics, Epidemiology and Informatics](https://www.dbei.med.upenn.edu/) (DBEI) at the [Perelman School of Medicine](https://www.med.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/) (Penn), under the supervision of Professor [Sharon X. Xie](https://www.dbei.med.upenn.edu/bio/sharon-xiangwen-xie-phd). From 2016 to 2018, I was a Visiting Assistant Professor in the [Department of Statistics](https://stat.uconn.edu/) at the [University of Connecticut](https://uconn.edu/).
 
-My methodological research focuses on **network data analysis**, **longitudinal trajectory modeling**, and **causal inference**, with particular emphasis on emerging statistical challenges arising from **missing data** and **high dimensionality**. I primarily develop and apply modern statistical methods and machine learning algorithms to research in Alzheimer’s disease and related dementias.
+My methodological research focuses on **network data analysis**, **longitudinal trajectory modeling**, **Bayesian statistics** and **causal inference**, with particular emphasis on emerging statistical challenges arising from **missing data** and **high dimensionality**. I primarily develop and apply modern statistical methods and machine learning algorithms to research in Alzheimer’s disease and related dementias.
 
 My Biography
 ============
