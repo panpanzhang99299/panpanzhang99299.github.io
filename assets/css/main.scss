@@ -40,41 +40,45 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-* ===== Manual dark mode via data-theme ===== */
-:root[data-theme="dark"] {
-  color-scheme: dark;
-}
+@media (prefers-color-scheme: dark) {
 
-:root[data-theme="dark"] body {
-  background: #0b0f14;
-  color: #e6edf3;
-}
+  body {
+    background: #0b0f14;
+    color: #e6edf3;
+  }
 
-:root[data-theme="dark"] a, 
-:root[data-theme="dark"] a:link { color: #7aa2ff; }
+  .markdown-body {
+    background: transparent;
+    color: inherit;
+  }
 
-:root[data-theme="dark"] a:visited { color: #c58cff; }
+  /* Headings */
+  .markdown-body h1,
+  .markdown-body h2,
+  .markdown-body h3,
+  .markdown-body h4,
+  .markdown-body h5,
+  .markdown-body h6 {
+    color: #f0f6fc;
+  }
 
-:root[data-theme="dark"] h1,
-:root[data-theme="dark"] h2,
-:root[data-theme="dark"] h3 { color: #f0f6fc; }
+  /* Links in dark mode */
+  .markdown-body a {
+    color: #7aa2ff;
+  }
 
-:root[data-theme="dark"] pre,
-:root[data-theme="dark"] code {
-  background: rgba(255,255,255,0.06);
-  color: #e6edf3;
-}
+  .markdown-body a:visited {
+    color: #c58cff;
+  }
 
-/* A simple toggle button style */
-.theme-toggle {
-  cursor: pointer;
-  border: 1px solid rgba(0,0,0,0.2);
-  padding: 6px 10px;
-  border-radius: 999px;
-  background: transparent;
-  font: inherit;
-}
+  /* Code blocks */
+  .markdown-body pre,
+  .markdown-body code {
+    background: rgba(255, 255, 255, 0.06);
+    color: #e6edf3;
+  }
 
-:root[data-theme="dark"] .theme-toggle {
-  border-color: rgba(255,255,255,0.25);
-}
+  /* Horizontal rules */
+  .markdown-body hr {
+    border-color: rgba(255, 255, 255, 0.12);
+  }
