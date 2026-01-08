@@ -40,8 +40,31 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* make all links classic blue */
-a,
-a:link { color: #1a73e8; text-decoration: underline; }
-a:visited { color: #551a8b; }
-a:hover, a:focus { color: #0b57d0; text-decoration: underline; }
+/* Blue links only in page content only */
+.page-content a,
+.post-content a,
+.page__content a,
+main a,
+#main a,
+.content a {
+  color: #1a73e8;
+  text-decoration: underline;
+}
+
+.page-content a:visited,
+.post-content a:visited,
+.page__content a:visited,
+main a:visited,
+#main a:visited,
+.content a:visited {
+  color: #551a8b;
+}
+
+.page-content a:hover,
+.post-content a:hover,
+.page__content a:hover,
+main a:hover,
+#main a:hover,
+.content a:hover {
+  color: #0b57d0;
+}
