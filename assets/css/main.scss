@@ -40,31 +40,41 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Blue links only in page content only */
-.page-content a,
-.post-content a,
-.page__content a,
-main a,
-#main a,
-.content a {
-  color: #1a73e8;
-  text-decoration: underline;
+* ===== Manual dark mode via data-theme ===== */
+:root[data-theme="dark"] {
+  color-scheme: dark;
 }
 
-.page-content a:visited,
-.post-content a:visited,
-.page__content a:visited,
-main a:visited,
-#main a:visited,
-.content a:visited {
-  color: #551a8b;
+:root[data-theme="dark"] body {
+  background: #0b0f14;
+  color: #e6edf3;
 }
 
-.page-content a:hover,
-.post-content a:hover,
-.page__content a:hover,
-main a:hover,
-#main a:hover,
-.content a:hover {
-  color: #0b57d0;
+:root[data-theme="dark"] a, 
+:root[data-theme="dark"] a:link { color: #7aa2ff; }
+
+:root[data-theme="dark"] a:visited { color: #c58cff; }
+
+:root[data-theme="dark"] h1,
+:root[data-theme="dark"] h2,
+:root[data-theme="dark"] h3 { color: #f0f6fc; }
+
+:root[data-theme="dark"] pre,
+:root[data-theme="dark"] code {
+  background: rgba(255,255,255,0.06);
+  color: #e6edf3;
+}
+
+/* A simple toggle button style */
+.theme-toggle {
+  cursor: pointer;
+  border: 1px solid rgba(0,0,0,0.2);
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: transparent;
+  font: inherit;
+}
+
+:root[data-theme="dark"] .theme-toggle {
+  border-color: rgba(255,255,255,0.25);
 }
