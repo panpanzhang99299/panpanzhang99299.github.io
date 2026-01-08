@@ -39,3 +39,9 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* make all links classic blue */
+a,
+a:link { color: #1a73e8; text-decoration: underline; }
+a:visited { color: #551a8b; }
+a:hover, a:focus { color: #0b57d0; text-decoration: underline; }
