@@ -21,6 +21,7 @@ I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest U
 
 Services
 ============
+* I am the **Program Chair - Elect** for the [ASA Interest Group on Statistics and Data Science in Aging](https://sdsaamstat.github.io/SDSA_website/) (2026 - 2027).
 * I am a Member of the [Parkinson Study Group](https://parkinson-study-group.org/) Scientific Review Committee (2024 - 2027).
 * I am an Inaugural Early Career Representative on the Data Core Steering Committee of the [National Alzheimer's Coordinating Center](https://naccdata.org/) (2024 - 2026).
 * I am the Publications Officer of the [ASA Statistics in Imaging Section](https://statsinimaging.github.io/) (2023 - 2025).
