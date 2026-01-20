@@ -30,6 +30,8 @@ Services
 
 News
 ============
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-20-2026:**</span> **Zongyue Teng** won the 2nd place in the **2026 Clifford Spiegelman Student Paper Competition** sponsored by the [ASA Transportation Statistics Interest Group](https://community.amstat.org/tsig/home)! Congratulations, Zongyue!
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-9-2026:**</span> I am honored to receive the 2025 **VICTR Art Wheeler Studio Award** from the Vanderbilt University Medical Center. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**12-12-2025:**</span> I was elected to be the **Program Chair** for the [ASA Interest Group on Statistics and Data Science in Aging](https://sdsaamstat.github.io/SDSA_website/).
