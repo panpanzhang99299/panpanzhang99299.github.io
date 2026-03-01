@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to Panpan Zhang's personal website. I am currently an Assistant Professor of Biostatistics (tenure track) in the [Department of Biostatistics](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) 
 and an Assistant Professor of Neurology (secondary) in the [Department of Neurology](https://www.vumc.org/neurology) at the [Vanderbilt University School of Medicine](https://medschool.vanderbilt.edu/). Besides, I am the 
-co-leader of the Data Management & Statistics Core at the [Vanderbilt Alzheimer’s Disease Research Center](https://www.vumc.org/vmac/) at the [Vanderbilt University Medical Center](https://www.vumc.org/main/home).  
+co-leader of the Data Management & Statistics Core within the [Vanderbilt Alzheimer’s Disease Research Center](https://www.vumc.org/vmac/) at the [Vanderbilt University Medical Center](https://www.vumc.org/main/home).  
 
 Prior to joining VUMC, I was a Postdoctoral Researcher in the [Department of Biostatistics, Epidemiology and Informatics](https://www.dbei.med.upenn.edu/) (DBEI) at the [Perelman School of Medicine](https://www.med.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/) (Penn), under the supervision of Professor [Sharon X. Xie](https://www.dbei.med.upenn.edu/bio/sharon-xiangwen-xie-phd). From 2016 to 2018, I was a Visiting Assistant Professor in the [Department of Statistics](https://stat.uconn.edu/) at the [University of Connecticut](https://uconn.edu/).
 
