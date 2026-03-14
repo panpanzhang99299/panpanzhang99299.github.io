@@ -32,6 +32,9 @@ Services
 
 News
 ============
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-14-2026:**</span> Our clinical paper "Lifespan Trajectories of Asymmetry in White Matter Tracts" has been accepted for publication in *Human Brain Mapping* (in press). 
+
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-29-2026:**</span> Our clinical paper "Posterior Communicating Artery Variation is Linked to Compromised Cerebral Hemodynamics in Middle-Aged and Older Adults" has been accepted for publication in *Journal of Cerebral Blood Flow and Metabolism* <**[DOI](https://doi.org/10.1177/0271678X261424053)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-20-2026:**</span> **Zongyue Teng** won the 2nd place in the **2026 Clifford Spiegelman Student Paper Competition** sponsored by the [ASA Transportation Statistics Interest Group](https://community.amstat.org/tsig/home)! Congratulations, Zongyue!
