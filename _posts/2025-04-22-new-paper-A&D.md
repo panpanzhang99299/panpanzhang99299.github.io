@@ -1,7 +1,7 @@
 ---
 title: "New Paper in Alzheimer's & Dementia"
 date: 2025-04-22
-permalink: /posts/2025/post-8/
+permalink: /posts/2025/post-9/
 tags:
   - Alzheimer's disease
   - Plasma proteomics
