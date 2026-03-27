@@ -55,7 +55,7 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
 
       <li><strong><span style="color:teal">Yuan, Y.</span></strong>, Yan, J. and <strong>Zhang, P.</strong> (2024). 
       A strength and sparsity preserving algorithm for generating weighted, directed networks with predetermined assortativity. 
-      <em>Physica A</em>, <strong>638</strong>, 129634. 
+      <em>Physica A: Statistical Mechanics and its Applications</em>, <strong>638</strong>, 129634. 
       <a href="https://doi.org/10.1016/j.physa.2024.129634"><strong>DOI</strong></a></li>
 
       <li><strong><span style="color:teal">Yuan, Y.</span></strong>, Wang, T., Yan, J. and <strong>Zhang, P.</strong> (2024). 
@@ -78,7 +78,7 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
     <ol>
       <li><strong><span style="color:teal">Louit, S.</span></strong>, Clark, E. A., Gelbard, A. H., Vivek, N., Yan, J. and <strong>Zhang, P.</strong> (2025). 
       CALFSBM: A covariate-assisted latent factor stochastic block model. 
-      <em>Physica A</em>, <strong>667</strong>, 130536. 
+      <em>Physica A: Statistical Mechanics and its Applications</em>, <strong>667</strong>, 130536. 
       <a href="https://doi.org/10.1016/j.physa.2025.130536"><strong>DOI</strong></a> 
       <span style="color:brown;"><strong><em>(Winner of the 2025 JSM student paper award from the ASA sections on SPES and Q&P)</em></strong></span></li>
     </ol>

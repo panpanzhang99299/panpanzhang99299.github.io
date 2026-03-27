@@ -9,7 +9,7 @@ tags:
   - Publication 
 ---
 
-Our clinical paper "The Effect of Alzheimer’s Disease Genetic Factors on Limbic White Matter Microstructure"" has been accepted for publication in *Alzheimer's & Dementia*; [DOI](https://doi.org/10.1002/alz.70130). 
+Our clinical paper "The Effect of Alzheimer’s Disease Genetic Factors on Limbic White Matter Microstructure" has been accepted for publication in *Alzheimer's & Dementia*; [DOI](https://doi.org/10.1002/alz.70130). 
 
 New paper in *Alzheimer's & Dementia*!
 =====
