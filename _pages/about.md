@@ -32,35 +32,27 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-26-2026:**</span> Our application paper "White Matter Microstructure and Macrostructure Brain Charts across the Human Lifespan" has been accepted for publication in *Nature* (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-26-2026:**</span> Our application paper "White Matter Microstructure and Macrostructure Brain Charts across the Human Lifespan" has been accepted for publication in ***Nature*** (in press).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-19-2026:**</span> I am honored to have been elected as an **Elected Member** of the [International Statistical Institute](https://isi-web.org/) (ISI).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-14-2026:**</span> Our clinical paper "Lifespan Trajectories of Asymmetry in White Matter Tracts" has been accepted for publication in *Human Brain Mapping* <**[DOI](https://doi.org/10.1002/hbm.70519)**>. 
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-29-2026:**</span> Our clinical paper "Posterior Communicating Artery Variation is Linked to Compromised Cerebral Hemodynamics in Middle-Aged and Older Adults" has been accepted for publication in *Journal of Cerebral Blood Flow and Metabolism* <**[DOI](https://doi.org/10.1177/0271678X261424053)**>. 
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-29-2026:**</span> Our clinical paper "Posterior Communicating Artery Variation is Linked to Compromised Cerebral Hemodynamics in Middle-Aged and Older Adults" has been accepted for publication in ***Journal of Cerebral Blood Flow and Metabolism*** <**[DOI](https://doi.org/10.1177/0271678X261424053)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-20-2026:**</span> **Zongyue Teng** won the 2nd place in the **2026 Clifford Spiegelman Student Paper Competition** sponsored by the [ASA Transportation Statistics Interest Group](https://community.amstat.org/tsig/home)! Congratulations, Zongyue!
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-9-2026:**</span> I am honored to receive the 2025 **VICTR Art Wheeler Studio Award** from the Vanderbilt University Medical Center. 
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**12-16-2025:**</span> Our clinical paper "Plasma von Willebrand Factor and ADAMTS13 Interact with APOE-$\varepsilon$4 in Predicting Longitudinal Brain Atrophy and Cognitive Decline over a 9-Year Follow-Up" has been accepted for publication in *JAHA: Journal of the American Heart Association* (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**12-16-2025:**</span> Our clinical paper "Plasma von Willebrand Factor and ADAMTS13 Interact with APOE-$\varepsilon$4 in Predicting Longitudinal Brain Atrophy and Cognitive Decline over a 9-Year Follow-Up" has been accepted for publication in ***JAHA: Journal of the American Heart Association*** (in press).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**12-12-2025:**</span> I was elected to be the **Program Chair** for the [ASA Interest Group on Statistics and Data Science in Aging](https://sdsaamstat.github.io/SDSA_website/).
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-12-2025:**</span> Our clinical paper "Increased Neuroplastic Activity in the Pathogenesis of Alzheimer’s Disease" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.70897)**>.
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-12-2025:**</span> Our clinical paper "Increased Neuroplastic Activity in the Pathogenesis of Alzheimer’s Disease" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.70897)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-15-2025:**</span> I was elected as one of the inaugural **REC (Research Education Component) Scholars** from the Vanderbilt Alzheimer's Disease Research Center.
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**8-6-2025:**</span> Our clinical paper "Mild Kidney Dysfunction Affects the Predictive Accuracy of Blood-Based Biomarkers for Neuropsychological and Neuroimaging Outcomes over a 9-Year Follow-Up Period" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.70651)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**7-5-2025:**</span> Our review paper "Multimorbidity in Dementia: Current Perspectives and Future Challenges" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.70546)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-25-2025:**</span> Our clinical paper "Cross-Sectional and Longitudinal Associations of Neighborhood Disadvantage With Fluid Biomarkers of Neuroinflammation and Neurodegeneration" has been accepted for publication in *Neurology* <**[DOI](https://doi.org/10.1212/WNL.0000000000213770)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-24-2025:**</span> Our application paper "The Social Network of Otolaryngology: Collaborative Publishing Relationships by Gender" has been accepted for publication in *Laryngoscope* <**[DOI](https://doi.org/10.1002/lary.32394)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-15-2025:**</span> Our clinical paper "The Association between Poor Sleep Health and Alzheimer’s Disease Structural Neuroimaging Biomarkers" has been accepted for publication in *Alzheimer's & Dementia* <**[DOI](https://doi.org/10.1002/alz.70364)**>.
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**8-6-2025:**</span> Our clinical paper "Mild Kidney Dysfunction Affects the Predictive Accuracy of Blood-Based Biomarkers for Neuropsychological and Neuroimaging Outcomes over a 9-Year Follow-Up Period" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.70651)**>.
 
 [More News](https://panpan-zhang.com/year-archive/)
 
