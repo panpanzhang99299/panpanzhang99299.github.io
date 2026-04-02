@@ -48,12 +48,6 @@ News
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**12-12-2025:**</span> I was elected to be the **Program Chair** for the [ASA Interest Group on Statistics and Data Science in Aging](https://sdsaamstat.github.io/SDSA_website/).
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-12-2025:**</span> Our clinical paper "Increased Neuroplastic Activity in the Pathogenesis of Alzheimer’s Disease" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.70897)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-15-2025:**</span> I was elected as one of the inaugural **REC (Research Education Component) Scholars** from the Vanderbilt Alzheimer's Disease Research Center.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**8-6-2025:**</span> Our clinical paper "Mild Kidney Dysfunction Affects the Predictive Accuracy of Blood-Based Biomarkers for Neuropsychological and Neuroimaging Outcomes over a 9-Year Follow-Up Period" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.70651)**>.
-
 [More News](https://panpan-zhang.com/year-archive/)
 
 Contact
