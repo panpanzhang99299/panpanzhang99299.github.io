@@ -18,14 +18,35 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
 
 ---
 
+## Current Master's Students
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/NuoHu.jpeg" alt="Nuo (Amber) Hu" width="120" style="border-radius: 10px; margin-right: 20px;">
+  <div>
+    <p><strong><span style="color:teal">Nuo (Amber) Hu</span></strong> 
+    M.S. (expected 2027), Department of Biostatistics, Vanderbilt University Medical Center.</p>
+  </div>
+</div>
+
+---
+
 ## Former Master's Students
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/ZongyueTeng.jpeg" alt="Zongyue Teng" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
     <p><strong><span style="color:teal">Zongyue Teng</span></strong> (Co-advised by Dr. <a href="https://www.vumc.org/biostatistics/person/dandan-liu">Dandan Liu</a>), 
-    M.S. (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center.
+    M.S. in 2026, Department of Biostatistics, Vanderbilt University Medical Center.
     <u>First placement:</u> Ph.D. student in Biostatistics, Vanderbilt University Medical Center.</p>
+    
+    <ol>
+      <li><strong><span style="color:teal">Teng, Z.</span></strong>, Yan, J., Liu, D. and <strong>Zhang, P.</strong> (2026+). 
+      When does the silhouette score work? A comprehensive study in network clustering (under review).
+
+      <li><strong><span style="color:teal">Teng, Z.</span></strong>, Liu, D. and <strong>Zhang, P.</strong> (2026). 
+      SIGNET: Signed Network Spectral Clustering Algorithm. R package version 0.0.0.9. 
+      <a href="https://github.com/zongyue-teng/SIGNET"><strong>GitHub</strong></a></li>
+    </ol>
   </div>
 </div>
 
@@ -33,8 +54,17 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
   <img src="/images/YiqingPan.jpg" alt="Yiqing Pan" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
     <p><strong><span style="color:teal">Yiqing Pan</span></strong>, 
-    M.S. (expected 2026), Department of Biostatistics, Vanderbilt University Medical Center.
+    M.S. in 2026, Department of Biostatistics, Vanderbilt University Medical Center.
     <u>First placement:</u> Ph.D. student in Epidemiology and Biostatistics, Indiana University (Bloomington).</p>
+    
+    <ol>
+      <li><strong><span style="color:teal">Pan, Y.</span></strong>, Xie, S. X., Jefferson, A. L. and <strong>Zhang, P.</strong> (2026+). 
+      Statistical and deep learning methods for missing covariates: A comparative review with applications to Alzheimer’s disease research (under review).
+
+      <li><strong><span style="color:teal">Pan, Y.</span></strong> and <strong>Zhang, P.</strong> (2026). 
+      DLimpute: Deep Learning Methods for Missing Data Imputation. R package version 0.0.0.9. 
+      <a href="https://github.com/paayq/DLimpute"><strong>GitHub</strong></a></li>
+    </ol>
   </div>
 </div>
 
