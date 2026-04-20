@@ -41,7 +41,7 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
     
     <ol>
       <li><strong><span style="color:teal">Teng, Z.</span></strong>, Yan, J., Liu, D. and <strong>Zhang, P.</strong> (2026+). 
-      When does the silhouette score work? A comprehensive study in network clustering (under review).
+      When does the silhouette score work? A comprehensive study in network clustering (under review).</li>
 
       <li><strong><span style="color:teal">Teng, Z.</span></strong>, Liu, D. and <strong>Zhang, P.</strong> (2026). 
       SIGNET: Signed Network Spectral Clustering Algorithm. R package version 0.0.0.9. 
@@ -59,7 +59,7 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
     
     <ol>
       <li><strong><span style="color:teal">Pan, Y.</span></strong>, Xie, S. X., Jefferson, A. L. and <strong>Zhang, P.</strong> (2026+). 
-      Statistical and deep learning methods for missing covariates: A comparative review with applications to Alzheimer’s disease research (under review).
+      Statistical and deep learning methods for missing covariates: A comparative review with applications to Alzheimer’s disease research (under review).</li>
 
       <li><strong><span style="color:teal">Pan, Y.</span></strong> and <strong>Zhang, P.</strong> (2026). 
       DLimpute: Deep Learning Methods for Missing Data Imputation. R package version 0.0.0.9. 
