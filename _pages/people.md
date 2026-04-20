@@ -8,7 +8,7 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
 
 ## Current Ph.D. Students
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/ZongyueTeng.jpeg" alt="Zongyue Teng" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
     <p><strong><span style="color:teal">Zongyue Teng</span></strong> (Co-advised by Dr. <a href="https://www.vumc.org/biostatistics/person/dandan-liu">Dandan Liu</a>), 
@@ -20,10 +20,10 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
 
 ## Current Master's Students
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/NuoHu.jpg" alt="Nuo (Amber) Hu" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
-    <p><strong><span style="color:teal">Nuo (Amber) Hu</span></strong> 
+    <p><strong><span style="color:teal">Nuo (Amber) Hu</span></strong>, 
     M.S. (expected 2027), Department of Biostatistics, Vanderbilt University Medical Center.</p>
   </div>
 </div>
@@ -32,7 +32,7 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
 
 ## Former Master's Students
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/ZongyueTeng.jpeg" alt="Zongyue Teng" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
     <p><strong><span style="color:teal">Zongyue Teng</span></strong> (Co-advised by Dr. <a href="https://www.vumc.org/biostatistics/person/dandan-liu">Dandan Liu</a>), 
@@ -50,7 +50,7 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/YiqingPan.jpg" alt="Yiqing Pan" width="120" style="border-radius: 10px; margin-right: 20px;">
   <div>
     <p><strong><span style="color:teal">Yiqing Pan</span></strong>, 
