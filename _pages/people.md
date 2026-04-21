@@ -41,7 +41,9 @@ I am fortunate to mentor and collaborate with a group of talented and dedicated 
     
     <ol>
       <li><strong><span style="color:teal">Teng, Z.</span></strong>, Yan, J., Liu, D. and <strong>Zhang, P.</strong> (2026+). 
-      When does the silhouette score work? A comprehensive study in network clustering (under review).</li>
+      When does the silhouette score work? A comprehensive study in network clustering (under review). 
+      <span style="color:brown;"><strong><em>(Second place for the 2026
+      <a href="https://community.amstat.org/tsig/events/papercompetition">Clifford Spiegelman Student Paper Competition</a>)</em></strong></span></li>
 
       <li><strong><span style="color:teal">Teng, Z.</span></strong>, Liu, D. and <strong>Zhang, P.</strong> (2026). 
       SIGNET: Signed Network Spectral Clustering Algorithm. R package version 0.0.0.9. 
