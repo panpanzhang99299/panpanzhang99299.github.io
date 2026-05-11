@@ -32,6 +32,8 @@ Services
 
 News
 ============
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-26-2026:**</span> Our application paper "Lower Cardiac Output is a Risk Factor for Faster Cerebral Atrophy over a 11-Year Follow-Up Period in APOE-$\varepsilon$4 carriers" has been accepted for publication in ***Alzheimer's & Dementia*** (in press).
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-26-2026:**</span> Our application paper "White Matter Microstructure and Macrostructure Brain Charts across the Human Lifespan" has been accepted for publication in ***Nature*** (in press).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-19-2026:**</span> I am honored to have been elected as an **Elected Member** of the [International Statistical Institute](https://isi-web.org/) (ISI).
