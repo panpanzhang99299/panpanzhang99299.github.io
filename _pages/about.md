@@ -32,6 +32,8 @@ Services
 
 News
 ============
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-6-2026:**</span> Our clinical paper "The role of vascular risk factors in white matter tract microstructure: A multi-cohort study in older adults" has been accepted for publication in ***Alzheimer's & Dementia*** (in press).
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Genetic architecture of the limbic white matter microstructure in aging and Alzheimer’s disease" has been accepted for publication in ***Alzheimer's & Dementia*** (in press).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Lower Cardiac Output is a Risk Factor for Faster Cerebral Atrophy over a 11-Year Follow-Up Period in APOE-$\varepsilon$4 carriers" has been accepted for publication in ***Alzheimer's & Dementia*** (in press).
