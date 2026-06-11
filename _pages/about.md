@@ -40,6 +40,8 @@ News
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**4-15-2026:**</span> **Zongyue Teng** will continue her Ph.D. training in the Department of Biostatistics at Vanderbilt University School of Medicine, and **Yiqing Pan** will join the Ph.D. program in the Department of Epidemiology and Biostatistics at Indiana University (Bloomington). *Congratulations*, ***Zongyue*** and ***Yiqing***!
 
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**4-1-2026:**</span> I was renewed as one of the **REC (Research Education Component) Scholars** from the [Vanderbilt Alzheimer’s Disease Research Center](https://www.vumc.org/vmac). 
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-26-2026:**</span> Our application paper "White Matter Microstructure and Macrostructure Brain Charts across the Human Lifespan" has been accepted for publication in ***Nature*** <**[DOI](https://doi.org/10.1038/s41586-026-10454-2)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-19-2026:**</span> I am honored to have been elected as an **Elected Member** of the [International Statistical Institute](https://isi-web.org/) (ISI).
