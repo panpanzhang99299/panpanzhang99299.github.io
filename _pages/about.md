@@ -32,21 +32,26 @@ Services
 
 News
 ============
+<<<<<<< HEAD
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**7-15-2026:**</span> Our clinical paper "The Role of Vascular Risk Factors in White Matter Tract Microstructure: A Multi-Cohort Study in Older Adults" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71698)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Genetic Architecture of the Limbic White Matter Microstructure in Aging and Alzheimer’s Disease" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71630)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Lower Cardiac Output is a Risk Factor for Faster Cerebral Atrophy over a 11-Year Follow-Up Period in APOE-$\varepsilon$4 carriers" has been accepted for publication in ***Alzheimer's & Dementia*** (in press).
 
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**4-15-2026:**</span> **Zongyue Teng** will continue her Ph.D. training in the Department of Biostatistics at Vanderbilt University School of Medicine, and **Yiqing Pan** will join the Ph.D. program in the Department of Epidemiology and Biostatistics at Indiana University (Bloomington). *Congratulations*, ***Zongyue*** and ***Yiqing***!
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**4-1-2026:**</span> I was renewed as one of the **REC (Research Education Component) Scholars** from the [Vanderbilt Alzheimer’s Disease Research Center](https://www.vumc.org/vmac). 
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-26-2026:**</span> Our application paper "White Matter Microstructure and Macrostructure Brain Charts across the Human Lifespan" has been accepted for publication in ***Nature*** <**[DOI](https://doi.org/10.1038/s41586-026-10454-2)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-19-2026:**</span> I am honored to have been elected as an **Elected Member** of the [International Statistical Institute](https://isi-web.org/) (ISI).
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-14-2026:**</span> Our clinical paper "Lifespan Trajectories of Asymmetry in White Matter Tracts" has been accepted for publication in *Human Brain Mapping* <**[DOI](https://doi.org/10.1002/hbm.70519)**>. 
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-14-2026:**</span> Our clinical paper "Lifespan Trajectories of Asymmetry in White Matter Tracts" has been accepted for publication in ***Human Brain Mapping*** <**[DOI](https://doi.org/10.1002/hbm.70519)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-29-2026:**</span> Our clinical paper "Posterior Communicating Artery Variation is Linked to Compromised Cerebral Hemodynamics in Middle-Aged and Older Adults" has been accepted for publication in ***Journal of Cerebral Blood Flow and Metabolism*** <**[DOI](https://doi.org/10.1177/0271678X261424053)**>. 
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-20-2026:**</span> **Zongyue Teng** won the 2nd place in the **2026 Clifford Spiegelman Student Paper Competition** sponsored by the [ASA Transportation Statistics Interest Group](https://community.amstat.org/tsig/home)! Congratulations, Zongyue!
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-20-2026:**</span> **Zongyue Teng** won the 2nd place in the **2026 Clifford Spiegelman Student Paper Competition** sponsored by the [ASA Transportation Statistics Interest Group](https://community.amstat.org/tsig/home)! *Congratulations*, ***Zongyue***!
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-9-2026:**</span> I am honored to receive the 2025 **VICTR Art Wheeler Studio Award** from the Vanderbilt University Medical Center. 
 
