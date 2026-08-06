@@ -36,7 +36,7 @@ News
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Genetic Architecture of the Limbic White Matter Microstructure in Aging and Alzheimer’s Disease" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71630)**>. 
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Lower Cardiac Output is a Risk Factor for Faster Cerebral Atrophy over a 11-Year Follow-Up Period in APOE-$\varepsilon$4 carriers" has been accepted for publication in ***Alzheimer's & Dementia*** (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Lower Cardiac Output is a Risk Factor for Faster Cerebral Atrophy over a 11-Year Follow-Up Period in APOE-$\varepsilon$4 carriers" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71598)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**4-15-2026:**</span> **Zongyue Teng** will continue her Ph.D. training in the Department of Biostatistics at Vanderbilt University School of Medicine, and **Yiqing Pan** will join the Ph.D. program in the Department of Epidemiology and Biostatistics at Indiana University (Bloomington). *Congratulations*, ***Zongyue*** and ***Yiqing***!
 
