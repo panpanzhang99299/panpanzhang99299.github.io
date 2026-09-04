@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Panpan Zhang's personal website. I am currently an Assistant Professor of Biostatistics (tenure track) in the [Department of Biostatistics](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) 
-and an Assistant Professor of Neurology (secondary) in the [Department of Neurology](https://www.vumc.org/neurology) at the [Vanderbilt University School of Medicine](https://medschool.vanderbilt.edu/). Besides, I am the 
-co-leader of the Data Management & Statistics Core within the [Vanderbilt Alzheimer’s Disease Research Center](https://www.vumc.org/vmac/) at the [Vanderbilt University Medical Center](https://www.vumc.org/main/home).  
+Welcome to Panpan Zhang's personal website. I am currently an Assistant Professor of Biostatistics (tenure track) in the 
+[Department of Biostatistics](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) and an Assistant Professor of Neurology (secondary) in the 
+[Department of Neurology](https://www.vumc.org/neurology) at the [Vanderbilt University School of Medicine](https://medschool.vanderbilt.edu/). Besides, I am the 
+co-leader of the Data Management & Statistics Core within the [Vanderbilt Alzheimer’s Disease Research Center](https://www.vumc.org/vmac/) at the 
+[Vanderbilt University Medical Center](https://www.vumc.org/main/home).  
 
-Prior to joining VUMC, I was a Postdoctoral Researcher in the [Department of Biostatistics, Epidemiology and Informatics](https://www.dbei.med.upenn.edu/) (DBEI) at the [Perelman School of Medicine](https://www.med.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/) (Penn), under the supervision of Professor [Sharon X. Xie](https://www.dbei.med.upenn.edu/bio/sharon-xiangwen-xie-phd). From 2016 to 2018, I was a Visiting Assistant Professor in the [Department of Statistics](https://stat.uconn.edu/) at the [University of Connecticut](https://uconn.edu/).
+Prior to joining VUMC, I was a Postdoctoral Researcher in the [Department of Biostatistics, Epidemiology and Informatics](https://www.dbei.med.upenn.edu/) (DBEI) 
+at the [Perelman School of Medicine](https://www.med.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/) (Penn), under the supervision of Professor 
+[Sharon X. Xie](https://www.dbei.med.upenn.edu/bio/sharon-xiangwen-xie-phd). From 2016 to 2018, I was a Visiting Assistant Professor in the 
+[Department of Statistics](https://stat.uconn.edu/) at the [University of Connecticut](https://uconn.edu/).
 
-My methodological research focuses on **network data analysis**, **longitudinal trajectory modeling**, **Bayesian statistics** and **causal inference**, with particular emphasis on emerging statistical challenges arising from **missing data** and **high dimensionality**. I primarily develop and apply modern statistical methods and machine learning algorithms to research in Alzheimer’s disease and related dementias.
+My methodological research focuses on **network data analysis**, **longitudinal trajectory modeling**, **Bayesian statistics**, and **causal inference**, with 
+particular emphasis on emerging statistical challenges arising from **missing data** and **high-dimensional data**. I am also interested in **deep learning** and 
+**diffusion models**, particularly their development and application in biomedical research. My work primarily develops and applies modern statistical methods and 
+machine learning algorithms to address methodological and scientific questions in **Alzheimer’s disease and related dementias (ADRD)**.
 
 My Biography
 ============
