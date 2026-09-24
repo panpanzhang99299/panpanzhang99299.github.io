@@ -40,7 +40,9 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**8-24-2026:**</span> Our clinical paper "Arterial Spin Labeling Hemodynamic Indices Relate to Cognitive and Small Vessel Disease Trajectories Over 11 Years" has been accepted for publication in ***Stroke*** (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-21-2026:**</span> Our empirical paper "Charting Confidence in White Matter Brain Charts: Enabling Study Planning through Stability Validation" has been accepted for publication in ***Journal of Medical Imaging*** <**[DOI](https://doi.org/10.1117/1.JMI.13.5.054001)**>.
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**8-24-2026:**</span> Our clinical paper "Arterial Spin Labeling Hemodynamic Indices Relate to Cognitive and Small Vessel Disease Trajectories Over 11 Years" has been accepted for publication in ***Stroke*** <**[DOI](https://doi.org/10.1117/1.JMI.13.5.054001)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-6-2026:**</span> Our clinical paper "The Role of Vascular Risk Factors in White Matter Tract Microstructure: A Multi-Cohort Study in Older Adults" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71698)**>.
 
