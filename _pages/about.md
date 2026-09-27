@@ -32,14 +32,17 @@ I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest U
 Services
 ============
 * I am the **Program Chair - Elect** for the [ASA Interest Group on Statistics and Data Science in Aging](https://sdsaamstat.github.io/SDSA_website/) (2026 - 2027).
-* I am a Member of the [Parkinson Study Group](https://parkinson-study-group.org/) Scientific Review Committee (2024 - 2027).
-* I am an Inaugural Early Career Representative on the Data Core Steering Committee of the [National Alzheimer's Coordinating Center](https://naccdata.org/) (2024 - 2026).
-* I am the Publications Officer of the [ASA Statistics in Imaging Section](https://statsinimaging.github.io/) (2023 - 2025).
-* I am an Associate Editor of [Methodology and Computing in Applied Probability](https://www.springer.com/journal/11009) (Since 2023).
-* I am an Associate Editor of [Journal of Data Science](https://jds-online.org/journal/JDS) (Since 2020).
+* I am an **Inaugural Early Career Representative** on the Data Core Steering Committee of the [National Alzheimer's Coordinating Center](https://naccdata.org/) (2024 - 2026).
+* I am the **Publications Officer** of the [ASA Statistics in Imaging Section](https://statsinimaging.github.io/) (2023 - 2025).
+* I am an **Associate Editor** of [Methodology and Computing in Applied Probability](https://www.springer.com/journal/11009) (Since 2023).
+* I am an **Associate Editor** of [Journal of Data Science](https://jds-online.org/journal/JDS) (Since 2020).
 
 News
 ============
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-23-2026:**</span> **Nuo (Amber) Hu** has won the 2026 **MS Excellence in Biostatistics Award** from the Department of Biostatistics, Vanderbilt University School of Medicine! *Congratulations*, ***Amber***! 
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-23-2026:**</span> Our collaborative work "The Dynamics of Cognitive Decline toward Alzheimer's Disease Progression: Results from ADSP‐PHC's Harmonized Cognitive Composites" (published in ***Alzheimer's & Dementia***) has won the **Patrick G. Arbogast Collaborative Publication Award** from the Department of Biostatistics, Vanderbilt University School of Medicine! This is a joint work with Drs. [Kaidi Kang](https://school.wakehealth.edu/faculty/k/kaidi-kang), [Dandan Liu](https://www.vumc.org/biostatistics/person/dandan-liu), [Tim Hohman](https://www.vumc.org/vmac/person/timothy-j-hohman-phd) and other ADSP-PHC investigators. *Congratulations*, team!
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-21-2026:**</span> Our empirical paper "Charting Confidence in White Matter Brain Charts: Enabling Study Planning through Stability Validation" has been accepted for publication in ***Journal of Medical Imaging*** <**[DOI](https://doi.org/10.1117/1.JMI.13.5.054001)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**8-24-2026:**</span> Our clinical paper "Arterial Spin Labeling Hemodynamic Indices Relate to Cognitive and Small Vessel Disease Trajectories Over 11 Years" has been accepted for publication in ***Stroke*** <**[DOI](https://doi.org/10.1117/1.JMI.13.5.054001)**>.
