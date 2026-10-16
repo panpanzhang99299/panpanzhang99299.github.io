@@ -39,15 +39,23 @@ Services
 
 News
 ============
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-14-2026:**</span> Our method paper "Covariate Connectivity Combined Clustering for Weighted Networks" has been accepted for publication in ***Physica A: Statistical Mechanics and its Applications*** (in press).
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-8-2026:**</span> Our empirical paper "Charting Cervical Spinal Cord Morphometry Across the Lifespan" has been accepted for publication in ***Human Brain Mapping*** <**[DOI](https://doi.org/10.1002/hbm.70658)**>.
+
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-23-2026:**</span> **Nuo (Amber) Hu** has won the 2026 **MS Excellence in Biostatistics Award** from the Department of Biostatistics, Vanderbilt University School of Medicine! *Congratulations*, ***Amber***! 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-23-2026:**</span> Our collaborative work "The Dynamics of Cognitive Decline toward Alzheimer's Disease Progression: Results from ADSP‐PHC's Harmonized Cognitive Composites" (published in ***Alzheimer's & Dementia***) has won the **Patrick G. Arbogast Collaborative Publication Award** from the Department of Biostatistics, Vanderbilt University School of Medicine! This is a joint work with Drs. [Kaidi Kang](https://school.wakehealth.edu/faculty/k/kaidi-kang), [Dandan Liu](https://www.vumc.org/biostatistics/person/dandan-liu), [Tim Hohman](https://www.vumc.org/vmac/person/timothy-j-hohman-phd) and other ADSP-PHC investigators. *Congratulations*, team!
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-21-2026:**</span> Our commentary paper "Unreliability of Biomarker Research in Psychiatry" has been accepted for publication in ***JAMA Psychiatry*** (in press).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-21-2026:**</span> Our empirical paper "Charting Confidence in White Matter Brain Charts: Enabling Study Planning through Stability Validation" has been accepted for publication in ***Journal of Medical Imaging*** <**[DOI](https://doi.org/10.1117/1.JMI.13.5.054001)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**8-24-2026:**</span> Our clinical paper "Arterial Spin Labeling Hemodynamic Indices Relate to Cognitive and Small Vessel Disease Trajectories Over 11 Years" has been accepted for publication in ***Stroke*** <**[DOI](https://doi.org/10.1117/1.JMI.13.5.054001)**>.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-6-2026:**</span> Our clinical paper "The Role of Vascular Risk Factors in White Matter Tract Microstructure: A Multi-Cohort Study in Older Adults" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71698)**>.
+
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-22-2026:**</span> Our clinical paper "Increased Neuroplastic Activity is Associated with Cognitive Decline in Women but not Men over an Average 6-year Follow-up Period" has been accepted for publication in ***Alzheimer's Research \& Therapy*** <**[DOI](https://doi.org/10.1186/s13195-026-02094-5)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Genetic Architecture of the Limbic White Matter Microstructure in Aging and Alzheimer’s Disease" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71630)**>. 
 
