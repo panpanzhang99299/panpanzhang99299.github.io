@@ -39,7 +39,7 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-14-2026:**</span> Our method paper "Covariate Connectivity Combined Clustering for Weighted Networks" has been accepted for publication in ***Physica A: Statistical Mechanics and its Applications*** (in press).
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-14-2026:**</span> Our method paper "Covariate Connectivity Combined Clustering for Weighted Networks" has been accepted for publication in ***Physica A: Statistical Mechanics and its Applications*** (in press)&.
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-8-2026:**</span> Our empirical paper "Charting Cervical Spinal Cord Morphometry Across the Lifespan" has been accepted for publication in ***Human Brain Mapping*** <**[DOI](https://doi.org/10.1002/hbm.70658)**>.
 
@@ -55,7 +55,7 @@ News
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-6-2026:**</span> Our clinical paper "The Role of Vascular Risk Factors in White Matter Tract Microstructure: A Multi-Cohort Study in Older Adults" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71698)**>.
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-22-2026:**</span> Our clinical paper "Increased Neuroplastic Activity is Associated with Cognitive Decline in Women but not Men over an Average 6-year Follow-up Period" has been accepted for publication in ***Alzheimer's Research \& Therapy*** <**[DOI](https://doi.org/10.1186/s13195-026-02094-5)**>. 
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-22-2026:**</span> Our clinical paper "Increased Neuroplastic Activity is Associated with Cognitive Decline in Women but not Men over an Average 6-year Follow-up Period" has been accepted for publication in ***Alzheimer's Research & Therapy*** <**[DOI](https://doi.org/10.1186/s13195-026-02094-5)**>. 
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Genetic Architecture of the Limbic White Matter Microstructure in Aging and Alzheimer’s Disease" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71630)**>. 
 
