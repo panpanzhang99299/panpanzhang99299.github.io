@@ -39,7 +39,7 @@ Services
 
 News
 ============
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-14-2026:**</span> Our method paper "Covariate Connectivity Combined Clustering for Weighted Networks" has been accepted for publication in ***Physica A: Statistical Mechanics and its Applications*** (in press)&.
+<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-14-2026:**</span> Our method paper "Covariate Connectivity Combined Clustering for Weighted Networks" has been accepted for publication in ***Physica A: Statistical Mechanics and its Applications*** (in press).
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**10-8-2026:**</span> Our empirical paper "Charting Cervical Spinal Cord Morphometry Across the Lifespan" has been accepted for publication in ***Human Brain Mapping*** <**[DOI](https://doi.org/10.1002/hbm.70658)**>.
 
