@@ -1,6 +1,6 @@
 \documentclass[12pt,letterpaper]{article}
 % University-required section hierarchy and entry order are preserved.
-% Journal entries are editable in cv-publications/<year>.tex.
+% Journal entries are editable in the adjacent <year>.tex files.
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage[left=.60in,right=.60in,top=.42in,bottom=.70in,includehead,headheight=15pt,headsep=12pt,footskip=25pt]{geometry}
@@ -46,9 +46,24 @@
 \newcommand{\PMIDonly}[1]{\href{https://pubmed.ncbi.nlm.nih.gov/#1/}{PMID: #1}}
 \newcommand{\PMID}[2]{\PMIDonly{#1}\quad\href{https://pmc.ncbi.nlm.nih.gov/articles/PMC#2/}{PMCID: PMC#2}}
 \newcommand{\pubids}[1]{\par\nobreak{\footnotesize #1}\par}
-\newcommand{\pubnote}[1]{\par\nobreak{\small\itshape #1}\par}
+% Contribution and honor notes: bold navy, with breathing room.
+\definecolor{cvnoteblue}{RGB}{24,62,95}
+\newcommand{\pubnote}[1]{%
+  \par\nobreak\addvspace{4pt}\nobreak%
+  {\normalsize\bfseries\color{cvnoteblue}%
+   \hypersetup{urlcolor=cvnoteblue}#1\par}%
+  \nobreak\addvspace{5pt}%
+}
 \newcommand{\pubyear}[1]{\par\addvspace{7pt}\Needspace{5\baselineskip}\noindent\textbf{#1}\par\nopagebreak}
 \newenvironment{cventry}{\begin{minipage}[t]{\linewidth}}{\end{minipage}}
+\newenvironment{pubentry}{%
+  \begingroup
+  \setlength{\parskip}{0pt}
+  \clubpenalty=10000\widowpenalty=10000\displaywidowpenalty=10000
+  \clubpenalties 2 10000 0\relax
+  \widowpenalties 2 10000 0\relax
+  \interlinepenalty=0
+}{\par\endgroup}
 \begin{document}
 \thispagestyle{empty}
 
@@ -295,96 +310,54 @@
 \par\end{cventry}
 	\end{itemize}
 
-	\Needspace{32\baselineskip}
+	\Needspace{13\baselineskip}
 \subsection*{Review Services}
 	\subsubsection*{Scientific Journals}
-	\begin{multicols}{2}\small\raggedright
-\begin{enumerate}[itemsep=2pt,topsep=2pt,leftmargin=1.65em]
-		\item\begin{cventry} Advances in Applied Probability
-\par\end{cventry}
-		\item\begin{cventry} Alcohol: Clinical and Experimental Research
-\par\end{cventry}
-		\item\begin{cventry} Alzheimer's \& Dementia
-\par\end{cventry}
-		\item\begin{cventry} Annals of Applied Statistics
-\par\end{cventry}
-		\item\begin{cventry} Applied Artificial Intelligence
-\par\end{cventry}
-		\item\begin{cventry} Annals of the Institute of Statistical Mathematics
-\par\end{cventry}
-		\item\begin{cventry} Biometrics
-\par\end{cventry}
-		\item\begin{cventry} Biostatistics
-\par\end{cventry}
-		\item\begin{cventry} BMJ Open
-\par\end{cventry}
-		\item\begin{cventry} Communications in Statistics---Theory and Methods
-\par\end{cventry}
-		\item\begin{cventry} Contemporary Clinical Trials Communications
-\par\end{cventry}
-		\item\begin{cventry} Current Developments in Nutrition
-\par\end{cventry}
-		\item\begin{cventry} Developmental Cognitive Neuroscience
-\par\end{cventry}
-		\item\begin{cventry} Environmental and Ecological Statistics
-\par\end{cventry}
-		\item\begin{cventry} Epidemiology \& Infection
-\par\end{cventry}
-		\item\begin{cventry} Frontiers in Neuroscience
-\par\end{cventry}
-		\item\begin{cventry} Human Brain Mapping
-\par\end{cventry}
-		\item\begin{cventry} Imaging Neuroscience
-\par\end{cventry}
-		\item\begin{cventry} Journal of Alzheimer's Disease
-\par\end{cventry}
-		\item\begin{cventry} Journal of Applied Probability
-\par\end{cventry}
-		\item\begin{cventry} Journal of Applied Statistics
-\par\end{cventry}
-		\item\begin{cventry} Journal of Child Psychology and Psychiatry
-\par\end{cventry}
-		\item\begin{cventry} Journal of Computational and Graphical Statistics
-\par\end{cventry}
-		\item\begin{cventry} Journal of Computational Science
-\par\end{cventry}
-		\item\begin{cventry} Journal of Data Science
-\par\end{cventry}
-		\item\begin{cventry} Journal of the American Statistical Association
-\par\end{cventry}
-		\item\begin{cventry} Methodology and Computing in Applied Probability
-\par\end{cventry}
-		\item\begin{cventry} Nature Aging
-\par\end{cventry}
-		\item\begin{cventry} Nature Communications
-\par\end{cventry}
-		\item\begin{cventry} Networks and Spatial Economics
-\par\end{cventry}
-		\item\begin{cventry} Physica A: Statistical Mechanics and its Applications
-\par\end{cventry}
-		\item\begin{cventry} Probability in Engineering and Informational Sciences
-\par\end{cventry}
-		\item\begin{cventry} Proceedings of the National Academy of Sciences of the 
-		United States of America
-\par\end{cventry}
-		\item\begin{cventry} Random Structures \& Algorithms
-\par\end{cventry}
-		\item\begin{cventry} Statistics and Its Interface
-\par\end{cventry}
-		\item\begin{cventry} Statistics in Biosciences
-\par\end{cventry}
-		\item\begin{cventry} Statistics in Medicine
-\par\end{cventry}
-		\item\begin{cventry} Statistics \& Probability Letters
-\par\end{cventry}
-		\item\begin{cventry} Stochastic Systems
-\par\end{cventry}
-		\item\begin{cventry} The Lancet Psychiatry
-\par\end{cventry}
-		\item\begin{cventry} WIREs Computational Statistics
-\par\end{cventry}
-	\end{enumerate}
-\end{multicols}
+	% Full journal-review list retained for future editing; not printed.
+% - Advances in Applied Probability
+% - Alcohol: Clinical and Experimental Research
+% - Alzheimer's \& Dementia
+% - Annals of Applied Statistics
+% - Applied Artificial Intelligence
+% - Annals of the Institute of Statistical Mathematics
+% - Biometrics
+% - Biostatistics
+% - BMJ Open
+% - Communications in Statistics---Theory and Methods
+% - Contemporary Clinical Trials Communications
+% - Current Developments in Nutrition
+% - Developmental Cognitive Neuroscience
+% - Environmental and Ecological Statistics
+% - Epidemiology \& Infection
+% - Frontiers in Neuroscience
+% - Human Brain Mapping
+% - Imaging Neuroscience
+% - Journal of Alzheimer's Disease
+% - Journal of Applied Probability
+% - Journal of Applied Statistics
+% - Journal of Child Psychology and Psychiatry
+% - Journal of Computational and Graphical Statistics
+% - Journal of Computational Science
+% - Journal of Data Science
+% - Journal of the American Statistical Association
+% - Methodology and Computing in Applied Probability
+% - Nature Aging
+% - Nature Communications
+% - Networks and Spatial Economics
+% - Physica A: Statistical Mechanics and its Applications
+% - Probability in Engineering and Informational Sciences
+% - Proceedings of the National Academy of Sciences of the United States of America
+% - Random Structures \& Algorithms
+% - Statistics and Its Interface
+% - Statistics in Biosciences
+% - Statistics in Medicine
+% - Statistics \& Probability Letters
+% - Stochastic Systems
+% - The Lancet Psychiatry
+% - WIREs Computational Statistics
+\noindent Ad hoc peer reviewer for \textbf{41 journals} spanning statistics, probability, neuroscience, and clinical research. Selected journals include \emph{Advances in Applied Probability}, \emph{Alzheimer's \& Dementia}, \emph{Annals of Applied Statistics}, \emph{Biometrics}, \emph{Biostatistics}, \emph{Journal of Computational and Graphical Statistics}, \emph{Journal of the American Statistical Association}, \emph{Nature Aging}, \emph{Nature Communications}, \emph{Proceedings of the National Academy of Sciences of the United States of America}, \emph{Statistics in Medicine}, and \emph{The Lancet Psychiatry}.\par
+
+
 	\subsubsection*{Student Paper Award Competitions}
 	\begin{enumerate}
 		\item\begin{cventry} SMI 2025
@@ -659,22 +632,24 @@
 
 	\subsection*{Peer-reviewed Conference Proceedings}
 	\begin{enumerate}
-		\item\begin{cventry} \PZ\ (2016). On terminal nodes and the degree 
+		\item\begin{pubentry} \PZ\ (2016). On terminal nodes and the degree 
 		profile of preferential dynamic attachment circuits. In 
 		\emph{Proceedings of SIAM: Thirteenth Workshop on Analytic 
 		Algorithmics and Combinatorics (ANALCO 16)}, 80--92. 
-		Arlington, VA. \MR{3480250} \DOI{10.1137/1.9781611974324.9}
-\par\end{cventry}
+		Arlington, VA. 
+\pubids{\DOI{10.1137/1.9781611974324.9}\quad \MR{3480250}}
+\par\end{pubentry}
 	\end{enumerate}
 	
 	\subsection*{Peer-reviewed Book Chapters}
 	\begin{enumerate}
-		\item\begin{cventry} \PZ\ and {Glaz, J.} (2024). ``Scan 
+		\item\begin{pubentry} \PZ\ and {Glaz, J.} (2024). ``Scan 
 		statistics on graphs and networks.'' In: Glaz, J.\ and 
 		Koutras, M. (Eds.) {\em Handbook of Scan Statistics}, 
 		507--542. Springer, New York, NY. 
-		\MR{4841264} \DOI{10.1007/978-1-4614-8033-4_43}
-\par\end{cventry}
+		
+\pubids{\DOI{10.1007/978-1-4614-8033-4_43}\quad \MR{4841264}}
+\par\end{pubentry}
 	\end{enumerate}
 	
 	\subsection*{Software}
@@ -690,12 +665,7 @@
 		1.2.3, 
 		\url{https://cran.r-project.org/web/packages/wdnet/index.html}.
 		
-		\pubnote{This package was selected as one of the 
-		``honorable mentions'' for the  
-		\href{https://community.amstat.org/jointscsg-section/awards/john-m-chambers}{John
-		 M.\ Chambers Statistical Software Award} 
-		 (\href{https://community.amstat.org/jointscsg-section/home}{ASA
-		  Section on Statistical Computing}) in 2023.}
+		\pubnote{Software honor: Honorable mention, 2023 \href{https://community.amstat.org/jointscsg-section/awards/john-m-chambers}{John M.\ Chambers Statistical Software Award} (\href{https://community.amstat.org/jointscsg-section/home}{ASA Section on Statistical Computing}).}
 \par\end{cventry}
 	  	\item\begin{cventry}{Louit, S., Yan J.} and \PZnot\ (2024). calfsbm: 
 	  	Covariate-Assisted Latent Factor Stochastic Block Model. {\tt 
