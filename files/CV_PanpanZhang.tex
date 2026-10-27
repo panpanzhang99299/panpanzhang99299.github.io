@@ -1,0 +1,964 @@
+\documentclass[12pt,letterpaper]{article}
+% University-required section hierarchy and entry order are preserved.
+% Journal entries are editable in cv-publications/<year>.tex.
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[left=.60in,right=.60in,top=.42in,bottom=.70in,includehead,headheight=15pt,headsep=12pt,footskip=25pt]{geometry}
+\usepackage{enumitem}
+\usepackage{bm}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{titlesec}
+\usepackage{needspace}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{soul}
+\definecolor{cvblue}{RGB}{28,55,78}
+\definecolor{pennblue}{RGB}{28,55,78}
+\hypersetup{colorlinks=true,urlcolor=cvblue,linkcolor=cvblue,pdftitle={Curriculum Vitae -- Panpan Zhang},pdfauthor={Panpan Zhang}}
+\urlstyle{same}
+\setlength\parindent{0pt}
+\setlength\parskip{2pt}
+\setlength\emergencystretch{2em}
+\setlength\columnsep{22pt}
+\setlength\multicolsep{4pt}
+\setlist[itemize]{leftmargin=1.35em,itemsep=4pt,topsep=4pt,parsep=1pt}
+\setlist[enumerate]{leftmargin=1.9em,labelsep=.5em,itemsep=6pt,topsep=4pt,parsep=2pt}
+\setlist[enumerate,1]{label=\arabic*.}
+\titleformat{\section}{\large\bfseries\color{cvblue}}{}{0pt}{}[\vspace{-3pt}\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{}{0pt}{}
+\titleformat{\subsubsection}{\normalsize\itshape}{}{0pt}{}
+\titlespacing*{\section}{0pt}{14pt plus 2pt minus 2pt}{7pt}
+\titlespacing*{\subsection}{0pt}{10pt plus 2pt minus 2pt}{4pt}
+\titlespacing*{\subsubsection}{0pt}{7pt plus 1pt minus 1pt}{3pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\textbf{Panpan Zhang}}
+\fancyhead[R]{\small Curriculum Vitae}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{.3pt}
+\newcommand{\PZ}{\textbf{Zhang, P.}\textsuperscript{*}}
+\newcommand{\PZnot}{\textbf{Zhang, P.}}
+\newcommand{\pennblue}[1]{\textcolor{pennblue}{#1}}
+\newcommand{\teal}[1]{\textbf{#1}}
+\newcommand{\MR}[1]{\href{https://mathscinet.ams.org/mathscinet-getitem?mr=#1}{MR#1}}
+\newcommand{\DOI}[1]{\href{https://doi.org/#1}{DOI}}
+\newcommand{\PMIDonly}[1]{\href{https://pubmed.ncbi.nlm.nih.gov/#1/}{PMID: #1}}
+\newcommand{\PMID}[2]{\PMIDonly{#1}\quad\href{https://pmc.ncbi.nlm.nih.gov/articles/PMC#2/}{PMCID: PMC#2}}
+\newcommand{\pubids}[1]{\par\nobreak{\footnotesize #1}\par}
+\newcommand{\pubnote}[1]{\par\nobreak{\small\itshape #1}\par}
+\newcommand{\pubyear}[1]{\par\addvspace{7pt}\Needspace{5\baselineskip}\noindent\textbf{#1}\par\nopagebreak}
+\newenvironment{cventry}{\begin{minipage}[t]{\linewidth}}{\end{minipage}}
+\begin{document}
+\thispagestyle{empty}
+
+	
+	\begin{center}
+    {\LARGE\bfseries Panpan Zhang}\\[5pt]
+    {\large Curriculum Vitae}\\[5pt]
+    {\small Last update: \today}
+\end{center}
+\vspace{2pt}
+
+\subsection*{Contact:}
+	Department of Biostatistics \hfill Phone: (615) 322-2001 \\
+	Vanderbilt University Medical Center \hfill Fax: (615) 343-4924 
+	\\
+	2525 West End Avenue \hfill Email: \href{mailto:panpan.zhang@vumc.org}
+	{panpan.zhang@vumc.org} \\
+	Suite 1100, Room 11128A \hfill \href{https://panpan-zhang.com/}{Personal Website} \\
+	Nashville TN 37203, U.S.A. \hfill \href{https://scholar.google.com/citations?user=XMgB5OYAAAAJ&hl=en}{Google Scholar}
+	
+	\section*{Education}
+	\begin{itemize}
+		%\item B.S. in \textbf{Mathematics}, Dong Hua University, 
+		%Shanghai, China \hfill 09/2005 -- 07/2009
+		\item\begin{cventry} M.A. in \textbf{Mathematics}, Wake Forest University, Winston-Salem, NC \hfill 08/2010 -- 05/2012 \\
+		Thesis: Statistical self-similarity in time series from financial data \& chaotic dynamical systems \\
+		{\bf Advisor:} \href{https://math.wfu.edu/jiang}{Miaohua Jiang}
+\par\end{cventry}
+		\item\begin{cventry} Ph.D. in \textbf{Statistics}, George Washington University, Washington, DC \hfill 08/2012 -- 05/2016 \\
+		Dissertation: On properties of several random networks \\
+		{\bf Advisor:} 
+		\href{https://statistics.columbian.gwu.edu/hosam-m-mahmoud}
+		{Hosam M.\ Mahmoud}
+\par\end{cventry}
+	\end{itemize}
+	\paragraph{Postgraduate training:} Department of 
+	Biostatistics, Epidemiology and Informatics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA \hfill 08/2018 -- 08/2022 \\
+	{\bf Mentor:} 
+	\href{https://www.med.upenn.edu/apps/faculty/index.php/g275/
+		p9964}{Sharon X.\ Xie} 
+	(\href{https://sites.google.com/view/sharonxielab/
+		home?authuser=0}{Sharon Xie Lab})
+	
+	\section*{Academic Appointments}
+	\begin{itemize}
+		\item\begin{cventry} {\bf Visiting Assistant Professor of Statistics,} 
+		Department of Statistics, University of Connecticut, Storrs, 
+		CT \hfill \mbox{08/2016 -- 08/2018}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Postdoctoral Researcher,} Department of 
+		Biostatistics, Epidemiology and Informatics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA \hfill 08/2018 -- 08/2022
+\par\end{cventry}
+		\item\begin{cventry} {\bf Assistant Professor of Biostatistics (tenure 
+		track),} Department of Biostatistics, Vanderbilt University 
+		School of Medicine, Nashville, TN \hfill 09/2022 -- present
+\par\end{cventry}
+		\item\begin{cventry} {\bf Assistant Professor of Neurology (secondary),} 
+		Department of Neurology, Vanderbilt University School of 
+		Medicine, Nashville, TN \hfill \mbox{09/2022 -- present}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Assistant Professor of Biostatistics (affiliate 
+		faculty),} Vanderbilt Memory \& Alzheimer's Center, 
+		Vanderbilt University Medical Center, Nashville, TN \hfill 
+		\mbox{09/2022 -- present}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Co-Leader,} Data Management \& Statistics 
+		Core, Vanderbilt Alzheimer's Disease Research Center, 
+		Vanderbilt University Medical Center, Nashville, TN \hfill 
+		\mbox{09/2024 
+		-- present}
+\par\end{cventry}
+	\end{itemize}
+
+	%% \subsection*{Other Appointments}
+		
+	\section*{Professional Organizations}
+	\begin{itemize}
+		\item\begin{cventry} {\bf Member,} American Statistical Association (ASA) \hfill 2012 -- present
+\par\end{cventry}
+		\item\begin{cventry} {\bf Member,} International Biometric Society Eastern North American Region (ENAR) \hfill 2018 -- present
+\par\end{cventry}
+		\item\begin{cventry} {\bf Member,} International Chinese Statistical Association (ICSA) \hfill 2022 -- present
+\par\end{cventry}
+		\item\begin{cventry} {\bf Member,} Institute of Mathematical Statistics (IMS) \hfill 2022 -- present
+\par\end{cventry}
+		\item\begin{cventry} {\bf Member,} Alzheimer's Association International 
+		Society to Advance Alzheimer's Research and Treatment 
+		(ISTAART) \hfill \mbox{2022 -- present}
+\par\end{cventry}
+	\end{itemize}
+
+	\section*{Professional Activities}
+	
+	\subsection*{Intramural Committees}
+	\begin{itemize}
+		\item\begin{cventry} {\bf Faculty Coordinator}, Weekly Biostatistics 
+		Seminar Series, Department of Biostatistics, Vanderbilt 
+		University School of Medicine, Nashville, TN \hfill 2023 -- 
+		2024
+\par\end{cventry}
+		\item\begin{cventry} {\bf Comprehensive Exam Committee}, Department of 
+		Biostatistics, Vanderbilt University School of Medicine, 
+		Nashville, TN \hfill 2024 -- present
+\par\end{cventry}
+		\item\begin{cventry} {\bf Biostatistics Admission Committee}, Department of 
+		Biostatistics, Vanderbilt University School of Medicine, 
+		Nashville, TN \hfill 2024 -- present
+\par\end{cventry}
+		\item\begin{cventry} {\bf Executive Committee}, Vanderbilt Alzheimer's 
+		Disease Research Center, Vanderbilt University Medical 
+		Center, Nashville, TN \hfill 2024 -- present
+\par\end{cventry}
+		\item\begin{cventry} {\bf Operations Committee}, Vanderbilt Alzheimer's 
+		Disease Research Center, Vanderbilt University Medical 
+		Center, Nashville, TN \hfill 2024 -- present
+\par\end{cventry}
+		\item\begin{cventry} {\bf Scientific Review Committee}, Vanderbilt 
+		Alzheimer's Disease Research Center, Vanderbilt University 
+		Medical Center, Nashville, TN \hfill \mbox{2024 -- present}
+\par\end{cventry}
+	\end{itemize}
+	
+	\subsection*{Extramural Committees}
+	\begin{itemize}
+		\item\begin{cventry} {\bf Student Paper/Poster Competition Committee,} New 
+		England Statistical Symposium (NESS 2019), Hartford, CT 
+		\hfill 2019
+\par\end{cventry}
+		\item\begin{cventry} {\bf Program Committee,} New England Statistical 
+		Symposium (NESS 2022), Storrs, CT \hfill 2022
+\par\end{cventry}
+		\item\begin{cventry} {\bf Publications Officer,} 
+		\href{https://www.statsinimaging.org/}{ASA Statistics in 
+		Imaging Section} \hfill \mbox{06/2023 -- 12/2026}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Early Career Representative,} Data Core Steering 
+		Committee, 
+		\href{https://naccdata.org/}{National Alzheimer's Coordinating Center} 
+		\hfill \mbox{10/2024 -- 10/2026}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Elected Member}, Scientific Review Committee, 
+		\href{https://parkinson-study-group.org/}{Parkinson Study 
+		Group} \hfill 
+		\mbox{07/2024 -- 06/2027}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Local Committee (Co-Chair),} ICSA 2024 Applied 
+		Statistics Symposium, Nashville, TN \hfill \mbox{2024}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Program Committee,} New England Statistical 
+		Symposium (NESS 2024), Storrs, CT \hfill 2024
+\par\end{cventry}
+		\item\begin{cventry} {\bf Scientific Program Committee,} ICSA 2025 
+		Applied Statistics Symposium, Storrs, CT \hfill \mbox{2025}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizing Committee (Co-Chair),} IMS Meeting of 
+		New Researchers in Statistics and Probability (New 
+		Researchers Conference [NRC 2025]), Nashville, TN \hfill 
+		2025
+\par\end{cventry}
+		\item\begin{cventry} {\bf Local Committee (Co-Chair)}, IMS Workshop on 
+		Frontiers in Statistical Machine Learning (FSML 2025), 
+		Nashville, TN \hfill 2025
+\par\end{cventry}
+		\item\begin{cventry} {\bf Technical Team Member}, 
+		\href{https://statsupai.org/}{Stats Up AI Alliance} \hfill 
+		\mbox{03/2025 -- present}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Program Chair}, 
+		\href{https://sdsaamstat.github.io/SDSA_website/}{ASA 
+		Statistics and Data Science in Aging Interest Group} 
+		\hfill {\mbox{08/2026 -- present}}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Scientific Advisory Committee,} Statistical 
+		Methods in Imaging Conference (SMI 2026), Ann Arbor, MI 
+		\hfill \mbox{2026}
+\par\end{cventry}
+	\end{itemize}
+	
+	\subsection*{Conference Organizations}
+	\begin{itemize}
+		\item\begin{cventry} {\bf Organizer and Chair,} an invited session for NESS 
+		2019, Storrs, CT
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair,} an invited session for NESS 
+		2022, Storrs, CT
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair,} an invited session for ENAR 
+		2023 Spring Meeting, Nashville, TN
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair,} an invited session for ICSA 
+		2023 Applied Statistics Symposium, Ann Arbor, MI
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair,} an invited session for WNAR 
+		2023, Anchorage, AK
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer,} an invited session for NESS 2023, 
+		Boston, MA
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair,} an invited session for ENAR 
+		2024 Spring Meeting, Baltimore, MD
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair,} three invited sessions for 
+		NESS 2024, Storrs, CT
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair,} two invited sessions for 
+		ICSA 2024 Applied Statistics Symposium, Nashville, TN
+\par\end{cventry}
+		\item\begin{cventry} {\bf Chair,} a topic-contributed session 
+		(sponsored by the ASA Statistics in Imaging Section) for JSM 
+		2024, Portland, OR
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair}, an invited session for 
+		CMStatistics 2024, London, UK
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair}, an invited session for 2025 
+		Lifetime Data Science (LiDS) Conference, Brooklyn, NY
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer}, two invited sessions for ICSA 2025 
+		Applied Statistics Symposium, Storrs, CT
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair}, an invited session for 
+		CMStatistics 2025, London, UK
+\par\end{cventry}
+		\item\begin{cventry} {\bf Organizer and Chair}, three invited sessions for 
+		2026 Statistical Learning and Data Science (SLDS) Conference,
+		Brooklyn, NY
+\par\end{cventry}
+	\end{itemize}
+	
+	% \subsection*{Review Panels for National or International Grants}
+	
+	\subsection*{Editorial Boards}
+	\begin{itemize}
+		\item\begin{cventry} \textbf{Associate Editor,} 
+		\href{https://jds-online.org/journal/JDS}{Journal of Data Science} \hfill 2020 -- present
+\par\end{cventry}
+		\item\begin{cventry} \textbf{Guest Editor,} ``Advances in Network Data 
+		Science'', \href{https://jds-online.org/journal/JDS}{Journal 
+		of Data Science} \hfill 2021
+\par\end{cventry}
+		\item\begin{cventry} \textbf{Associate Editor,}
+		\href{https://www.springer.com/journal/11009/}{Methodology 
+		and Computing in Applied Probability} \hfill 2023 -- present
+\par\end{cventry}
+	\end{itemize}
+
+	\Needspace{32\baselineskip}
+\subsection*{Review Services}
+	\subsubsection*{Scientific Journals}
+	\begin{multicols}{2}\small\raggedright
+\begin{enumerate}[itemsep=2pt,topsep=2pt,leftmargin=1.65em]
+		\item\begin{cventry} Advances in Applied Probability
+\par\end{cventry}
+		\item\begin{cventry} Alcohol: Clinical and Experimental Research
+\par\end{cventry}
+		\item\begin{cventry} Alzheimer's \& Dementia
+\par\end{cventry}
+		\item\begin{cventry} Annals of Applied Statistics
+\par\end{cventry}
+		\item\begin{cventry} Applied Artificial Intelligence
+\par\end{cventry}
+		\item\begin{cventry} Annals of the Institute of Statistical Mathematics
+\par\end{cventry}
+		\item\begin{cventry} Biometrics
+\par\end{cventry}
+		\item\begin{cventry} Biostatistics
+\par\end{cventry}
+		\item\begin{cventry} BMJ Open
+\par\end{cventry}
+		\item\begin{cventry} Communications in Statistics---Theory and Methods
+\par\end{cventry}
+		\item\begin{cventry} Contemporary Clinical Trials Communications
+\par\end{cventry}
+		\item\begin{cventry} Current Developments in Nutrition
+\par\end{cventry}
+		\item\begin{cventry} Developmental Cognitive Neuroscience
+\par\end{cventry}
+		\item\begin{cventry} Environmental and Ecological Statistics
+\par\end{cventry}
+		\item\begin{cventry} Epidemiology \& Infection
+\par\end{cventry}
+		\item\begin{cventry} Frontiers in Neuroscience
+\par\end{cventry}
+		\item\begin{cventry} Human Brain Mapping
+\par\end{cventry}
+		\item\begin{cventry} Imaging Neuroscience
+\par\end{cventry}
+		\item\begin{cventry} Journal of Alzheimer's Disease
+\par\end{cventry}
+		\item\begin{cventry} Journal of Applied Probability
+\par\end{cventry}
+		\item\begin{cventry} Journal of Applied Statistics
+\par\end{cventry}
+		\item\begin{cventry} Journal of Child Psychology and Psychiatry
+\par\end{cventry}
+		\item\begin{cventry} Journal of Computational and Graphical Statistics
+\par\end{cventry}
+		\item\begin{cventry} Journal of Computational Science
+\par\end{cventry}
+		\item\begin{cventry} Journal of Data Science
+\par\end{cventry}
+		\item\begin{cventry} Journal of the American Statistical Association
+\par\end{cventry}
+		\item\begin{cventry} Methodology and Computing in Applied Probability
+\par\end{cventry}
+		\item\begin{cventry} Nature Aging
+\par\end{cventry}
+		\item\begin{cventry} Nature Communications
+\par\end{cventry}
+		\item\begin{cventry} Networks and Spatial Economics
+\par\end{cventry}
+		\item\begin{cventry} Physica A: Statistical Mechanics and its Applications
+\par\end{cventry}
+		\item\begin{cventry} Probability in Engineering and Informational Sciences
+\par\end{cventry}
+		\item\begin{cventry} Proceedings of the National Academy of Sciences of the 
+		United States of America
+\par\end{cventry}
+		\item\begin{cventry} Random Structures \& Algorithms
+\par\end{cventry}
+		\item\begin{cventry} Statistics and Its Interface
+\par\end{cventry}
+		\item\begin{cventry} Statistics in Biosciences
+\par\end{cventry}
+		\item\begin{cventry} Statistics in Medicine
+\par\end{cventry}
+		\item\begin{cventry} Statistics \& Probability Letters
+\par\end{cventry}
+		\item\begin{cventry} Stochastic Systems
+\par\end{cventry}
+		\item\begin{cventry} The Lancet Psychiatry
+\par\end{cventry}
+		\item\begin{cventry} WIREs Computational Statistics
+\par\end{cventry}
+	\end{enumerate}
+\end{multicols}
+	\subsubsection*{Student Paper Award Competitions}
+	\begin{enumerate}
+		\item\begin{cventry} SMI 2025
+\par\end{cventry}
+		\item\begin{cventry} JSM 2025: ASA Sections on (1) Statistical Computing and 
+		(2) Statistics in Epidemiology
+\par\end{cventry}
+		\item\begin{cventry} ENAR 2026
+\par\end{cventry}
+		\item\begin{cventry} ICSA 2026
+\par\end{cventry}
+		\item\begin{cventry} JSM 2026: ASA Sections on (1) Statistics in 
+		Epidemiology and (2) Statistics in Imaging
+\par\end{cventry}
+		\item\begin{cventry} SMI 2026
+\par\end{cventry}
+		\item\begin{cventry} JSM 2027: ASA Sections on Statistics in Epidemiology
+\par\end{cventry}
+	\end{enumerate}
+	
+	\subsection*{Honors and Awards}
+	\begin{itemize}
+		\item\begin{cventry} {\bf Washington Statistical Society's Outstanding Graduate 
+		Student Award,} Washington Statistical Society, Washington, DC \hfill 
+		2015
+\par\end{cventry}
+		\item\begin{cventry} {\bf First Prize,} Graduate Student Oral Presentations, The 9th 
+		Annual Probability \& Statistics Day,  University of Maryland, 
+		Baltimore County, Baltimore, MD \hfill 2015
+\par\end{cventry}
+		\item\begin{cventry} {\bf Kullback Award,} George Washington University, Washington, 
+		DC \hfill 2016
+\par\end{cventry}
+		\item\begin{cventry} {\bf Excellence in Teaching Award,} University of 
+		Connecticut, Storrs, CT \hfill Fall 2017
+\par\end{cventry}
+		\item\begin{cventry} {\bf Excellence in Teaching Award,} University of Connecticut, 
+		Storrs, CT \hfill Spring 2018
+\par\end{cventry}
+		\item\begin{cventry} {\bf Research Education Component (REC) Scholar,} 
+		Vanderbilt Alzheimer's Disease Research Center, Nashville, 
+		TN \hfill 2025
+\par\end{cventry}
+		\item\begin{cventry} {\bf Art Wheeler Studio Award,}  Vanderbilt Institute 
+		for Clinical and Translational Research (VICTR), Nashville, 
+		TN \hfill 2025
+\par\end{cventry}
+		\item\begin{cventry} {\bf Elected Member,} 
+		\href{https://isi-web.org/}{International Statistical 
+		Institute} \hfill 2026
+\par\end{cventry}
+		\item\begin{cventry} {\bf Research Education Component (REC) Scholar,} 
+		Vanderbilt Alzheimer's Disease Research Center, Nashville, 
+		TN \hfill 2026
+\par\end{cventry}
+		\item\begin{cventry} {\bf Patrick G.\ Arbogast Collaborative Publication 
+		Award,} Department of Biostatistics, Vanderbilt University 
+		School of Medicine, Nashville, TN \hfill 2026
+\par\end{cventry}
+	\end{itemize}
+	
+	\section*{Teaching Activities}
+	
+	\subsubsection*{Wake Forest University}
+	\begin{itemize}
+		\item\begin{cventry} {\bf Teaching Assistant,} Department of Mathematics \& 
+		Statistics \hfill \mbox{09/2010 -- 05/2012}
+\par\end{cventry}
+	\end{itemize}
+	
+	\subsubsection*{George Washington University}
+	\begin{itemize}
+		\item\begin{cventry} {\bf Graduate Teaching Assistant,} Department of 
+		Statistics \hfill \mbox{01/2013 -- 05/2015}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Graduate Student Instructor,} Department of Statistics, 
+		Introduction to Statistics in Social Science (STAT 1053) \hfill 
+		\mbox{Summer 2015}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Graduate Student Instructor,} Department of Statistics, 
+		Introduction to Business and Economic Statistics (STAT 1051) \hfill 
+		\mbox{Fall 2016, Spring 2017}
+\par\end{cventry}
+	\end{itemize}
+	
+	\subsubsection*{University of Connecticut}
+	\begin{itemize}
+		\item\begin{cventry} {\bf Instructor,} Department of Statistics, Mathematical 
+		Statistics {\rm I} (STAT 3375Q, with two revision sessions per week) 
+		\hfill 
+		\mbox{Fall 2016/2017, Spring 2018}
+\par\end{cventry}
+		\item\begin{cventry} {\bf Instructor,} Department of Statistics, Mathematical 
+		Statistics {\rm II} (STAT 3445Q, with two revision sessions per week) 
+		\hfill Spring 2017
+\par\end{cventry}
+		\item\begin{cventry} {\bf Instructor,} Department of Statistics, Introduction to 
+		Statistics {\rm II} (STAT 2215Q) \hfill Spring 2018
+\par\end{cventry}
+	\end{itemize}
+	
+	\subsubsection*{Vanderbilt University Medical Center}
+	\begin{itemize}
+		\item\begin{cventry} {\bf Instructor} (co-instructed with Dr.\ Dandan Liu), 
+		Department 
+		of Biostatistics, Biostatistics {\rm I} (MSCI 5009, contact hours: 10 
+		hours per week) \hfill September 2022
+\par\end{cventry}
+		\item\begin{cventry} {\bf Instructor,} Department of Biostatistics, 
+		Advanced Concepts in Probability and Real Analysis for 
+		Biostatisticians (BIOS 7361, contact hours: 4 hours per 
+		week) \hfill Fall 2024
+\par\end{cventry}
+		\item\begin{cventry} {\bf Instructor,} Department of Biostatistics, 
+		Advanced Probability and Stochastic Processes (BIOS 8361 
+		[formerly BIOS 7361], contact hours: 4 hours per week) 
+		\hfill Fall 2025/Fall 2026
+\par\end{cventry}
+	\end{itemize}
+	
+	\subsection*{Dissertation/Thesis Defense Committees}
+	\begin{enumerate}
+		\item\begin{cventry} Yelie Yuan, Ph.D.\ candidate, Department of 
+		Statistics, University of Connecticut, 2023
+\par\end{cventry}
+		\item\begin{cventry} Siwei Zhang, Ph.D.\ candidate, Department of 
+		Biostatistics, Vanderbilt University School of Medicine, 2025
+\par\end{cventry}
+		\item\begin{cventry} Sydney Louit, Ph.D.\ candidate, Department of 
+		Statistics, University of Connecticut, 2025
+\par\end{cventry}
+		\item\begin{cventry} Haoyang Yi, Ph.D.\ candidate,  Department of 
+		Biostatistics, Vanderbilt University School of Medicine, 2027 
+		(expected)
+\par\end{cventry}
+		\item\begin{cventry} Yisu Yang, Ph.D.\ candidate, Neuroscience Graduate 
+		Program, Vanderbilt University School of Medicine, 2030 
+		(expected)
+\par\end{cventry}
+	\end{enumerate}
+	
+	\subsection*{Mentoring Activities}
+	\subsubsection*{Doctoral Students}
+	\begin{enumerate}
+		\item\begin{cventry} Zongyue Teng (co-advised by Dr.\ Dandan Liu), Ph.D., 
+		Department of Biostatistics, Vanderbilt University School of 
+		Medicine, 2029 (expected)
+\par\end{cventry}
+	\end{enumerate}
+	\subsubsection*{Master's Students}
+	\begin{enumerate}
+		\item\begin{cventry} Zongyue Teng (co-advised by Dr.\ Dandan Liu), M.S., 
+		Department of Biostatistics, Vanderbilt University School of 
+		Medicine, 2026
+		
+		{\em \underline{Capstone:}} Network Analysis of Proteomics 
+		Data in Alzheimer's Disease
+		
+		{\em \underline{First placement:}} Ph.D.\ 
+		student in Biostatistics, Vanderbilt University School of 
+		Medicine
+\par\end{cventry}
+\item\begin{cventry} Yiqing Pan, M.S., Department of Biostatistics, 
+		Vanderbilt University Medical Center, 2026
+		
+		{\em \underline{Thesis:}} Statistical and Deep Learning 
+		Methods for Missing Data in Alzheimer's Disease Research
+		
+		{\em \underline{First placement:}} Ph.D.\ 
+		student in Epidemiology and Biostatistics, Indiana 
+		University (Bloomington)
+\par\end{cventry}
+		\item\begin{cventry} Nuo Hu, M.S., Department of Biostatistics, Vanderbilt 
+		University School of Medicine, 2027 (expected)
+\par\end{cventry}
+	\end{enumerate}
+
+	\section*{Research Programs}
+	\subsection*{Present Funding}
+	\begin{enumerate}
+		\item\begin{cventry} P30AG086403 (NIA) \hfill 06/01/2025 -- 
+		03/31/2030
+		
+		{\bf PI:} Angela L.\ Jefferson
+		
+		{\bf Title:} Vanderbilt Alzheimer's Disease Research Center
+		
+		{\bf Role:} Co-Investigator
+\par\end{cventry}
+		\item\begin{cventry} R01AG089200 (NIA) \hfill 09/23/2024 -- 
+		05/31/2029
+		
+		{\bf PI:} Terrin L.\ Tamati 
+		
+		{\bf Title:} Social Networks for Optimizing Communication 
+		Ability in Adult Cochlear Implant Users
+		
+		{\bf Role:} Co-Investigator
+\par\end{cventry}
+		\item\begin{cventry} R01AG034962 (NIA) \hfill 03/15/2011 -- 03/31/2027
+		
+		{\bf PI:} Angela L.\ Jefferson
+		
+		{\bf Title:} Vanderbilt Memory \& Aging Project
+		
+		{\bf Role:} Co-Investigator
+\par\end{cventry}
+		\item\begin{cventry} U24AG074855 (NIA) \hfill 09/30/2021 -- 08/31/2027
+		
+		{\bf PI:} Timothy J.\ Hohman
+		
+		{\bf Title:} Alzheimer's Disease Sequencing Project 
+		Phenotype 
+		Harmonization Consortium
+		
+		{\bf Role:} Co-Investigator
+\par\end{cventry}
+	\end{enumerate}
+	
+	\subsection*{Completed Funding}
+	\begin{enumerate}		
+		\item\begin{cventry} R01AG062826 (NIA) \hfill 02/15/2020 -- 01/31/2025
+		
+		{\bf PI:} Katherine A.\ Gifford
+		
+		{\bf Title:} Subjective Cognitive Decline in Older Adults
+		
+		{\bf Role:} Biostatistician
+\par\end{cventry}
+		\item\begin{cventry} R01EB017230 (NIBIB) \hfill 09/20/2015 -- 06/30/2025
+		
+		{\bf PI:} Bennett A.\ Landman (Angela L.\ Jefferson [VUMC 
+		Site PI])
+		
+		{\bf Title:} Controlling Quality and Capturing Uncertainty 
+		in Advanced Diffusion Weighted MRI
+		
+		{\bf Role:} Co-Investigator
+\par\end{cventry}
+		\item\begin{cventry} P20AG068082 (NIA) \hfill 08/15/2020 -- 
+		07/31/2025
+		
+		{\bf PI:} Angela L.\ Jefferson
+		
+		{\bf Title:} Vanderbilt Alzheimer's Disease Research Center
+		
+		{\bf Role:} Co-Investigator
+\par\end{cventry}
+	\end{enumerate}
+
+	%% \subsection*{Completed Funding}
+	
+	\section*{Publications}
+	\subsection*{Peer-Reviewed Journal Publications}
+	
+	\noindent\small
+\textbf{Zhang, P.}: CV author.\quad
+\textsuperscript{*}Corresponding author.\quad
+\textsuperscript{\(\dagger\)}Student, postdoc, or trainee.
+\normalsize
+
+\input{cv-publications/2015.tex}
+\input{cv-publications/2016.tex}
+\input{cv-publications/2019.tex}
+\input{cv-publications/2020.tex}
+\input{cv-publications/2021.tex}
+\input{cv-publications/2022.tex}
+\input{cv-publications/2023.tex}
+\input{cv-publications/2024.tex}
+\input{cv-publications/2025.tex}
+\input{cv-publications/2026.tex} 
+
+	\subsection*{Peer-reviewed Conference Proceedings}
+	\begin{enumerate}
+		\item\begin{cventry} \PZ\ (2016). On terminal nodes and the degree 
+		profile of preferential dynamic attachment circuits. In 
+		\emph{Proceedings of SIAM: Thirteenth Workshop on Analytic 
+		Algorithmics and Combinatorics (ANALCO 16)}, 80--92. 
+		Arlington, VA. \MR{3480250} \DOI{10.1137/1.9781611974324.9}
+\par\end{cventry}
+	\end{enumerate}
+	
+	\subsection*{Peer-reviewed Book Chapters}
+	\begin{enumerate}
+		\item\begin{cventry} \PZ\ and {Glaz, J.} (2024). ``Scan 
+		statistics on graphs and networks.'' In: Glaz, J.\ and 
+		Koutras, M. (Eds.) {\em Handbook of Scan Statistics}, 
+		507--542. Springer, New York, NY. 
+		\MR{4841264} \DOI{10.1007/978-1-4614-8033-4_43}
+\par\end{cventry}
+	\end{enumerate}
+	
+	\subsection*{Software}
+	\begin{enumerate}
+		\item\begin{cventry}{Xiao, S., Yan, J.} and \PZnot\ (2022).
+		ionet: Network Analysis for Input-Output Tables. {\tt R} 
+		package version 0.2.2, 
+		\url{https://github.com/Carol-seven/ionet}.
+\par\end{cventry}
+		\item\begin{cventry} {Yuan, Y., Wang, T., Yan, J.} and \PZnot\ (2024). 
+		wdnet: Weighted and Directed Network. {\tt R} package 
+		version 
+		1.2.3, 
+		\url{https://cran.r-project.org/web/packages/wdnet/index.html}.
+		
+		\pubnote{This package was selected as one of the 
+		``honorable mentions'' for the  
+		\href{https://community.amstat.org/jointscsg-section/awards/john-m-chambers}{John
+		 M.\ Chambers Statistical Software Award} 
+		 (\href{https://community.amstat.org/jointscsg-section/home}{ASA
+		  Section on Statistical Computing}) in 2023.}
+\par\end{cventry}
+	  	\item\begin{cventry}{Louit, S., Yan J.} and \PZnot\ (2024). calfsbm: 
+	  	Covariate-Assisted Latent Factor Stochastic Block Model. {\tt 
+	  	R} package version 0.0.1,  
+	  	\url{https://github.com/sydneylouit539/calfsbm}.
+\par\end{cventry}
+	  	\item\begin{cventry} \PZnot, {Liu, D.} and {Neal, J.} (2024).
+	  	ppcm: Predictive Partly Conditional Model. {\tt R} package 
+	  	version 
+	  	0.0.0.1, \url{https://github.com/liud4/ppcm}.
+\par\end{cventry}
+	  	\item\begin{cventry} {Khan, O.\, A., Liu, D.}, \PZnot\ and {Vanderbilt University Medical Center} (2025). rVMAP: A 
+	  	Research Package for the Vanderbilt Memory and Aging Project 
+	  	(VMAP). {\tt R} package version 
+	  	1.5.1, \url{https://github.com/liud4/rVMAP}.
+\par\end{cventry}
+	  	\item\begin{cventry} {Xiao, S., Yan, J.} and \PZnot\ (2026). grasps: 
+	  	Groupwise Regularized Adaptive Sparse Precision Solution. 
+	  	{\tt R} package version 0.1.1, 
+	  	\url{https://cran.r-project.org/web/packages/grasps/index.html}
+\par\end{cventry}
+	\end{enumerate}
+	
+	\subsection*{Preprints}
+	\begin{enumerate}		
+		\item\begin{cventry} \PZ, {Xiao, S., Robb, W.\ H., Liu, D., Jefferson, 
+		A.\ L.} and Yan, J. (2026+). Gaussian graphical models for 
+		functional connectivity analysis: A statistical review with 
+		applications to Alzheimer's disease. {\em ArXiv preprint} 
+		(\DOI{10.48550/arXiv.2604.10249}). Revision invited by {\em 
+		Statistics and Data Science in Imaging}.
+\par\end{cventry}
+		\item\begin{cventry} {Suttner, L.\ H.,} \PZnot\ and {Xie, S. X.*} 
+		(2026+). Nonparametric estimation for time-varying missing 
+		covariates in longitudinal models. Under review. 
+		\pubnote{(Co-First 
+		Authorship: Suttner, L.\ H.\ and \PZnot)}
+\par\end{cventry}
+		\item\begin{cventry} {\teal{Teng, Z.$^\dagger$}, Yan, J.} and \PZ\ 
+		(2026+). When does the silhouette score work? A comprehensive
+		study in network clustering. {\em ArXiv preprint} 
+		(\DOI{10.48550/arXiv.2512.24841}). Under review.
+\par\end{cventry}
+		\item\begin{cventry} {\teal{Pan, Y.$^\dagger$}, Xie, S.\ X., Ma, S., 
+		Jefferson, A.\ L.} and \PZ\ (2026+). Statistical and deep 
+		learning methods for missing	covariates: A comparative review 
+		with applications to Alzheimer's disease research. Under 
+		review.
+\par\end{cventry}
+		\item\begin{cventry} {\teal{Teng, Z.$^\dagger$}, Adegboye, H.\ 
+		A., Hohman, T.\ J., Jefferson, A.\ L., Liu, D.*} and \PZ\ 
+		(2026+). SIGNET: A signed network spectral clustering method 
+		for proteomic module discovery in Alzheimer's disease. Under 
+		review.
+\par\end{cventry}
+		\item\begin{cventry} {\teal{Teng, Z.$^\dagger$}, Ma, S., Hohman, T.\ J., 
+		Jefferson, A.\ L.} and \PZ\ (2026+). Bayesian variable 
+		selection for high-dimensional predictors with missing 
+		psychometric outcomes. {\em ArXiv preprint} 
+		(\DOI{10.48550/arXiv.2609.11032}). Under review.
+\par\end{cventry}
+	\end{enumerate}
+	
+	\section*{Presentations and Posters}
+	\begin{enumerate}
+		\item\begin{cventry} Poster presenter at the 12th Graduate Student and Postdoctoral Research Day, Wake Forest University, Winston Salem, NC, 2012.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Probability Seminar, George Washington University, Washington, DC, 2014.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the GWU STAT Student Seminar, George Washington University, Washington, DC, 2014.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Seminar in Probability, Catholic University of America, Washington, DC, 2015.
+\par\end{cventry}
+		\item\begin{cventry} Contributed speaker at the 9th Annual Probability \& Statistics Day, University of Maryland at Baltimore County, Baltimore, MD, 2015.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Mathematics Department Colloquium, Wake Forest University, Winston-Salem, NC, 2015.
+\par\end{cventry}
+		\item\begin{cventry} Contributed speaker at the 11th Annual UNCG Regional Mathematics and Statistics Conference, University of North Carolina at Greensboro, Greensboro, NC, 2015.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the 13th Workshop on Analytic Algorithmics and Combinatorics (ANALCO 16), Arlington, VA, 2016.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Statistics Department Colloquium, University of Connecticut, Storrs, CT, 2016.
+\par\end{cventry}
+		\item\begin{cventry} Poster presenter at the SouthEastern Probability Conference, Duke University, Durham, NC, 2017.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the International Workshop of on 
+		Applied Probability (IWAP 2018), Budapest, Hungary, 2018.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the New England Statistical Symposium (NESS 2019), Hartford, CT, 2019.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker and short course instructor at the Virtual Conference on Data Science in Action (organized by Shanxi 	University of Finance and Economics), online, 2020.
+\par\end{cventry}
+		\item\begin{cventry} Contributed speaker at the Joint Statistical Meetings 
+		(JSM 2020), online, 2020.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at Data Science in Action in Response to the Outbreak of COVID-19 (jointly sponsored by Korea Food \& Drug Administration and	Korean Region of International Biometric Society), online, 2020.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Brown Bag Forum (organized by DBEI at Penn Medicine), online, 2021.
+\par\end{cventry}
+		\item\begin{cventry} Contributed speaker at the spring meeting of the Eastern North American Region (ENAR 2021), online, 2021.
+\par\end{cventry}
+		\item\begin{cventry} Poster presenter at the Research Day 2021 (organized by DBEI at Penn Medicine), online, 2021.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the School of Statistics Seminar, 
+		Renmin University of China, online, 2021.
+\par\end{cventry}
+		\item\begin{cventry} Guided poster presenter at the MDS Virtual Congress 
+		2021 (sponsored by International Parkinson and Movement 
+		Disorder Society), online, 2021.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Biostatistics Seminar, 
+		Vanderbilt University Medical Center, Nashville, TN, 2021.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Epidemiology and Biostatistics 
+		Seminar, Temple University, online (Philadelphia, PA), 2022.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Applied Mathematics Webinar 
+		(jointly sponsored by Imam Abdulrahman Bin Faisal University, King Saud University, Universit\'{e} de Tunis EI Manar and University of Jeddah), online, 2022.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Brown Bag Forum (organized by DBEI at Penn Medicine), online, 2022.
+\par\end{cventry}
+		\item\begin{cventry} Poster presenter at the New Researchers Conference 
+		2022 (NRC 2022, sponsored by IMS), George Mason University, 
+		Fairfax, VA, 2022.
+\par\end{cventry}
+		\item\begin{cventry} Poster presenter at the MDS International Congress 2022 (sponsored by International Parkinson and Movement Disorder Society), hybrid (Madrid, Spain), 2022.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the 4th International Conference on 
+		Statistical Distributions and Applications (ICOSDA 2022), 
+		Huntington, WV, 2022.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Statistical Methods in Imaging 
+		Conference (SMI 2023), Minneapolis, MN, 2023.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the 32nd Annual Applied Statistics 
+		Symposium for the International Chinese Statistical 
+		Association (ICSA 2023), Ann Arbor, MI, 2023.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the annual meeting of the Western 
+		North American Region (WNAR/IMS 2023), Anchorage, AK, 2023.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the 6th International Conference on 
+		Econometrics and Statistics (EcoSta 2023), hybrid (Tokyo, 
+		Japan), 2023.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the 16th International Conference 
+		of the ERCIM WG on Computational and Methodological 
+		Statistics (CMStatistics 2023), hybrid (Berlin, Germany), 
+		2023.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Applied Mathematics Seminar, 
+		Shanghai Center for Mathematical Sciences (Fudan 
+		University), Shanghai, China, 2023.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Statistics and Data Science 
+		Seminar, Auburn University, hybrid (Auburn, AL), 2024.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the 37th New England Statistics 
+		Symposium (NESS 2024), Storrs, CT, 2024. 
+		
+		\textbf{Topic:} A Bayesian model for erroneous links in 
+		functional brain networks.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Statistical Methods in Imaging 
+		Conference (SMI 2024), Indianapolis, IN, 2024. 
+		
+		\textbf{Topic:} Graph-based methods for functional brain 
+		network analysis.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the 33rd Annual Applied Statistics 
+		Symposium for the International Chinese Statistical 
+		Association (ICSA 2024), Nashville, TN, 2024. 
+		
+		\textbf{Topic:} An anchoring-event-based 
+		sigmoidal mixed model with application to Alzheimer's disease 
+		progression.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the 7th International Conference on 
+		Econometrics and Statistics (EcoSta 2024), hybrid (Beijing, 
+		China), 2024.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Advancing Brain Network 
+		Research Workshop (UNC-EPIC: NeuroConnect 2024), hybrid 
+		(Blowing Rock, NC), 2024.
+		
+		\textbf{Topic:} Analysis of functional brain networks with the
+		presence of erroneous links.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Statistical Computing Series, 
+		Vanderbilt University Medical Center, hybrid (Nashville, 
+		TN), 2024.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Bioinformatics and 
+		Biostatistics Seminar, University of Louisville, hybrid 
+		(Louisville, KY), 2024.
+		
+		\textbf{Topic:} Challenges and opportunities for longitudinal
+		analysis of neurodegenerative disorders
+\par\end{cventry}
+		\item\begin{cventry} Contributed speaker at the IMS International 
+		Conference on Statistics and Data Science (ICSDS 2024), 
+		Nice, France, 2024.
+		
+		\textbf{Topic:} Longitudinal analysis of cognitive functions 
+		in Alzheimer's disease using a novel DSMM.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Statistical Computing Series, 
+		Vanderbilt University Medical Center, hybrid (Nashville, 
+		TN), 2025.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Joint Statistical Meetings (JSM 
+		2025), Nashville, TN, 2025.	
+		
+		\textbf{Topic:} A covariate-assisted community detection 
+		algorithm applied to functional brain network data.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the 18th International Conference 
+		of the ERCIM WG on Computational and Methodological 
+		Statistics (CMStatistics 2025), hybrid (London, UK), 
+		2025.
+		
+		\textbf{Topic:} Covariate-assisted community detection for
+		functional brain networks: A variational approach
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the spring meeting of the Eastern 
+		North American Region (ENAR 2026), Indianapolis, IN, 2026.	
+		
+		\textbf{Topic:} A covariate-assisted community detection 
+		algorithm applied to functional brain network data.
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the ASA Philadelphia Chapter 
+		Webinar Series, online, 2026.
+		
+		\textbf{Topic:}  SIGNET: A signed network spectral clustering 
+		method for proteomic module discovery in Alzheimer's disease
+\par\end{cventry}
+		\item\begin{cventry} Poster presenter at the REC Poster Session, 2026 Spring 
+		ADRC Meeting, Atlanta, GA, 2026.
+		
+		\textbf{Topic:} The dynamics of cognitive decline toward 
+		Alzheimer's disease progression: Results from ADSP-PHC's 
+		harmonized cognitive composites
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Statistical Methods in Imaging 
+		Conference (SMI 2026), Ann Arbor, MI, 2026.
+		
+		\textbf{Topic:} Group-structured sparse precision matrix 
+		estimation for interpretable functional brain networks
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the 35th Annual Applied Statistics 
+		Symposium for the International Chinese Statistical 
+		Association (ICSA 2026), Arlington, VA, 2026. 
+		
+		\textbf{Topic:} Modern strategies for missing data 
+		imputation: From adaptive kNN with feature selection to deep 
+		learning models
+\par\end{cventry}
+		\item\begin{cventry} Invited speaker at the Joint Statistical Meetings (JSM 
+		2026), Boston, MA, 2026.	
+		
+		\textbf{Topic:} A Bayesian model for network analysis under 
+		edge misclassification
+\par\end{cventry}
+	\end{enumerate}
+	
+\end{document}
