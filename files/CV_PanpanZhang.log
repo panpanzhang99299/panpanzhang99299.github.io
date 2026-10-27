@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.17)  27 OCT 2026 13:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.17)  27 OCT 2026 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -529,56 +529,28 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 645.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 646.
- (cv-publications/2015.tex) (cv-publications/2016.tex)
-(cv-publications/2019.tex) (cv-publications/2020.tex [7])
-(cv-publications/2021.tex) (cv-publications/2022.tex [8])
-(cv-publications/2023.tex [9]
-LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-21.
 
-(C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmtt.fd
-File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
-(cv-publications/2024.tex) (cv-publications/2025.tex [10] [11] [12])
-(cv-publications/2026.tex [13] [14]) [15]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6
-83.
 
-(C:\Users\zhanp15\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-[16] [17] [18] [19] (CV_PanpanZhang.aux)
-Package rerunfilecheck Info: File `CV_PanpanZhang.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
+! LaTeX Error: File `2015.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.649 \input{2015.tex}
+                      ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
 Here is how much of TeX's memory you used:
- 10782 strings out of 475389
- 169613 string characters out of 2776055
+ 10490 strings out of 475389
+ 165410 string characters out of 2776055
  545689 words of memory out of 3000000
- 31747 multiletter control sequences out of 15000+600000
- 551237 words of font info for 80 fonts, out of 8000000 for 9000
+ 31651 multiletter control sequences out of 15000+600000
+ 538459 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,12n,77p,1350b,576s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
-{C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc}
-{C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.en
-c}{C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.
-enc}{C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.e
-nc}<C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10
-.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx
-12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
-bxi10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
-/lmmi12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-lm/lmr10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/lm/lmr12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/lm/lmr8.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/lm/lmri10.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/lm/lmri12.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/lm/lmsy8.pfb><C:/Users/zhanp15/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/lm/lmtt12.pfb>
-Output written on CV_PanpanZhang.pdf (19 pages, 358132 bytes).
-PDF statistics:
- 593 PDF objects out of 1000 (max. 8388607)
- 221 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 72i,12n,77p,286b,573s stack positions out of 10000i,1000n,20000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
