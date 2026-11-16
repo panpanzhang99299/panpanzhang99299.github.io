@@ -31,7 +31,7 @@ I grew up in Shanghai, China. I received M.A. in Mathematics from [Wake Forest U
 
 Services
 ============
-* I am the **Program Chair - Elect** for the [ASA Interest Group on Statistics and Data Science in Aging](https://sdsaamstat.github.io/SDSA_website/) (2026 - 2027).
+* I am the **Program Chair** for the [ASA Interest Group on Statistics and Data Science in Aging](https://sdsaamstat.github.io/SDSA_website/) (2026 - 2027).
 * I am an **Inaugural Early Career Representative** on the Data Core Steering Committee of the [National Alzheimer's Coordinating Center](https://naccdata.org/) (2024 - 2026).
 * I am the **Publications Officer** of the [ASA Statistics in Imaging Section](https://statsinimaging.github.io/) (2023 - 2025).
 * I am an **Associate Editor** of [Methodology and Computing in Applied Probability](https://www.springer.com/journal/11009) (Since 2023).
@@ -45,41 +45,6 @@ News
 
 <img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-23-2026:**</span> **Nuo (Amber) Hu** has won the 2026 **MS Excellence in Biostatistics Award** from the Department of Biostatistics, Vanderbilt University School of Medicine! *Congratulations*, ***Amber***! 
 
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-23-2026:**</span> Our collaborative work "The Dynamics of Cognitive Decline toward Alzheimer's Disease Progression: Results from ADSP‐PHC's Harmonized Cognitive Composites" (published in ***Alzheimer's & Dementia***) has won the **Patrick G. Arbogast Collaborative Publication Award** from the Department of Biostatistics, Vanderbilt University School of Medicine! This is a joint work with Drs. [Kaidi Kang](https://school.wakehealth.edu/faculty/k/kaidi-kang), [Dandan Liu](https://www.vumc.org/biostatistics/person/dandan-liu), [Tim Hohman](https://www.vumc.org/vmac/person/timothy-j-hohman-phd) and other ADSP-PHC investigators. *Congratulations*, team!
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-21-2026:**</span> Our commentary paper "Unreliability of Biomarker Research in Psychiatry" has been accepted for publication in ***JAMA Psychiatry*** (in press).
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**9-21-2026:**</span> Our empirical paper "Charting Confidence in White Matter Brain Charts: Enabling Study Planning through Stability Validation" has been accepted for publication in ***Journal of Medical Imaging*** <**[DOI](https://doi.org/10.1117/1.JMI.13.5.054001)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**8-24-2026:**</span> Our clinical paper "Arterial Spin Labeling Hemodynamic Indices Relate to Cognitive and Small Vessel Disease Trajectories Over 11 Years" has been accepted for publication in ***Stroke*** <**[DOI](https://doi.org/10.1117/1.JMI.13.5.054001)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**6-6-2026:**</span> Our clinical paper "The Role of Vascular Risk Factors in White Matter Tract Microstructure: A Multi-Cohort Study in Older Adults" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71698)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-22-2026:**</span> Our clinical paper "Increased Neuroplastic Activity is Associated with Cognitive Decline in Women but not Men over an Average 6-year Follow-up Period" has been accepted for publication in ***Alzheimer's Research & Therapy*** <**[DOI](https://doi.org/10.1186/s13195-026-02094-5)**>. 
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Genetic Architecture of the Limbic White Matter Microstructure in Aging and Alzheimer’s Disease" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71630)**>. 
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**5-11-2026:**</span> Our clinical paper "Lower Cardiac Output is a Risk Factor for Faster Cerebral Atrophy over a 11-Year Follow-Up Period in APOE-$\varepsilon$4 carriers" has been accepted for publication in ***Alzheimer's & Dementia*** <**[DOI](https://doi.org/10.1002/alz.71598)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**4-15-2026:**</span> **Zongyue Teng** will continue her Ph.D. training in the Department of Biostatistics at Vanderbilt University School of Medicine, and **Yiqing Pan** will join the Ph.D. program in the Department of Epidemiology and Biostatistics at Indiana University (Bloomington). *Congratulations*, ***Zongyue*** and ***Yiqing***!
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**4-1-2026:**</span> I was renewed as one of the **REC (Research Education Component) Scholars** from the [Vanderbilt Alzheimer’s Disease Research Center](https://www.vumc.org/vmac). 
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-26-2026:**</span> Our application paper "White Matter Microstructure and Macrostructure Brain Charts across the Human Lifespan" has been accepted for publication in ***Nature*** <**[DOI](https://doi.org/10.1038/s41586-026-10454-2)**>. 
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-19-2026:**</span> I am honored to have been elected as an **Elected Member** of the [International Statistical Institute](https://isi-web.org/) (ISI).
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**3-14-2026:**</span> Our clinical paper "Lifespan Trajectories of Asymmetry in White Matter Tracts" has been accepted for publication in ***Human Brain Mapping*** <**[DOI](https://doi.org/10.1002/hbm.70519)**>. 
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-29-2026:**</span> Our clinical paper "Posterior Communicating Artery Variation is Linked to Compromised Cerebral Hemodynamics in Middle-Aged and Older Adults" has been accepted for publication in ***Journal of Cerebral Blood Flow and Metabolism*** <**[DOI](https://doi.org/10.1177/0271678X261424053)**>. 
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-20-2026:**</span> **Zongyue Teng** won the 2nd place in the **2026 Clifford Spiegelman Student Paper Competition** sponsored by the [ASA Transportation Statistics Interest Group](https://community.amstat.org/tsig/home)! *Congratulations*, ***Zongyue***!
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**1-9-2026:**</span> I am honored to receive the 2025 **VICTR Art Wheeler Studio Award** from the Vanderbilt University Medical Center. 
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**12-16-2025:**</span> Our clinical paper "Plasma von Willebrand Factor and ADAMTS13 Interact with APOE-$\varepsilon$4 in Predicting Longitudinal Brain Atrophy and Cognitive Decline over a 9-Year Follow-Up" has been accepted for publication in ***JAHA: Journal of the American Heart Association*** <**[DOI](https://doi.org/10.1161/JAHA.125.043186)**>.
-
-<img src="https://panpan-zhang.com/images/calendar-icon.png" width="30" height="30"> <span style="color:blue; font-family:'Courier New';">**12-12-2025:**</span> I was elected to be the **Program Chair** for the [ASA Interest Group on Statistics and Data Science in Aging](https://sdsaamstat.github.io/SDSA_website/).
 
 [More News](https://panpan-zhang.com/year-archive/)
 
