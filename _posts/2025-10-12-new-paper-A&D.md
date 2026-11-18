@@ -1,6 +1,6 @@
 ---
 title: "New Paper in Alzheimer's & Dementia"
-date: 2025-08-06
+date: 2025-10-12
 permalink: /posts/2025/post-18/
 tags:
   - Alzheimer's disease
